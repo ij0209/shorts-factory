@@ -1,0 +1,34 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1
+Style: Hook,AppleMyungjo,94,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Caption,AppleMyungjo,82,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1
+Style: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:06.01,Brand,,0,0,0,,새벽한구절
+Dialogue: 0,0:00:00.00,0:01:06.01,Footer,,0,0,0,,매일 새벽 5시 · 하루를 여는 말씀 한 구절
+Dialogue: 3,0:00:00.00,0:01:06.01,Reference,,0,0,0,,{\an3\pos(980,1725)}오늘의 말씀 · 갈라디아서 6:4
+Dialogue: 1,0:00:00.70,0:00:05.53,Hook,,0,0,0,,남의 소식을 보고 내 인생만\N늦었다고 느꼈나요?
+Dialogue: 1,0:00:05.53,0:00:07.94,Caption,,0,0,0,,각각 자기의 일을 살피라
+Dialogue: 1,0:00:07.94,0:00:11.84,Caption,,0,0,0,,비교는 다른 사람의 가장\N빛나는 장면과
+Dialogue: 1,0:00:11.84,0:00:15.92,Caption,,0,0,0,,내 가장 불안한 순간을\N나란히 놓습니다.
+Dialogue: 1,0:00:15.92,0:00:21.86,Caption,,0,0,0,,그러면 이미 걸어온 길과\N오늘 맡은 몫이\N보이지 않습니다.
+Dialogue: 1,0:00:21.86,0:00:27.80,Caption,,0,0,0,,말씀은 남의 속도를 재기보다\N자기의 일을\N살피라고 합니다.
+Dialogue: 1,0:00:27.80,0:00:32.44,Caption,,0,0,0,,어제보다 조금 나아진 것,\N끝까지 책임진 일,
+Dialogue: 1,0:00:32.44,0:00:35.78,Caption,,0,0,0,,포기하지 않은 마음을\N돌아보세요.
+Dialogue: 1,0:00:35.78,0:00:38.93,Caption,,0,0,0,,하나님이 내게\N맡기신 길은 다른
+Dialogue: 1,0:00:38.93,0:00:42.64,Caption,,0,0,0,,사람의 시간표로\N평가할 수 없습니다.
+Dialogue: 1,0:00:42.64,0:00:47.84,Caption,,0,0,0,,하나님, 비교하며 작아진 제\N시선을 거두어 주세요.
+Dialogue: 1,0:00:47.84,0:00:53.41,Caption,,0,0,0,,남의 열매를 시기하지 않고\N진심으로 축복하게 해주세요.
+Dialogue: 1,0:00:53.41,0:00:59.16,Caption,,0,0,0,,제게 맡기신 자리에서 성실히\N한 걸음을 내딛게 해주세요.
+Dialogue: 1,0:01:00.06,0:01:00.36,Caption,,0,0,0,,아멘.
+Dialogue: 1,0:01:01.56,0:01:05.43,Caption,,0,0,0,,오늘 내가 충실할\N한 가지에만 마음을\N모아보세요.

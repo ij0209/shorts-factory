@@ -1,0 +1,608 @@
+{
+  "contents": [
+    {
+      "id": "life-margin-r1-grandchild-care-001",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family_relationships",
+      "categoryLabel": "가족관계",
+      "topic": "grandchild_care_boundaries",
+      "format": "wisdom_one_thought",
+      "hookType": "self_identification",
+      "experimentGroup": "life-margin-round1",
+      "hook": "손주는 예쁜데\n왜 자꾸 서운해질까요",
+      "title": "손주를 봐주고도 서운해지는 진짜 이유",
+      "narration": "손주는 예쁘지만 돌봄이 당연해지면 마음이 지칩니다. 서운함은 사랑이 부족해서가 아니라 내 수고가 보이지 않는다는 신호입니다. 가능한 시간과 어려운 일을 솔직히 말하세요. 오래 사랑하려면 내 삶의 자리도 지켜야 합니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/family-giving-001.mp3",
+      "scenes": [
+        {
+          "narration": "손주는 예쁘지만 돌봄이 당연해지면 마음이 지칩니다.",
+          "asset": "family-giving-hands-002.png"
+        },
+        {
+          "narration": "서운함은 사랑이 부족해서가 아니라",
+          "asset": "family-giving-window-001.png"
+        },
+        {
+          "narration": "내 수고가 보이지 않는다는 신호입니다.",
+          "asset": "family-giving-table-004.png"
+        },
+        {
+          "narration": "가능한 시간과 어려운 일을 솔직히 말하세요.",
+          "asset": "family-giving-walk-003.png"
+        },
+        {
+          "narration": "오래 사랑하려면 내 삶의 자리도 지켜야 합니다.",
+          "asset": "family-giving-sunset-006.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-001",
+        "phase": "round1",
+        "hypothesis": "황혼육아의 양가감정이 강한 자기 동일시를 만든다.",
+        "topicCluster": "grandchild_care",
+        "hookType": "self_identification",
+        "format": "wisdom_one_thought",
+        "targetDurationSec": 25,
+        "variable": "audience_problem"
+      },
+      "youtubeTitle": "손주를 봐주고도 서운해지는 진짜 이유 | 황혼육아 #shorts",
+      "youtubeDescription": "손주를 사랑하는 마음과 내 시간이 필요하다는 마음은 함께 존재할 수 있습니다. 오래 사랑하기 위해 필요한 황혼육아의 경계를 생각해봅니다.\n\n삶의 여백은 말하기 어려운 인생 후반의 마음을 함께 바라봅니다.\n\n#황혼육아 #손주돌봄 #가족관계 #삶의여백 #shorts",
+      "youtubeTags": [
+        "황혼육아",
+        "손주 돌봄",
+        "할머니 마음",
+        "가족 관계",
+        "육아 도움",
+        "노후 생활",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-call-hesitation-002",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family_relationships",
+      "categoryLabel": "부모자식",
+      "topic": "calling_adult_child",
+      "format": "wisdom_mini_story",
+      "hookType": "story_first",
+      "experimentGroup": "life-margin-round1",
+      "hook": "전화번호를 눌렀다가\n다시 지운 적 있나요",
+      "title": "자식에게 먼저 전화하기가 망설여지는 날",
+      "narration": "저녁이 되자 문득 아들 목소리가 듣고 싶었습니다. 전화번호를 눌렀다가 혹시 바쁠까 싶어 다시 지웠습니다. 먼저 전화하면 귀찮아할까, 기다리면 연락이 올까 마음만 오갔습니다. 그러다 짧게 문자를 보냈습니다. 시간 될 때 목소리 한번 들려줘. 그날 늦게 아들에게 전화가 왔습니다. 보고 싶은 마음을 참는 것만이 배려는 아닙니다. 대답할 여유를 남겨두고 가볍게 마음을 전하는 것도 어른의 사랑입니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/relationships-no-contact-001.mp3",
+      "scenes": [
+        {
+          "narration": "저녁이 되자 문득 아들 목소리가 듣고 싶었습니다.",
+          "asset": "no-contact-window-002.png"
+        },
+        {
+          "narration": "전화번호를 눌렀다가 혹시 바쁠까 싶어 다시 지웠습니다.",
+          "asset": "no-contact-phone-001.png"
+        },
+        {
+          "narration": "먼저 전화하면 귀찮아할까, 기다리면 연락이 올까 마음만 오갔습니다.",
+          "asset": "no-contact-bench-004.png"
+        },
+        {
+          "narration": "그러다 짧게 문자를 보냈습니다. 시간 될 때 목소리 한번 들려줘.",
+          "asset": "no-contact-city-003.png"
+        },
+        {
+          "narration": "그날 늦게 아들에게 전화가 왔습니다.",
+          "asset": "no-contact-lights-006.png"
+        },
+        {
+          "narration": "보고 싶은 마음을 참는 것만이 배려는 아닙니다. 대답할 여유를 남겨두고 가볍게 마음을 전하는 것도 어른의 사랑입니다.",
+          "asset": "no-contact-teacups-005.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-002",
+        "phase": "round1",
+        "hypothesis": "전화 버튼을 지우는 구체적인 장면이 조언형보다 시청 지속을 높인다.",
+        "topicCluster": "parent_child_contact",
+        "hookType": "story_first",
+        "format": "wisdom_mini_story",
+        "targetDurationSec": 50,
+        "variable": "story_first"
+      },
+      "youtubeTitle": "자식에게 먼저 전화하기가 망설여지는 날 | 부모 마음 #shorts",
+      "youtubeDescription": "자식 목소리가 듣고 싶지만 바쁠까 봐 전화하지 못했던 부모의 마음을 담았습니다. 기다리기만 하지 않고 부담 없이 마음을 전하는 방법을 생각해봅니다.\n\n#부모자식 #부모마음 #가족관계 #삶의여백 #shorts",
+      "youtubeTags": [
+        "부모 마음",
+        "자식 연락",
+        "부모 자식 관계",
+        "성인 자녀",
+        "가족 관계",
+        "노후 외로움",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-retired-couple-003",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "later_life",
+      "categoryLabel": "부부관계",
+      "topic": "retired_couple_space",
+      "format": "wisdom_narration",
+      "hookType": "reality_gap",
+      "experimentGroup": "life-margin-round1",
+      "hook": "퇴직하면 더 가까워질 줄\n알았습니다",
+      "title": "은퇴 후 부부가 하루 종일 붙어 있으면 힘든 이유",
+      "narration": "퇴직하면 부부가 함께할 시간이 많아져 더 가까워질 줄 알았습니다. 그런데 사소한 생활 습관이 눈에 들어오고 서로의 하루를 간섭하게 되면 집이 답답해질 수 있습니다. 사랑이 식어서가 아닙니다. 각자 지켜오던 생활의 리듬이 갑자기 겹쳤기 때문입니다. 하루 중 잠시라도 각자의 시간과 자리를 만들어보세요. 함께 있는 시간보다 서로를 기다릴 시간이 있을 때 대화도 다시 반가워집니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/retirement-letting-go-001.mp3",
+      "scenes": [
+        {
+          "narration": "퇴직하면 부부가 함께할 시간이 많아져 더 가까워질 줄 알았습니다.",
+          "asset": "retirement-lettinggo-room-001.png"
+        },
+        {
+          "narration": "그런데 사소한 생활 습관이 눈에 들어오고 서로의 하루를 간섭하게 되면 집이 답답해질 수 있습니다.",
+          "asset": "retirement-lettinggo-hands-003.png"
+        },
+        {
+          "narration": "사랑이 식어서가 아닙니다. 각자 지켜오던 생활의 리듬이 갑자기 겹쳤기 때문입니다.",
+          "asset": "retirement-lettinggo-leaves-002.png"
+        },
+        {
+          "narration": "하루 중 잠시라도 각자의 시간과 자리를 만들어보세요.",
+          "asset": "retirement-lettinggo-bench-004.png"
+        },
+        {
+          "narration": "함께 있는 시간보다 서로를 기다릴 시간이 있을 때 대화도 다시 반가워집니다.",
+          "asset": "retirement-lettinggo-field-005.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-003",
+        "phase": "round1",
+        "hypothesis": "은퇴 후 부부의 현실적인 공간 문제가 부모자식 외의 핵심 축이 된다.",
+        "topicCluster": "retired_couple",
+        "hookType": "reality_gap",
+        "format": "wisdom_narration",
+        "targetDurationSec": 45,
+        "variable": "audience_problem"
+      },
+      "youtubeTitle": "은퇴 후 부부가 하루 종일 붙어 있으면 힘든 이유 #shorts",
+      "youtubeDescription": "은퇴 후 갑자기 함께 있는 시간이 늘어난 부부에게는 각자의 생활 리듬도 필요합니다. 사랑과 개인적인 공간이 함께 갈 수 있는 방법을 생각해봅니다.\n\n#은퇴생활 #부부관계 #황혼부부 #삶의여백 #shorts",
+      "youtubeTags": [
+        "은퇴 후 부부",
+        "황혼 부부",
+        "부부 관계",
+        "퇴직 후 생활",
+        "노후 생활",
+        "부부 갈등",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-money-boundary-004",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family_relationships",
+      "categoryLabel": "가족과 돈",
+      "topic": "adult_child_financial_support",
+      "format": "wisdom_one_thought",
+      "hookType": "boundary",
+      "experimentGroup": "life-margin-round1",
+      "hook": "자식에게 돈을 주기 전\n먼저 정해야 할 것",
+      "title": "자식에게 돈을 주기 전에 먼저 정해야 할 것",
+      "narration": "자식이 어렵다면 내어주고 싶은 것이 부모 마음입니다. 하지만 도움과 책임은 다릅니다. 돈을 주기 전, 돌려받지 않아도 괜찮은지 내 노후가 흔들리지 않는지 먼저 보세요. 내 삶을 지키는 것은 자식을 외면하는 일이 아닙니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/family-giving-001.mp3",
+      "scenes": [
+        {
+          "narration": "자식이 어렵다고 하면 가진 것을 내어주고 싶은 것이 부모 마음입니다.",
+          "asset": "family-giving-hands-002.png"
+        },
+        {
+          "narration": "하지만 도와주고 싶은 마음과 계속 책임져야 한다는 의무는 다릅니다.",
+          "asset": "family-giving-window-001.png"
+        },
+        {
+          "narration": "돈을 건네기 전에 돌려받지 않아도 괜찮은지, 내 노후가 흔들리지 않는지 먼저 생각하세요.",
+          "asset": "family-giving-table-004.png"
+        },
+        {
+          "narration": "부모가 자신의 삶을 지키는 것은 자식을 외면하는 일이 아닙니다.",
+          "asset": "family-giving-walk-003.png"
+        },
+        {
+          "narration": "오래 돕기 위해서라도 도움의 한계를 정해야 합니다.",
+          "asset": "family-giving-sunset-006.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-004",
+        "phase": "round1",
+        "hypothesis": "금융 조언이 아닌 돈과 가족의 경계가 높은 관심을 만든다.",
+        "topicCluster": "family_money_boundary",
+        "hookType": "boundary",
+        "format": "wisdom_one_thought",
+        "targetDurationSec": 28,
+        "variable": "audience_problem"
+      },
+      "youtubeTitle": "자식에게 돈을 주기 전에 먼저 정해야 할 것 | 부모의 노후 #shorts",
+      "youtubeDescription": "자식을 돕고 싶은 마음과 부모의 노후를 지키는 일은 함께 생각해야 합니다. 구체적인 금융 조언이 아닌 가족 사이 도움의 경계를 이야기합니다.\n\n#부모자식 #노후준비 #가족과돈 #삶의여백 #shorts",
+      "youtubeTags": [
+        "자식 경제 지원",
+        "부모 노후",
+        "가족과 돈",
+        "부모 자식 관계",
+        "노후 준비",
+        "가족 관계",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-health-talk-005",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "later_life",
+      "categoryLabel": "부모의 마음",
+      "topic": "telling_children_about_health",
+      "format": "wisdom_narration",
+      "hookType": "dilemma",
+      "experimentGroup": "life-margin-round1",
+      "hook": "아픈 이야기를 자식에게\n어디까지 해야 할까요",
+      "title": "아픈 이야기를 자식에게 어디까지 해야 할까",
+      "narration": "몸이 불편해도 자식이 걱정할까 말하지 못하는 부모가 많습니다. 사소한 증상까지 모두 알리자니 부담을 주는 것 같고, 숨기자니 너무 늦게 말하게 될까 걱정됩니다. 모든 불안을 대신 짊어지게 할 필요는 없지만 필요한 사실까지 감출 필요도 없습니다. 지금 어떤 상태인지, 무엇을 확인했고, 어떤 도움이 필요한지를 차분히 말해보세요. 걱정을 전하는 대신 정보를 나누면 자식도 부모도 조금 덜 불안해집니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/mind-worry-001.mp3",
+      "scenes": [
+        {
+          "narration": "몸이 불편해도 자식이 걱정할까 말하지 못하는 부모가 많습니다.",
+          "asset": "mind-worry-rain-window-001.png"
+        },
+        {
+          "narration": "사소한 증상까지 모두 알리자니 부담을 주는 것 같고, 숨기자니 너무 늦게 말하게 될까 걱정됩니다.",
+          "asset": "mind-worry-clouds-002.png"
+        },
+        {
+          "narration": "모든 불안을 대신 짊어지게 할 필요는 없지만 필요한 사실까지 감출 필요도 없습니다.",
+          "asset": "mind-worry-cup-003.png"
+        },
+        {
+          "narration": "지금 어떤 상태인지, 무엇을 확인했고, 어떤 도움이 필요한지를 차분히 말해보세요.",
+          "asset": "mind-worry-desk-004.png"
+        },
+        {
+          "narration": "걱정을 전하는 대신 정보를 나누면 자식도 부모도 조금 덜 불안해집니다.",
+          "asset": "mind-worry-dawn-006.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-005",
+        "phase": "round1",
+        "hypothesis": "건강 정보가 아닌 건강 문제 속 부모 감정이 공감을 만든다.",
+        "topicCluster": "health_family_communication",
+        "hookType": "dilemma",
+        "format": "wisdom_narration",
+        "targetDurationSec": 45,
+        "variable": "audience_problem"
+      },
+      "youtubeTitle": "아픈 이야기를 자식에게 어디까지 해야 할까 | 부모 마음 #shorts",
+      "youtubeDescription": "자식을 걱정시키고 싶지 않아 몸이 아픈 사실을 숨긴 적이 있나요. 부담을 떠넘기지 않으면서 필요한 사실을 나누는 방법을 생각해봅니다. 의료적 진단이나 치료 조언을 다루는 영상은 아닙니다.\n\n#부모마음 #부모자식 #노후생활 #삶의여백 #shorts",
+      "youtubeTags": [
+        "부모 건강",
+        "부모 마음",
+        "자식 걱정",
+        "부모 자식 대화",
+        "노후 생활",
+        "가족 관계",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-sibling-care-006",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family_relationships",
+      "categoryLabel": "형제관계",
+      "topic": "sibling_parent_care",
+      "format": "wisdom_mini_story",
+      "hookType": "hidden_emotion",
+      "experimentGroup": "life-margin-round1",
+      "hook": "부모 병원비보다 먼저\n서운했던 것이 있습니다",
+      "title": "부모 병원비 앞에서 형제 사이가 멀어지는 이유",
+      "narration": "어머니가 입원하자 형제들은 병원비를 어떻게 나눌지 이야기했습니다. 한 사람은 돈을 더 냈고, 다른 사람은 병원을 오가며 곁을 지켰습니다. 그런데 서로는 자신만 더 많이 희생한다고 느꼈습니다. 갈등의 시작은 돈이 아니라 내 수고를 아무도 알아주지 않는다는 서운함이었습니다. 부모를 돌보는 일에는 돈과 시간, 마음이 함께 들어갑니다. 금액만 나누기 전에 각자가 할 수 있는 일과 하기 어려운 일을 먼저 말해보세요. 똑같이 나누는 것보다 서로의 몫을 보이게 만드는 것이 형제 사이를 지킵니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/inlaw-holiday-hurt-001.mp3",
+      "scenes": [
+        {
+          "narration": "어머니가 입원하자 형제들은 병원비를 어떻게 나눌지 이야기했습니다.",
+          "asset": "r1-sibling-hospital-001.png"
+        },
+        {
+          "narration": "한 사람은 돈을 더 냈고, 다른 사람은 병원을 오가며 곁을 지켰습니다.",
+          "asset": "r1-sibling-corridor-002.png"
+        },
+        {
+          "narration": "그런데 서로는 자신만 더 많이 희생한다고 느꼈습니다.",
+          "asset": "r1-sibling-distance-003.png"
+        },
+        {
+          "narration": "갈등의 시작은 돈이 아니라 내 수고를 아무도 알아주지 않는다는 서운함이었습니다.",
+          "asset": "r1-sibling-hands-004.png"
+        },
+        {
+          "narration": "부모를 돌보는 일에는 돈과 시간, 마음이 함께 들어갑니다. 금액만 나누기 전에 각자가 할 수 있는 일과 하기 어려운 일을 먼저 말해보세요.",
+          "asset": "r1-sibling-table-005.png"
+        },
+        {
+          "narration": "똑같이 나누는 것보다 서로의 몫을 보이게 만드는 것이 형제 사이를 지킵니다.",
+          "asset": "r1-sibling-walk-006.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-006",
+        "phase": "round1",
+        "hypothesis": "부모 돌봄 갈등을 돈보다 인정받지 못한 수고로 풀 때 공감이 높다.",
+        "topicCluster": "sibling_parent_care",
+        "hookType": "hidden_emotion",
+        "format": "wisdom_mini_story",
+        "targetDurationSec": 55,
+        "variable": "audience_problem"
+      },
+      "youtubeTitle": "부모 병원비 앞에서 형제 사이가 멀어지는 이유 #shorts",
+      "youtubeDescription": "부모를 돌보는 일에는 병원비뿐 아니라 시간과 마음도 들어갑니다. 서로 다른 수고를 보지 못할 때 생기는 형제의 서운함을 이야기합니다.\n\n#형제갈등 #부모부양 #가족관계 #삶의여백 #shorts",
+      "youtubeTags": [
+        "형제 갈등",
+        "부모 병원비",
+        "부모 부양",
+        "형제 관계",
+        "가족 간병",
+        "가족 관계",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-tiring-friend-007",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "relationships",
+      "categoryLabel": "인간관계",
+      "topic": "tiring_old_friend",
+      "format": "wisdom_one_thought",
+      "hookType": "permission",
+      "experimentGroup": "life-margin-round1",
+      "hook": "만나고 오면 더 피곤한\n친구가 있나요",
+      "title": "나이 들수록 만나고 나면 더 피곤한 친구가 있습니다",
+      "narration": "오래된 친구를 만나고 돌아와 마음이 더 무거울 때가 있습니다. 오래 알았다는 이유만으로 모든 만남을 이어갈 필요는 없습니다. 나를 자꾸 작아지게 하는 관계라면 거리를 조절해도 괜찮습니다. 내 마음의 여백도 관계의 일부입니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/relationships-ending-001.mp3",
+      "scenes": [
+        {
+          "narration": "오래된 친구를 만나고 돌아왔는데 마음이 더 무거울 때가 있습니다.",
+          "asset": "relationships-ending-chair-002.png"
+        },
+        {
+          "narration": "오래 알았다는 이유만으로 모든 만남을 계속할 필요는 없습니다.",
+          "asset": "relationships-ending-tracks-003.png"
+        },
+        {
+          "narration": "나를 자꾸 작아지게 하거나 만날 때마다 상처를 남기는 관계라면 횟수와 거리를 조절해도 괜찮습니다.",
+          "asset": "relationships-ending-window-005.png"
+        },
+        {
+          "narration": "인연을 끊으라는 뜻이 아닙니다.",
+          "asset": "relationships-ending-river-004.png"
+        },
+        {
+          "narration": "내 마음이 회복될 여백을 남기는 것도 관계를 오래 지키는 방법입니다.",
+          "asset": "relationships-ending-sea-006.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-007",
+        "phase": "round1",
+        "hypothesis": "외로움보다 관계를 선택할 권리가 강한 공감을 만든다.",
+        "topicCluster": "friendship_aging",
+        "hookType": "permission",
+        "format": "wisdom_one_thought",
+        "targetDurationSec": 28,
+        "variable": "audience_problem"
+      },
+      "youtubeTitle": "나이 들수록 만나고 나면 더 피곤한 친구가 있습니다 #shorts",
+      "youtubeDescription": "오래된 친구라도 만난 뒤 마음이 계속 무겁다면 관계의 거리를 조절해도 괜찮습니다. 끊어냄이 아닌 건강한 여백을 이야기합니다.\n\n#친구관계 #인간관계 #노후생활 #삶의여백 #shorts",
+      "youtubeTags": [
+        "나이 들수록 친구",
+        "친구 관계",
+        "인간 관계",
+        "관계 거리두기",
+        "노후 인간관계",
+        "마음 정리",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-inlaw-words-008",
+      "contentType": "life-margin-micro-text",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family_relationships",
+      "topic": "comfortable_inlaw_words",
+      "format": "wisdom_loop_card",
+      "hookType": "practical_list",
+      "experimentGroup": "life-margin-round1",
+      "durationVariant": 10,
+      "title": "며느리와 편안하려면\n줄여야 할 말",
+      "items": [
+        "우리 아들은 원래 그래",
+        "내가 너희 때는 말이야",
+        "아이를 그렇게 키우니",
+        "이번에도 못 오는 거니",
+        "내가 다 너희 생각해서"
+      ],
+      "experiment": {
+        "id": "LM-R1-008",
+        "phase": "round1",
+        "hypothesis": "순한 고부관계의 짧은 실천 목록이 반복 시청을 만든다.",
+        "topicCluster": "mother_in_law_relationship",
+        "hookType": "practical_list",
+        "format": "wisdom_loop_card",
+        "targetDurationSec": 10,
+        "variable": "format"
+      },
+      "youtubeTitle": "며느리와 오래 편안하려면 줄여야 할 말 5가지 #shorts",
+      "youtubeDescription": "가까운 가족일수록 좋은 뜻으로 한 말도 부담이 될 수 있습니다. 며느리와 오래 편안한 관계를 위해 줄이면 좋은 말을 돌아봅니다.\n\n#고부관계 #며느리 #가족관계 #삶의여백 #shorts",
+      "youtubeTags": [
+        "고부 관계",
+        "며느리 관계",
+        "시어머니 며느리",
+        "가족 대화",
+        "부모 자식 관계",
+        "말의 힘",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-eating-alone-009",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "later_life",
+      "categoryLabel": "혼자 사는 마음",
+      "topic": "dignified_solo_meal",
+      "format": "wisdom_letter",
+      "hookType": "positive_reframe",
+      "experimentGroup": "life-margin-round1",
+      "hook": "혼자 먹는 밥이\n초라한 것은 아닙니다",
+      "title": "혼자 밥 먹는 시간이 쓸쓸하지 않게 되는 순간",
+      "narration": "혼자 밥을 먹는 날이 많아진 당신에게. 누군가와 함께하지 않는다고 오늘의 식사가 초라한 것은 아닙니다. 대충 한 끼를 때우며 나 자신을 아무렇게나 대할 때 마음까지 쓸쓸해집니다. 작은 그릇이라도 정갈하게 놓고 좋아하는 반찬 하나를 꺼내세요. 식탁은 누군가를 대접하는 자리이기 전에 오늘을 살아낸 나를 돌보는 자리입니다. 혼자 있는 시간을 잘 대하는 사람은 자신의 삶을 외롭게 버려두지 않습니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/solitude-comfort-001.mp3",
+      "scenes": [
+        {
+          "narration": "혼자 밥을 먹는 날이 많아진 당신에게.",
+          "asset": "solitude-comfort-window-001.png"
+        },
+        {
+          "narration": "누군가와 함께하지 않는다고 오늘의 식사가 초라한 것은 아닙니다.",
+          "asset": "solitude-comfort-cafe-002.png"
+        },
+        {
+          "narration": "대충 한 끼를 때우며 나 자신을 아무렇게나 대할 때 마음까지 쓸쓸해집니다.",
+          "asset": "solitude-comfort-tea-005.png"
+        },
+        {
+          "narration": "작은 그릇이라도 정갈하게 놓고 좋아하는 반찬 하나를 꺼내세요.",
+          "asset": "solitude-comfort-reading-003.png"
+        },
+        {
+          "narration": "식탁은 누군가를 대접하는 자리이기 전에 오늘을 살아낸 나를 돌보는 자리입니다.",
+          "asset": "solitude-comfort-walk-004.png"
+        },
+        {
+          "narration": "혼자 있는 시간을 잘 대하는 사람은 자신의 삶을 외롭게 버려두지 않습니다.",
+          "asset": "solitude-comfort-evening-006.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-009",
+        "phase": "round1",
+        "hypothesis": "외로움을 생활의 존엄으로 전환하는 편지 형식이 저장과 공유를 만든다.",
+        "topicCluster": "solitude_daily_life",
+        "hookType": "positive_reframe",
+        "format": "wisdom_letter",
+        "targetDurationSec": 42,
+        "variable": "format"
+      },
+      "youtubeTitle": "혼자 밥 먹는 시간이 쓸쓸하지 않게 되는 순간 #shorts",
+      "youtubeDescription": "혼자 먹는 식사도 오늘을 살아낸 나를 돌보는 시간이 될 수 있습니다. 혼자 있는 생활의 존엄과 따뜻함을 이야기합니다.\n\n#혼자사는삶 #노후생활 #외로움 #삶의여백 #shorts",
+      "youtubeTags": [
+        "혼자 밥 먹기",
+        "혼자 사는 삶",
+        "노후 생활",
+        "외로움",
+        "혼밥",
+        "마음 돌봄",
+        "삶의여백",
+        "shorts"
+      ]
+    },
+    {
+      "id": "life-margin-r1-visit-boundary-010",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family_relationships",
+      "categoryLabel": "부모자식",
+      "topic": "adult_child_home_visit",
+      "format": "wisdom_one_thought",
+      "hookType": "reframe",
+      "experimentGroup": "life-margin-round1",
+      "hook": "가족이라서 더\n먼저 물어야 합니다",
+      "title": "자식 집에 갈 때 먼저 물어보면 달라지는 것",
+      "narration": "가족인데 매번 물어야 하나 서운할 수 있습니다. 하지만 먼저 묻는 것은 허락이 아니라 서로의 하루를 존중하는 일입니다. 오늘 가도 괜찮니, 짧게 물어보세요. 가족이라서 더 물을 때 만남은 오래 편안해집니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/inlaw-visit-first-001.mp3",
+      "scenes": [
+        {
+          "narration": "가족인데 찾아갈 때마다 허락을 구해야 하나 서운할 수 있습니다.",
+          "asset": "inlaw-visit-door-001.png"
+        },
+        {
+          "narration": "하지만 먼저 묻는 것은 허락을 받는 일이 아니라 서로의 하루를 존중하는 일입니다.",
+          "asset": "inlaw-visit-calendar-002.png"
+        },
+        {
+          "narration": "오늘 가도 괜찮니, 짧게 물어보세요.",
+          "asset": "inlaw-visit-message-003.png"
+        },
+        {
+          "narration": "자식에게는 준비할 여유가 생기고 부모에게는 반갑게 맞아주는 시간이 돌아옵니다.",
+          "asset": "inlaw-visit-preparing-005.png"
+        },
+        {
+          "narration": "가족이라서 묻지 않아도 되는 것이 아니라 가족이라서 더 물어야 오래 편안합니다.",
+          "asset": "inlaw-visit-warm-table-006.png"
+        }
+      ],
+      "experiment": {
+        "id": "LM-R1-010",
+        "phase": "round1",
+        "hypothesis": "기존 반응 소재를 더 짧고 강한 관점으로 재구성하면 성과가 재현된다.",
+        "topicCluster": "parent_child_distance",
+        "hookType": "reframe",
+        "format": "wisdom_one_thought",
+        "targetDurationSec": 27,
+        "variable": "duration_hook",
+        "variantOf": "life-margin-inlaw-visit-first-001"
+      },
+      "youtubeTitle": "자식 집에 갈 때 먼저 물어보면 달라지는 것 #shorts",
+      "youtubeDescription": "가까운 가족일수록 서로의 하루를 먼저 묻는 작은 배려가 필요합니다. 자식 집 방문 전 짧은 연락이 관계를 어떻게 편안하게 만드는지 이야기합니다.\n\n#부모자식 #가족의경계 #고부관계 #삶의여백 #shorts",
+      "youtubeTags": [
+        "자식 집 방문",
+        "부모 자식 관계",
+        "가족의 경계",
+        "고부 관계",
+        "가족 관계",
+        "부모의 지혜",
+        "삶의여백",
+        "shorts"
+      ]
+    }
+  ]
+}

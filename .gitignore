@@ -1,0 +1,34 @@
+.env
+.env.*
+!.env.example
+.youtube-token*.json
+node_modules/
+.DS_Store
+
+# Rendered and generated media stay local. Git stores recipes and metadata only.
+output/
+temp/
+audio/
+public/generated/
+public/music/
+assets/audio/
+assets/backgrounds/
+assets/broll/
+assets/video/
+projects/**/audio/
+*.mp3
+*.wav
+*.pcm
+*.mp4
+*.mov
+*.m4a
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Runtime files
+logs/
+*.log
+*.tmp
+data/*.tmp

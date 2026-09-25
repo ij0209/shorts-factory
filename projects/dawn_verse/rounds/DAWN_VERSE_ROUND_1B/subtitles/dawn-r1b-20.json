@@ -1,0 +1,104 @@
+[
+  {
+    "type": "hook",
+    "text": "붙잡고 싶은 한 계절이 끝나가고 있나요?",
+    "start": 0.7,
+    "end": 4.75
+  },
+  {
+    "type": "verse",
+    "text": "천하에 범사가 기한이 있고",
+    "start": 4.75,
+    "end": 7.32
+  },
+  {
+    "type": "reflection",
+    "text": "익숙한 역할이 끝나면",
+    "start": 7.32,
+    "end": 9.35
+  },
+  {
+    "type": "reflection",
+    "text": "내가 사라지는 것처럼 느껴질 수 있습니다.",
+    "start": 9.35,
+    "end": 13.58
+  },
+  {
+    "type": "reflection",
+    "text": "그러나 한 시기의 끝은 그동안의",
+    "start": 13.58,
+    "end": 16.71
+  },
+  {
+    "type": "reflection",
+    "text": "수고가 헛되었다는 뜻이 아닙니다.",
+    "start": 16.71,
+    "end": 20.02
+  },
+  {
+    "type": "reflection",
+    "text": "그 계절이 남긴 열매를 감사히 돌아보고,",
+    "start": 20.02,
+    "end": 24.07
+  },
+  {
+    "type": "reflection",
+    "text": "이제 놓아야 할 이름과 책임을 천천히 내려놓으세요.",
+    "start": 24.07,
+    "end": 29.22
+  },
+  {
+    "type": "reflection",
+    "text": "다음 계절은 이전과 같은 모습일 필요가 없습니다.",
+    "start": 29.22,
+    "end": 34.19
+  },
+  {
+    "type": "reflection",
+    "text": "하나님은 달라진 자리에서도 새로운",
+    "start": 34.19,
+    "end": 37.5
+  },
+  {
+    "type": "reflection",
+    "text": "사랑과 섬김의 길을 보여주십니다.",
+    "start": 37.5,
+    "end": 40.81
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 지나간 계절을 억지로 붙잡지 않게 해주세요.",
+    "start": 40.81,
+    "end": 46.14
+  },
+  {
+    "type": "prayer",
+    "text": "기쁨과 아쉬움을 모두 품고 감사히 보내게 해주세요.",
+    "start": 46.14,
+    "end": 51.3
+  },
+  {
+    "type": "prayer",
+    "text": "새로 열린 시간 속에서 제가 사랑하고",
+    "start": 51.3,
+    "end": 54.98
+  },
+  {
+    "type": "prayer",
+    "text": "섬길 다음 자리를 발견하게 해주세요.",
+    "start": 54.98,
+    "end": 58.66
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 59.56,
+    "end": 59.81
+  },
+  {
+    "type": "cta",
+    "text": "내일도 새벽 한 구절로 새로운 하루를 시작하세요.",
+    "start": 61.01,
+    "end": 65.43
+  }
+]

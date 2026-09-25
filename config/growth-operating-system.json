@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "focusChannel": "life-margin",
+  "northStar": "반복해서 찾아오는 신뢰 독자와 첫 유료 수요 신호",
+  "constraints": {
+    "maxActiveGrowthChannels": 1,
+    "maxWeeklyOperatorHours": 3,
+    "newChannelGate": {
+      "subscribers": 100,
+      "provenTopicClusters": 3,
+      "paidCustomers": 1
+    }
+  },
+  "formatRoles": {
+    "standardShort": {
+      "role": "공감·구독·주제 검증",
+      "targetShare": 0.7
+    },
+    "microShort": {
+      "role": "도달과 훅 실험 전용",
+      "targetShare": 0.2,
+      "maxPerWeek": 2
+    },
+    "longform": {
+      "role": "신뢰·시청시간·깊이",
+      "targetShare": 0.1,
+      "cadence": "수요일 주 1편",
+      "requiresProvenShort": true
+    }
+  },
+  "decisionGates": {
+    "topicWinner": {
+      "minimumPublishedVideos": 3,
+      "minimumMedianViewsVsChannel": 1.5,
+      "minimumLikeRate": 0.01
+    },
+    "longformCandidate": {
+      "minimumViews": 1000,
+      "orMinimumViews": 300,
+      "orMinimumLikeRate": 0.015
+    },
+    "pauseTopic": {
+      "minimumTests": 2,
+      "maximumMedianViewsVsChannel": 0.5,
+      "maximumLikeRate": 0.005
+    },
+    "buildPaidProduct": {
+      "minimumExplicitRequests": 20,
+      "orMinimumPreorders": 5
+    }
+  },
+  "growthFunnel": [
+    "youtube_reach",
+    "engaged_view",
+    "subscriber_or_returning_viewer",
+    "owned_audience_opt_in",
+    "paid_demand",
+    "repeatable_revenue"
+  ],
+  "monetizationExperiments": [
+    {
+      "stage": 1,
+      "name": "수요 질문",
+      "offer": "상처 없이 말하는 문장 모음이 필요하신지 댓글·설명에서 확인",
+      "buildBeforeSignal": false
+    },
+    {
+      "stage": 2,
+      "name": "무료 관계 문장 자료",
+      "offer": "자식·형제·배우자에게 건넬 문장 30개 PDF",
+      "goal": "이메일 또는 알림 신청",
+      "buildBeforeSignal": false
+    },
+    {
+      "stage": 3,
+      "name": "첫 소액 상품",
+      "offer": "상황별 문장 PDF와 차분한 오디오 묶음",
+      "priceRangeKrw": [4900, 9900],
+      "buildBeforeSignal": false
+    }
+  ]
+}

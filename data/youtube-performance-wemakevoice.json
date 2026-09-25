@@ -1,0 +1,744 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-11T16:38:46.344+09:00",
+  "videos": [
+    {
+      "contentId": "apartment-elevator-inspection-001",
+      "youtubeVideoId": "repjtgyH90I",
+      "category": "apartment",
+      "topic": "elevator_inspection",
+      "title": "아파트 승강기 점검 안내방송",
+      "hook": "엘리베이터 점검 전\n이렇게 방송하세요",
+      "publishedAt": "2026-09-11T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-08T04:19:40Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "apartment-fire-inspection-002",
+      "youtubeVideoId": "hKX7a22QBLY",
+      "category": "apartment",
+      "topic": "fire_inspection",
+      "title": "아파트 소방시설 점검 안내방송",
+      "hook": "소방시설 점검 전,\n이 방송 먼저 하세요",
+      "publishedAt": "2026-09-12T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:09:58Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "apartment-parking-001",
+      "youtubeVideoId": "iAcSL-Zbp0o",
+      "category": "apartment",
+      "topic": "주차",
+      "title": "아파트 주차 이동 안내방송",
+      "hook": "아파트 주차 민원,\n이 방송 쓰세요 🔊",
+      "publishedAt": "2026-08-31T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-08-31T10:00:00Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 304,
+          "likes": 1,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 10,
+          "elapsedDays": 10.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "apartment-pest-control-002",
+      "youtubeVideoId": "oDJKXFDJ0Yg",
+      "category": "apartment",
+      "topic": "pest_control",
+      "title": "아파트 단지 방역 안내방송",
+      "hook": "단지 방역 시작 전,\n이 문구 그대로 쓰세요",
+      "publishedAt": "2026-09-13T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:10:06Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "apartment-recycling-001",
+      "youtubeVideoId": "G9LPANW3oXw",
+      "category": "apartment",
+      "topic": "분리수거",
+      "title": "아파트 분리수거 안내방송",
+      "hook": "아파트 분리수거,\n이 방송으로 안내하세요",
+      "publishedAt": "2026-09-01T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-01T10:00:27Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 161,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 9,
+          "elapsedDays": 9.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "apartment-smoking-001",
+      "youtubeVideoId": "cFW_98KF-hE",
+      "category": "apartment",
+      "topic": "흡연 민원",
+      "title": "아파트 흡연 금지 안내방송",
+      "hook": "아파트 담배 냄새 민원,\n이렇게 방송해보세요",
+      "publishedAt": "2026-09-02T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-02T10:00:27Z",
+      "duration": "PT28S",
+      "durationSeconds": 28,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 444,
+          "likes": 1,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 8,
+          "elapsedDays": 8.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "apartment-visitor-parking-002",
+      "youtubeVideoId": "wc76aNEhV3c",
+      "category": "apartment",
+      "topic": "visitor_parking",
+      "title": "아파트 방문차량 등록 안내방송",
+      "hook": "방문차량 등록 문의,\n매번 설명하고 계세요?",
+      "publishedAt": "2026-09-11T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:09:49Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "apartment-water-outage-001",
+      "youtubeVideoId": "LCq_CGbURc0",
+      "category": "apartment",
+      "topic": "water_outage",
+      "title": "아파트 단수 안내방송",
+      "hook": "🔊 아파트 단수 안내\n이 문구 그대로 쓰세요",
+      "publishedAt": "2026-09-10T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-10T10:00:02Z",
+      "duration": "PT31S",
+      "durationSeconds": 31,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 227,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 0,
+          "elapsedDays": 0.9019252777777778
+        }
+      ]
+    },
+    {
+      "contentId": "camping-checkout-001",
+      "youtubeVideoId": "wIgObB_XBik",
+      "category": "camping",
+      "topic": "퇴실",
+      "title": "캠핑장 퇴실시간 안내방송",
+      "hook": "캠핑장 퇴실 안내,\n이 문구 그대로 쓰세요",
+      "publishedAt": "2026-09-05T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-05T10:00:34Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 417,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 5,
+          "elapsedDays": 5.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "camping-fire-safety-001",
+      "youtubeVideoId": "DSKshWV5Viw",
+      "category": "camping",
+      "topic": "화재 예방",
+      "title": "캠핑장 화재 예방 안내방송",
+      "hook": "캠핑장 화재 예방,\n꼭 필요한 방송입니다",
+      "publishedAt": "2026-09-06T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-06T10:00:06Z",
+      "duration": "PT27S",
+      "durationSeconds": 27,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 216,
+          "likes": 2,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 4,
+          "elapsedDays": 4.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "camping-heavy-rain-safety-001",
+      "youtubeVideoId": "u-fiYGIIESk",
+      "category": "camping",
+      "topic": "heavy_rain_safety",
+      "title": "캠핑장 집중호우 안전 안내방송",
+      "hook": "캠핑 중 비가 거세지면\n이 방송부터 하세요",
+      "publishedAt": "2026-09-13T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-08T04:19:53Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "camping-recycling-002",
+      "youtubeVideoId": "TrpuDtXTDbo",
+      "category": "camping",
+      "topic": "recycling",
+      "title": "캠핑장 쓰레기 분리배출 안내방송",
+      "hook": "쓰레기 섞여 나올 때,\n이 방송 먼저 하세요",
+      "publishedAt": "2026-09-14T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:10:20Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "camping-shower-closing-002",
+      "youtubeVideoId": "Ggxy5ikcF50",
+      "category": "camping",
+      "topic": "shower_closing",
+      "title": "캠핑장 샤워장 이용 종료 안내방송",
+      "hook": "샤워장 마감할 때,\n이렇게 방송하세요",
+      "publishedAt": "2026-09-15T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:10:30Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "camping-slow-driving-002",
+      "youtubeVideoId": "qz8HRK-AUYM",
+      "category": "camping",
+      "topic": "slow_driving",
+      "title": "캠핑장 차량 서행 안내방송",
+      "hook": "캠핑장 차량 때문에\n불안하다면 이 방송",
+      "publishedAt": "2026-09-16T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:15:29Z",
+      "duration": "PT27S",
+      "durationSeconds": 27,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "gym-closing-001",
+      "youtubeVideoId": "CXaXfO0ZaRQ",
+      "category": "gym",
+      "topic": "영업 종료",
+      "title": "헬스장 영업 종료 안내방송",
+      "hook": "헬스장 마감 방송,\n이렇게 하면 깔끔합니다",
+      "publishedAt": "2026-09-09T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-09T10:00:14Z",
+      "duration": "PT28S",
+      "durationSeconds": 28,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 58,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 1,
+          "elapsedDays": 1.9019252777777778
+        }
+      ]
+    },
+    {
+      "contentId": "hospital-visiting-hours-001",
+      "youtubeVideoId": "u-YTrc9rFgA",
+      "category": "hospital",
+      "topic": "visiting_hours",
+      "title": "병원 면회시간 종료 안내방송",
+      "hook": "병원 면회 종료 방송\n차분하게 이렇게",
+      "publishedAt": "2026-09-15T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-08T04:20:10Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "kids-cafe-closing-001",
+      "youtubeVideoId": "gMSgpSdMtWg",
+      "category": "kids-cafe",
+      "topic": "영업 종료",
+      "title": "키즈카페 이용시간 종료 안내방송",
+      "hook": "키즈카페 마감할 때\n이 방송 그대로 쓰세요",
+      "publishedAt": "2026-09-07T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-07T10:00:01Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 214,
+          "likes": 1,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 3,
+          "elapsedDays": 3.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "kids-cafe-lost-property-001",
+      "youtubeVideoId": "C_qOpHntsw8",
+      "category": "kids-cafe",
+      "topic": "lost_property",
+      "title": "키즈카페 분실물 확인 안내방송",
+      "hook": "키즈카페 분실물\n매번 생긴다면?",
+      "publishedAt": "2026-09-14T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-08T04:20:03Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "mart-cart-return-002",
+      "youtubeVideoId": "1dbNP-4WpWU",
+      "category": "mart",
+      "topic": "cart_return",
+      "title": "마트 쇼핑카트 반납 안내방송",
+      "hook": "주차장 카트 때문에\n매번 뛰어나가세요?",
+      "publishedAt": "2026-09-19T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:14:49Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "mart-closing-10min-001",
+      "youtubeVideoId": "oV05MpweZZ0",
+      "category": "mart",
+      "topic": "마감 사전 안내",
+      "title": "마트 영업 종료 10분 전 안내방송",
+      "hook": "마트 마감 10분 전,\n이 방송 그대로 쓰세요",
+      "publishedAt": "2026-09-04T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-04T10:00:02Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 509,
+          "likes": 5,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 6,
+          "elapsedDays": 6.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "mart-fresh-discount-002",
+      "youtubeVideoId": "yk2RoylAW1k",
+      "category": "mart",
+      "topic": "fresh_discount",
+      "title": "마트 신선식품 마감 할인 안내방송",
+      "hook": "신선식품 남았을 때,\n이렇게 방송해보세요",
+      "publishedAt": "2026-09-18T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:14:24Z",
+      "duration": "PT25S",
+      "durationSeconds": 25,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "mart-holiday-notice-002",
+      "youtubeVideoId": "HMoQE1lDit0",
+      "category": "mart",
+      "topic": "holiday_notice",
+      "title": "마트 정기 휴무일 사전 안내방송",
+      "hook": "마트 휴무일 전날,\n이 방송 잊지 마세요",
+      "publishedAt": "2026-09-17T21:30:00.000+09:00",
+      "youtubePublishedAt": "2026-09-11T07:14:13Z",
+      "duration": "PT24S",
+      "durationSeconds": 24,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "mart-lost-child-001",
+      "youtubeVideoId": "mF06ngDZ2G8",
+      "category": "mart",
+      "topic": "lost_child",
+      "title": "마트 미아 보호 안내방송",
+      "hook": "🔊 마트 미아 안내\n당황하지 말고 이렇게",
+      "publishedAt": "2026-09-12T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-08T04:19:47Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "mart-parking-001",
+      "youtubeVideoId": "RZD8ZrXTeyY",
+      "category": "mart",
+      "topic": "주차",
+      "title": "마트 주차 차량 이동 안내방송",
+      "hook": "마트 앞 차량 이동,\n이렇게 방송하세요 🔊",
+      "publishedAt": "2026-09-03T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-03T10:00:11Z",
+      "duration": "PT26S",
+      "durationSeconds": 26,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 452,
+          "likes": 1,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 7,
+          "elapsedDays": 7.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "nursing-home-fall-prevention-001",
+      "youtubeVideoId": "xg5nZa-JBg0",
+      "category": "nursing-home",
+      "topic": "낙상 예방",
+      "title": "요양원 낙상 예방 안내방송",
+      "hook": "요양원에서 매일 필요한\n낙상 예방 방송",
+      "publishedAt": "2026-09-08T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-08T10:00:26Z",
+      "duration": "PT30S",
+      "durationSeconds": 30,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-08-31T12:22:26.644+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        },
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 65,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 2,
+          "elapsedDays": 2.901925277777778
+        }
+      ]
+    },
+    {
+      "contentId": "restaurant-last-order-001",
+      "youtubeVideoId": "bLTgD4f5FCQ",
+      "category": "restaurant",
+      "topic": "last_order",
+      "title": "음식점 라스트오더 안내방송",
+      "hook": "마감 주문 안내\n직접 말하기 어렵다면?",
+      "publishedAt": "2026-09-16T19:00:00.000+09:00",
+      "youtubePublishedAt": "2026-09-08T04:20:17Z",
+      "duration": "PT29S",
+      "durationSeconds": 29,
+      "privacyStatus": "private",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 0,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": false,
+          "daysSincePublished": 0,
+          "elapsedDays": 0
+        }
+      ]
+    },
+    {
+      "contentId": "wemakevoice-longform-camping-checkout-001",
+      "youtubeVideoId": "Tn-3Q2X_0gc",
+      "category": "unknown",
+      "topic": "퇴실",
+      "title": "캠핑장 퇴실 안내방송, 매번 직접 말하지 않고 만드는 방법",
+      "hook": "",
+      "publishedAt": "2026-09-08T17:15:12.980+09:00",
+      "youtubePublishedAt": "2026-09-08T08:15:46Z",
+      "duration": "PT3M26S",
+      "durationSeconds": 206,
+      "privacyStatus": "public",
+      "snapshots": [
+        {
+          "collectedAt": "2026-09-11T16:38:46.344+09:00",
+          "views": 9,
+          "likes": 0,
+          "comments": 0,
+          "isPublished": true,
+          "daysSincePublished": 2,
+          "elapsedDays": 2.974691712962963
+        }
+      ]
+    }
+  ]
+}

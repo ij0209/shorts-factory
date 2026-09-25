@@ -1,0 +1,92 @@
+{
+  "dawn-r1a-01": {
+    "preAmenDuration": 23.9967,
+    "amenPause": 0.9,
+    "amenStart": 24.8967,
+    "coreDuration": 25.296,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 2.472,
+    "totalDuration": 28.92
+  },
+  "dawn-r1a-02": {
+    "preAmenDuration": 27.5468,
+    "amenPause": 0.9,
+    "amenStart": 28.4468,
+    "coreDuration": 28.8,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 28.8
+  },
+  "dawn-r1a-03": {
+    "preAmenDuration": 30.7567,
+    "amenPause": 0.9,
+    "amenStart": 31.656699999999997,
+    "coreDuration": 32.088,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 2.616,
+    "totalDuration": 35.832
+  },
+  "dawn-r1a-04": {
+    "preAmenDuration": 33.3827,
+    "amenPause": 0.9,
+    "amenStart": 34.2827,
+    "coreDuration": 34.464,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 34.464
+  },
+  "dawn-r1a-05": {
+    "preAmenDuration": 31.9891,
+    "amenPause": 0.9,
+    "amenStart": 32.8891,
+    "coreDuration": 33.192,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 3.072,
+    "totalDuration": 37.392
+  },
+  "dawn-r1a-06": {
+    "preAmenDuration": 31.3461,
+    "amenPause": 0.9,
+    "amenStart": 32.2461,
+    "coreDuration": 32.592,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 32.592
+  },
+  "dawn-r1a-07": {
+    "preAmenDuration": 37.4983,
+    "amenPause": 0.9,
+    "amenStart": 38.3983,
+    "coreDuration": 38.712,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 2.4,
+    "totalDuration": 42.264
+  },
+  "dawn-r1a-08": {
+    "preAmenDuration": 29.0851,
+    "amenPause": 0.9,
+    "amenStart": 29.9851,
+    "coreDuration": 30.336,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 30.336
+  },
+  "dawn-r1a-09": {
+    "preAmenDuration": 32.6079,
+    "amenPause": 0.9,
+    "amenStart": 33.5079,
+    "coreDuration": 33.816,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 2.472,
+    "totalDuration": 37.44
+  },
+  "dawn-r1a-10": {
+    "preAmenDuration": 27.741,
+    "amenPause": 0.9,
+    "amenStart": 28.641,
+    "coreDuration": 29.016,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 29.016
+  }
+}

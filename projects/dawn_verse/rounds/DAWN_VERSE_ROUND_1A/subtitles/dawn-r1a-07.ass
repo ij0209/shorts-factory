@@ -1,0 +1,29 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1
+Style: Hook,AppleMyungjo,94,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Caption,AppleMyungjo,84,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1
+Style: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:43.61,Brand,,0,0,0,,새벽한구절
+Dialogue: 0,0:00:00.00,0:00:43.61,Footer,,0,0,0,,매일 새벽 5시 · 하루를 여는 말씀 한 구절
+Dialogue: 3,0:00:00.00,0:00:43.61,Reference,,0,0,0,,{\an3\pos(980,1725)}오늘의 말씀 · 마태복음 11:28
+Dialogue: 1,0:00:00.70,0:00:05.61,Hook,,0,0,0,,쉬면 안 될 것 같아\N더 지쳤나요?
+Dialogue: 1,0:00:05.61,0:00:10.01,Caption,,0,0,0,,수고하고 무거운\N짐진 자들아 !
+Dialogue: 1,0:00:10.01,0:00:15.70,Caption,,0,0,0,,다 내게로 오라 내가\N너희를 쉬게 하리라
+Dialogue: 1,0:00:15.70,0:00:19.58,Caption,,0,0,0,,쉼은 모든 일을\N끝낸 사람만
+Dialogue: 1,0:00:19.58,0:00:22.68,Caption,,0,0,0,,누리는 상이 아닙니다.
+Dialogue: 1,0:00:22.68,0:00:28.63,Caption,,0,0,0,,오늘 짧게라도 숨을\N고를 자리를 만드세요.
+Dialogue: 1,0:00:28.63,0:00:34.84,Caption,,0,0,0,,예수님, 지친 마음을\N숨기지 않게 해주세요.
+Dialogue: 1,0:00:34.84,0:00:38.20,Caption,,0,0,0,,멈춰 쉴\N용기를 주세요.
+Dialogue: 1,0:00:39.10,0:00:39.41,Caption,,0,0,0,,아멘.
+Dialogue: 1,0:00:40.61,0:00:43.01,Caption,,0,0,0,,내일 새벽 5시에\N다시 만나요.

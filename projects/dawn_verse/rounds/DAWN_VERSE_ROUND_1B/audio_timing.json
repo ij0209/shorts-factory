@@ -1,0 +1,92 @@
+{
+  "dawn-r1b-11": {
+    "preAmenDuration": 55.5979,
+    "amenPause": 0.9,
+    "amenStart": 56.4979,
+    "coreDuration": 56.832,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 4.08,
+    "totalDuration": 62.04
+  },
+  "dawn-r1b-12": {
+    "preAmenDuration": 62.8502,
+    "amenPause": 0.9,
+    "amenStart": 63.7502,
+    "coreDuration": 64.032,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 64.032
+  },
+  "dawn-r1b-13": {
+    "preAmenDuration": 66.9953,
+    "amenPause": 0.9,
+    "amenStart": 67.8953,
+    "coreDuration": 68.28,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 5.328,
+    "totalDuration": 74.76
+  },
+  "dawn-r1b-14": {
+    "preAmenDuration": 58.4629,
+    "amenPause": 0.9,
+    "amenStart": 59.362899999999996,
+    "coreDuration": 59.664,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 3.864,
+    "totalDuration": 64.656
+  },
+  "dawn-r1b-15": {
+    "preAmenDuration": 59.7745,
+    "amenPause": 0.9,
+    "amenStart": 60.6745,
+    "coreDuration": 60.984,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 60.984
+  },
+  "dawn-r1b-16": {
+    "preAmenDuration": 66.0029,
+    "amenPause": 0.9,
+    "amenStart": 66.9029,
+    "coreDuration": 67.272,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 5.16,
+    "totalDuration": 73.56
+  },
+  "dawn-r1b-17": {
+    "preAmenDuration": 68.6252,
+    "amenPause": 0.9,
+    "amenStart": 69.52520000000001,
+    "coreDuration": 69.768,
+    "ctaLeadIn": 0,
+    "ctaDuration": 0,
+    "totalDuration": 69.768
+  },
+  "dawn-r1b-18": {
+    "preAmenDuration": 69.7763,
+    "amenPause": 0.9,
+    "amenStart": 70.67630000000001,
+    "coreDuration": 71.088,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 5.256,
+    "totalDuration": 77.472
+  },
+  "dawn-r1b-19": {
+    "preAmenDuration": 65.0007,
+    "amenPause": 0.9,
+    "amenStart": 65.9007,
+    "coreDuration": 66.216,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 4.704,
+    "totalDuration": 72.048
+  },
+  "dawn-r1b-20": {
+    "preAmenDuration": 57.9555,
+    "amenPause": 0.9,
+    "amenStart": 58.8555,
+    "coreDuration": 59.112,
+    "ctaLeadIn": 1.2,
+    "ctaDuration": 4.416,
+    "totalDuration": 64.68
+  }
+}

@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1
+Style: Hook,AppleMyungjo,94,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Caption,AppleMyungjo,84,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1
+Style: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:31.69,Brand,,0,0,0,,새벽한구절
+Dialogue: 0,0:00:00.00,0:00:31.69,Footer,,0,0,0,,매일 새벽 5시 · 하루를 여는 말씀 한 구절
+Dialogue: 3,0:00:00.00,0:00:31.69,Reference,,0,0,0,,{\an3\pos(980,1725)}오늘의 말씀 · 마태복음 6:11
+Dialogue: 1,0:00:00.70,0:00:04.55,Hook,,0,0,0,,이번 달 생활비를 또\N계산했나요?
+Dialogue: 1,0:00:04.55,0:00:09.04,Caption,,0,0,0,,오늘날 우리에게 일용할\N양식을 주옵시고
+Dialogue: 1,0:00:09.04,0:00:13.32,Caption,,0,0,0,,예수님은 오늘 필요한\N양식을 구하라고
+Dialogue: 1,0:00:13.32,0:00:15.03,Caption,,0,0,0,,가르치셨습니다.
+Dialogue: 1,0:00:15.03,0:00:17.38,Caption,,0,0,0,,걱정을 숨기지 말고,
+Dialogue: 1,0:00:17.38,0:00:22.09,Caption,,0,0,0,,도움과 정보를 구할\N한 곳도 찾아보세요.
+Dialogue: 1,0:00:22.09,0:00:26.58,Caption,,0,0,0,,하나님, 필요한 것을\N솔직히 아룁니다.
+Dialogue: 1,0:00:26.58,0:00:29.79,Caption,,0,0,0,,오늘의 지혜와\N힘을 주세요.
+Dialogue: 1,0:00:30.69,0:00:31.04,Caption,,0,0,0,,아멘.

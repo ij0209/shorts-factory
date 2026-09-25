@@ -1,0 +1,82 @@
+{
+  "contents": [
+    {
+      "id": "life-margin-inlaw-short-reply-001",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family",
+      "categoryLabel": "가족",
+      "topic": "inlaw_short_reply",
+      "title": "며느리의 짧은 대답을 서운해하지 않아도 되는 이유",
+      "hook": "며느리의 대답이 짧아도\n서운해하지 마세요",
+      "narration": "며느리의 대답이 짧으면 나를 불편해하나 마음이 쓰일 때가 있습니다. 하지만 짧은 말이 꼭 차가운 마음을 뜻하는 것은 아닙니다. 일이 바쁘거나 아이를 돌보느라 여유가 없을 수도 있고, 원래 표현이 담백한 사람일 수도 있습니다. 말투 하나에 의미를 더해 혼자 서운해하기보다 필요한 이야기는 편안하게 건네보세요. 따뜻한 관계는 자주 확인한다고 만들어지는 것이 아닙니다. 서로의 생활과 표현 방식을 존중할 때 조금씩 편안해집니다. 대답의 길이보다 오래 이어지는 작은 배려를 바라보세요.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/inlaw-short-reply-001.mp3",
+      "bgmPrompt": "warm understated instrumental with felt piano, soft nylon guitar harmonics and airy room tone; gentle family reflection, reassuring, no drums, no melodrama",
+      "scenes": [
+        {"narration":"며느리의 대답이 짧으면 나를 불편해하나 마음이 쓰일 때가 있습니다.","asset":"inlaw-short-reply-phone-001.png"},
+        {"narration":"하지만 짧은 말이 꼭 차가운 마음을 뜻하는 것은 아닙니다.","asset":"inlaw-short-reply-window-002.png"},
+        {"narration":"일이 바쁘거나 아이를 돌보느라 여유가 없을 수도 있고, 원래 표현이 담백한 사람일 수도 있습니다.","asset":"inlaw-short-reply-busy-003.png"},
+        {"narration":"말투 하나에 의미를 더해 혼자 서운해하기보다 필요한 이야기는 편안하게 건네보세요.","asset":"inlaw-short-reply-tea-004.png"},
+        {"narration":"따뜻한 관계는 자주 확인한다고 만들어지는 것이 아닙니다. 서로의 생활과 표현 방식을 존중할 때 조금씩 편안해집니다.","asset":"inlaw-short-reply-walk-005.png"},
+        {"narration":"대답의 길이보다 오래 이어지는 작은 배려를 바라보세요.","asset":"inlaw-short-reply-table-006.png"}
+      ],
+      "youtubeTitle": "며느리의 대답이 짧아도 서운해하지 마세요 | 고부관계 #shorts",
+      "youtubeDescription": "며느리의 짧은 대답에 마음이 쓰일 때, 말투보다 서로의 생활과 표현 방식을 먼저 바라보는 이야기입니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#고부관계 #며느리 #가족관계 #마음공부 #shorts",
+      "youtubeTags": ["고부 관계", "며느리 관계", "가족 관계", "시어머니 며느리", "서운한 마음", "마음 공부", "인생 조언", "삶의 여백", "shorts"]
+    },
+    {
+      "id": "life-margin-inlaw-visit-first-001",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family",
+      "categoryLabel": "가족",
+      "topic": "inlaw_visit_first",
+      "title": "아들 집에 가기 전 먼저 물어보면 좋은 이유",
+      "hook": "아들 집에 갈 때는\n먼저 물어봐도 늦지 않습니다",
+      "narration": "가족인데 언제든 찾아가도 괜찮다고 생각할 수 있습니다. 하지만 아들과 며느리에게도 둘만의 생활과 계획이 있습니다. 보고 싶은 마음이 들어도 오늘 가도 괜찮니, 하고 먼저 물어보세요. 짧은 연락 하나가 며느리에게는 존중받는다는 안도감을 줍니다. 방문 횟수가 줄어든다고 가족의 정까지 멀어지는 것은 아닙니다. 서로 준비할 시간을 주면 만나는 자리도 훨씬 편안해집니다. 가까운 사이일수록 경계를 지켜주는 배려가 관계를 오래 따뜻하게 만듭니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/inlaw-visit-first-001.mp3",
+      "bgmPrompt": "calm homelike instrumental with warm piano, very soft acoustic guitar and subtle afternoon ambience; respectful, spacious and kind, no beat, no sentimental swell",
+      "scenes": [
+        {"narration":"가족인데 언제든 찾아가도 괜찮다고 생각할 수 있습니다.","asset":"inlaw-visit-door-001.png"},
+        {"narration":"하지만 아들과 며느리에게도 둘만의 생활과 계획이 있습니다.","asset":"inlaw-visit-calendar-002.png"},
+        {"narration":"보고 싶은 마음이 들어도 오늘 가도 괜찮니, 하고 먼저 물어보세요.","asset":"inlaw-visit-message-003.png"},
+        {"narration":"짧은 연락 하나가 며느리에게는 존중받는다는 안도감을 줍니다.","asset":"inlaw-visit-relief-004.png"},
+        {"narration":"방문 횟수가 줄어든다고 가족의 정까지 멀어지는 것은 아닙니다. 서로 준비할 시간을 주면 만나는 자리도 훨씬 편안해집니다.","asset":"inlaw-visit-preparing-005.png"},
+        {"narration":"가까운 사이일수록 경계를 지켜주는 배려가 관계를 오래 따뜻하게 만듭니다.","asset":"inlaw-visit-warm-table-006.png"}
+      ],
+      "youtubeTitle": "아들 집에 가기 전 먼저 물어보면 좋은 이유 | 가족의 경계 #shorts",
+      "youtubeDescription": "가까운 가족일수록 방문 전에 먼저 묻는 작은 배려가 필요합니다. 아들 부부와 편안한 관계를 오래 지키는 방법을 생각해봅니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#고부관계 #가족관계 #며느리 #부모자식 #shorts",
+      "youtubeTags": ["아들 집 방문", "고부 관계", "며느리 관계", "가족의 경계", "부모 자식 관계", "가족 관계", "인생 조언", "삶의 여백", "shorts"]
+    },
+    {
+      "id": "life-margin-inlaw-holiday-hurt-001",
+      "contentType": "life-margin",
+      "youtubeChannel": "life-margin",
+      "youtubeUpload": true,
+      "category": "family",
+      "categoryLabel": "가족",
+      "topic": "inlaw_holiday_hurt",
+      "title": "명절 뒤 며느리에게 서운한 마음을 오래 두지 않는 법",
+      "hook": "명절 뒤 서운한 마음\n오래 두지 마세요",
+      "narration": "명절이 지나고 나면 수고했다는 말 한마디가 없어 서운할 때가 있습니다. 내가 준비한 마음을 몰라주는 것 같아 며느리의 작은 행동까지 마음에 남기도 합니다. 하지만 명절은 누구에게나 몸과 마음이 바쁜 시간입니다. 서운함을 바로 잘잘못으로 나누기보다, 이번에는 모두 힘들었겠구나 하고 한 걸음 물러서 보세요. 꼭 전할 말이 있다면 아들을 사이에 두지 말고 감정이 가라앉은 뒤 부드럽게 이야기하세요. 참는 것보다 좋은 것은 상처 주지 않게 말하는 일입니다. 다음 명절에는 서로 조금 덜 힘든 방법을 함께 찾으면 됩니다.",
+      "voiceName": "Charon",
+      "bgm": "music/life-margin/inlaw-holiday-hurt-001.mp3",
+      "bgmPrompt": "soft reflective Korean-family ambience with felt piano, delicate plucked strings and warm evening pad; comforting resolution, no percussion, no traditional cliché, no drama",
+      "scenes": [
+        {"narration":"명절이 지나고 나면 수고했다는 말 한마디가 없어 서운할 때가 있습니다.","asset":"inlaw-holiday-after-001.png"},
+        {"narration":"내가 준비한 마음을 몰라주는 것 같아 며느리의 작은 행동까지 마음에 남기도 합니다.","asset":"inlaw-holiday-dishes-002.png"},
+        {"narration":"하지만 명절은 누구에게나 몸과 마음이 바쁜 시간입니다.","asset":"inlaw-holiday-rest-003.png"},
+        {"narration":"서운함을 바로 잘잘못으로 나누기보다, 이번에는 모두 힘들었겠구나 하고 한 걸음 물러서 보세요.","asset":"inlaw-holiday-window-004.png"},
+        {"narration":"꼭 전할 말이 있다면 아들을 사이에 두지 말고 감정이 가라앉은 뒤 부드럽게 이야기하세요. 참는 것보다 좋은 것은 상처 주지 않게 말하는 일입니다.","asset":"inlaw-holiday-conversation-005.png"},
+        {"narration":"다음 명절에는 서로 조금 덜 힘든 방법을 함께 찾으면 됩니다.","asset":"inlaw-holiday-light-006.png"}
+      ],
+      "youtubeTitle": "명절 뒤 며느리에게 서운한 마음, 오래 두지 마세요 | 고부갈등 #shorts",
+      "youtubeDescription": "명절 뒤 남은 서운함을 잘잘못으로 키우기보다 상처 주지 않고 전하는 방법을 생각해봅니다. 다음 만남을 조금 더 편안하게 만드는 이야기입니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#고부갈등 #명절갈등 #며느리 #가족관계 #shorts",
+      "youtubeTags": ["명절 고부 갈등", "고부 갈등", "며느리 관계", "명절 스트레스", "가족 관계", "서운한 마음", "마음 공부", "삶의 여백", "shorts"]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "hotel-checkout-time-001",
+  "category": "hotel",
+  "topic": "checkout_time",
+  "title": "호텔 체크아웃 및 퇴실 시간 안내방송",
+  "hookType": "manager_problem",
+  "experimentGroup": "hotel-checkout-exp01",
+  "hook": "매일 아침 반복되는 체크아웃 문의\n프런트 전화 받느라 바쁘신가요?",
+  "narration": "안내 말씀드립니다. 저희 호텔의 퇴실 시간은 오전 11시입니다. 다음 고객님을 위한 객실 정비를 위해 체크아웃 시간을 준수해 주시기 바랍니다. 카드키는 1층 프런트에 반납해 주시면 감사하겠습니다. 편안한 여행 되시기 바랍니다.",
+  "backgroundPrompt": "Vertical video background of a sleek, modern hotel lobby with soft lighting. Uncluttered aesthetic with a minimalist front desk in the distance, out of focus. Clean interior design, neutral colors, cozy atmosphere. No text, no logos, no prominent human faces.",
+  "bgmPrompt": "Soft, relaxing ambient piano music, gentle atmospheric synth pads, clean and professional hotel background sound, warm and welcoming, no vocal, low tempo",
+  "youtubeTitle": "호텔 프런트 업무를 줄여주는 퇴실 시간 체크아웃 안내방송 🔊 #shorts",
+  "youtubeDescription": "호텔 및 리조트 프런트에서 매일 아침 반복되는 체크아웃 문의를 줄여주는 방송 음성입니다.\n\n오전 퇴실 시간 전 객실 방송이나 로비 안내음성으로 활용하여 프런트 혼잡을 예방해 보세요.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#호텔안내방송 #체크아웃안내 #퇴실시간방송 #호텔프런트 #매장안내방송 #wemakevoice",
+  "youtubeTags": [
+    "호텔 체크아웃",
+    "호텔 퇴실 안내",
+    "호텔 안내방송",
+    "체크아웃 방송",
+    "퇴실시간 안내",
+    "호텔 프런트",
+    "WeMakeVoice",
+    "shorts"
+  ]
+}

@@ -1,0 +1,13 @@
+.lm-canvas { background: #25302d; color: #fffdf7; font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif; word-break: keep-all; overflow: hidden; }
+.lm-fallback { background: linear-gradient(155deg, #58665d, #202a27 62%, #151c1a); }
+.lm-scene { width: 100%; height: 100%; object-fit: cover; transform-origin: center; will-change: transform, opacity; }
+.lm-shade { background: linear-gradient(180deg, rgba(15,20,18,.3), rgba(15,20,18,.08) 38%, rgba(10,14,13,.7) 100%); }
+.lm-brand { position: absolute; z-index: 5; top: 78px; right: 64px; font-family: serif; font-size: 31px; letter-spacing: 4px; opacity: .82; }
+.lm-category { position: absolute; z-index: 5; top: 82px; left: 64px; padding: 9px 18px; border: 1px solid rgba(255,255,255,.45); border-radius: 999px; font-size: 24px; letter-spacing: 1px; opacity: .85; }
+.lm-hook { position: absolute; z-index: 4; top: 460px; left: 80px; right: 80px; white-space: pre-line; text-align: center; font-family: serif; font-size: 75px; line-height: 1.43; font-weight: 700; letter-spacing: -2.5px; text-shadow: 0 4px 28px rgba(0,0,0,.55); }
+.lm-caption-wrap { position: absolute; z-index: 6; left: 74px; right: 74px; bottom: 520px; text-align: center; }
+.lm-caption { display: inline; padding: 13px 22px 17px; border-radius: 13px; background: rgba(12,17,15,.66); white-space: pre-line; font-size: 62px; line-height: 1.5; font-weight: 700; letter-spacing: -1.9px; text-shadow: 0 2px 7px rgba(0,0,0,.7); box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.lm-outro { align-items: center; justify-content: center; z-index: 10; background: linear-gradient(160deg, rgba(35,48,43,.92), rgba(17,24,21,.97)); text-align: center; }
+.lm-outro-copy { white-space: pre-line; font-family: serif; font-size: 63px; line-height: 1.5; font-weight: 700; }
+.lm-outro-brand { margin-top: 50px; font-family: serif; font-size: 42px; letter-spacing: 6px; }
+.lm-tagline { margin-top: 18px; font-size: 25px; letter-spacing: .5px; opacity: .72; }

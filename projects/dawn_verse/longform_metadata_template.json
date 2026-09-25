@@ -1,0 +1,7 @@
+{
+  "status": "template_only_no_topic_selected",
+  "selection_rule": "공개된 새벽한구절 쇼츠의 유지율, 공유, 구독, 재방문 자료를 확인한 뒤 원본 Short ID를 derivedFrom에 기록한다.",
+  "title_pattern": "[구체적인 삶의 문제]를 위한 [새로운 본문 해설·기도 내용] | [핵심 성경 책 장:절] | 새벽한구절",
+  "description_pattern": "[영상이 새로 풀어 주는 문제와 청취 대상]\n\n📖 이번 영상의 말씀\n[책 장:절] — [본문 전체 또는 실제 사용 범위의 정확한 원문]\n번역: [번역본 이름]\n출처: [직접 확인한 본문 URL]\n이용 조건: [해당 번역본의 확인된 저작권·라이선스]\n본문 문맥: [앞뒤 문맥과 적용 범위]\n\n[두 번째 본문부터 같은 형식 반복]\n\n⏱ 목차\n[00:00 문제와 본문]\n[00:00 쇼츠에 없던 새 해설]\n[00:00 삶에 적용할 질문]\n[00:00 기도]\n\n원본 Short: [derivedFrom 및 URL]\n\n매일 새벽 5시, 하루를 여는 말씀 한 구절.\n\n#새벽한구절 #성경말씀 #아침기도",
+  "required_fields": ["derivedFrom", "bible_references", "exact_texts", "translation", "source_urls", "license", "context_notes", "new_walkthrough", "chapters"]
+}

@@ -1,0 +1,28 @@
+* { box-sizing: border-box; }
+.canvas { background: #111827; color: #fff; font-family: 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif; word-break: keep-all; }
+.background-wrap { overflow: hidden; }
+.background-media { width: 100%; height: 100%; object-fit: cover; transform-origin: center center; will-change: transform; }
+.fallback-background { background: radial-gradient(circle at 25% 18%, #536783 0, #26364d 35%, #101721 100%); }
+.audio-first-context { position: absolute; z-index: 3; top: 220px; left: 80px; right: 80px; color: #fff; font-size: 54px; font-weight: 700; text-align: center; white-space: pre-line; text-shadow: 0 4px 20px #0008; }
+.shade { background: linear-gradient(180deg, rgba(4,8,14,.32) 0%, rgba(4,8,14,.16) 38%, rgba(4,8,14,.72) 100%); }
+.brand-bug { position: absolute; top: 82px; right: 62px; z-index: 4; font-size: 28px; font-weight: 700; letter-spacing: -.6px; opacity: .72; }
+.hook-wrap { z-index: 3; align-items: center; justify-content: center; padding: 130px 82px 250px; text-align: center; }
+.eyebrow { font-size: 30px; font-weight: 700; color: #d5e8ff; margin-bottom: 30px; opacity: .88; }
+.hook { max-width: 920px; white-space: pre-line; font-size: 82px; line-height: 1.28; letter-spacing: -3.4px; font-weight: 800; text-shadow: 0 4px 26px rgba(0,0,0,.52); }
+.hook-wrap-conversion { align-items: flex-start; justify-content: flex-end; padding: 150px 64px 300px; text-align: left; }
+.hook-label { margin: 0 0 22px 14px; padding: 12px 21px 13px; border-radius: 999px; background: #ffcf4a; color: #111827; font-size: 27px; line-height: 1; font-weight: 900; letter-spacing: -.7px; box-shadow: 0 8px 26px rgba(0,0,0,.24); }
+.hook-panel { width: 100%; padding: 39px 42px 42px; border-radius: 34px; background: linear-gradient(145deg,rgba(7,13,24,.94),rgba(7,13,24,.78)); border: 2px solid rgba(255,255,255,.22); box-shadow: 0 24px 70px rgba(0,0,0,.48); }
+.hook-accent { display: inline-block; margin-bottom: 16px; color: #ffcf4a; font-size: 31px; font-weight: 900; letter-spacing: -.8px; }
+.hook-conversion { max-width: 100%; font-size: 76px; line-height: 1.2; letter-spacing: -3.7px; }
+.hook-cta { margin-top: 23px; padding-top: 20px; border-top: 1px solid rgba(255,255,255,.22); color: rgba(255,255,255,.8); font-size: 27px; font-weight: 700; letter-spacing: -.8px; }
+.caption-wrap { position: absolute; z-index: 3; left: 72px; right: 72px; bottom: 335px; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+.caption-label { display: flex; align-items: center; gap: 11px; margin-bottom: 15px; padding: 8px 16px 9px; border-radius: 999px; background: rgba(7,11,18,.58); font-size: 24px; line-height: 1; font-weight: 700; letter-spacing: -.5px; color: rgba(255,255,255,.86); }
+.live-dot { width: 10px; height: 10px; border-radius: 50%; background: #8fc8ff; box-shadow: 0 0 14px rgba(143,200,255,.75); }
+.caption { display: inline; padding: 15px 25px 19px; border-radius: 18px; background: rgba(7,11,18,.74); white-space: pre-line; font-size: 66px; line-height: 1.45; letter-spacing: -2.2px; font-weight: 800; text-shadow: 0 2px 8px rgba(0,0,0,.65); }
+.outro { z-index: 5; align-items: center; justify-content: center; text-align: center; background: rgba(8,13,21,.68); padding-bottom: 80px; }
+.outro-copy { white-space: pre-line; font-size: 54px; line-height: 1.4; font-weight: 700; margin-bottom: 38px; }
+.outro-brand { font-size: 78px; line-height: 1.1; font-weight: 800; letter-spacing: -2px; }
+.website { margin-top: 18px; font-size: 31px; opacity: .76; letter-spacing: .5px; }
+.brand-signature { z-index: 5; align-items: center; justify-content: center; text-align: center; background: rgba(8,13,21,.74); }
+.signature-brand { font-size: 78px; line-height: 1.1; font-weight: 800; letter-spacing: -2px; }
+.signature-website { margin-top: 18px; font-size: 29px; opacity: .7; letter-spacing: .5px; }

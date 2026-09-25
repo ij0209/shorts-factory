@@ -1,0 +1,2321 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-25T07:26:45.039Z",
+  "summary": {
+    "total": 110,
+    "byChannel": {
+      "dawn-verse": 20,
+      "life-margin": 40,
+      "wemakevoice": 50
+    },
+    "byContentType": {
+      "announcement": 42,
+      "creator_tts": 8,
+      "dawn_verse": 20,
+      "life-margin": 26,
+      "life-margin-micro-text": 10,
+      "longform": 4
+    },
+    "byLifecycle": {
+      "content": 2,
+      "private": 1,
+      "public": 1,
+      "published": 3,
+      "rendered": 20,
+      "scheduled": 83
+    },
+    "bySourceKind": {
+      "base": 14,
+      "batch": 71,
+      "longform": 5,
+      "project-round": 20
+    }
+  },
+  "records": [
+    {
+      "id": "apartment-elevator-inspection-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "아파트 승강기 점검 안내방송",
+      "topic": "elevator_inspection",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/apartment-elevator-inspection-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "repjtgyH90I",
+        "status": "scheduled",
+        "publishAt": "2026-09-11T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "apartment-fire-inspection-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "아파트 소방시설 점검 안내방송",
+      "topic": "fire_inspection",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/apartment-fire-inspection-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "hKX7a22QBLY",
+        "status": "scheduled",
+        "publishAt": "2026-09-12T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "apartment-noise-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "아파트 층간소음 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "content",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": null
+    },
+    {
+      "id": "apartment-parking-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "아파트 주차 이동 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "iAcSL-Zbp0o",
+        "status": "scheduled",
+        "publishAt": "2026-08-31T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "apartment-pest-control-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "아파트 단지 방역 안내방송",
+      "topic": "pest_control",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/apartment-pest-control-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "oDJKXFDJ0Yg",
+        "status": "scheduled",
+        "publishAt": "2026-09-13T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "apartment-recycling-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "아파트 분리수거 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "G9LPANW3oXw",
+        "status": "scheduled",
+        "publishAt": "2026-09-01T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "apartment-smoking-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "아파트 흡연 금지 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "cFW_98KF-hE",
+        "status": "scheduled",
+        "publishAt": "2026-09-02T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "apartment-visitor-parking-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "아파트 방문차량 등록 안내방송",
+      "topic": "visitor_parking",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/apartment-visitor-parking-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "wc76aNEhV3c",
+        "status": "scheduled",
+        "publishAt": "2026-09-11T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "apartment-water-outage-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "아파트 단수 안내방송",
+      "topic": "water_outage",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/apartment-water-outage-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "LCq_CGbURc0",
+        "status": "scheduled",
+        "publishAt": "2026-09-10T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "camping-checkout-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "캠핑장 퇴실시간 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "wIgObB_XBik",
+        "status": "scheduled",
+        "publishAt": "2026-09-05T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "camping-fire-safety-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "캠핑장 화재 예방 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "DSKshWV5Viw",
+        "status": "scheduled",
+        "publishAt": "2026-09-06T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "camping-heavy-rain-safety-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "캠핑장 집중호우 안전 안내방송",
+      "topic": "heavy_rain_safety",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/camping-heavy-rain-safety-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "u-fiYGIIESk",
+        "status": "scheduled",
+        "publishAt": "2026-09-13T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "camping-manner-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "캠핑장 매너타임 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "content",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": null
+    },
+    {
+      "id": "camping-recycling-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "캠핑장 쓰레기 분리배출 안내방송",
+      "topic": "recycling",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/camping-recycling-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "TrpuDtXTDbo",
+        "status": "scheduled",
+        "publishAt": "2026-09-14T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "camping-shower-closing-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "캠핑장 샤워장 이용 종료 안내방송",
+      "topic": "shower_closing",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/camping-shower-closing-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "Ggxy5ikcF50",
+        "status": "scheduled",
+        "publishAt": "2026-09-15T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "camping-slow-driving-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "캠핑장 차량 서행 안내방송",
+      "topic": "slow_driving",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/camping-slow-driving-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "qz8HRK-AUYM",
+        "status": "scheduled",
+        "publishAt": "2026-09-16T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "dawn-r1a-01",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "아직 오지 않은 내일이 걱정된다면 | 새벽한구절",
+      "topic": "미래 불안",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-01_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-02",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "자녀의 선택을 대신해 주고 싶을 때 | 새벽한구절",
+      "topic": "자녀 걱정",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-02_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-03",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "출근길이 무의미하게 느껴진다면 | 새벽한구절",
+      "topic": "출근 / 직장",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-03_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-04",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "애썼는데 결과가 보이지 않을 때 | 새벽한구절",
+      "topic": "일이 풀리지 않음",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-04_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-05",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "아침인데 연락 한 통 없을 때 | 새벽한구절",
+      "topic": "외로움",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-05_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-06",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "오늘 중요한 결정을 내려야 한다면 | 새벽한구절",
+      "topic": "중요한 결정",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-06_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-07",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "쉬면 안 될 것 같아 더 지쳤다면 | 새벽한구절",
+      "topic": "몸과 마음이 지침",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-07_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-08",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "이번 달 생활비가 걱정된다면 | 새벽한구절",
+      "topic": "돈 / 생계 걱정",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-08_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-09",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "평범한 아침에도 감사할 이유 | 새벽한구절",
+      "topic": "감사",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-09_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1a-10",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/contents.json",
+      "title": "실패한 뒤의 첫 아침이라면 | 새벽한구절",
+      "topic": "다시 시작",
+      "experimentId": "DAWN_VERSE_ROUND_1A",
+      "youtubeUpload": true,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1a-10_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-11",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "다툰 뒤 어떤 말부터 해야 할까요 | 새벽한구절",
+      "topic": "부부 갈등",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-11_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-12",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "검사 결과가 두려운 아침에 | 새벽한구절",
+      "topic": "건강 불안",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-12_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-13",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "떠난 사람의 빈자리가 큰 아침 | 새벽한구절",
+      "topic": "상실과 애도",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-13_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-14",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "나만 뒤처진 것처럼 느껴질 때 | 새벽한구절",
+      "topic": "비교와 열등감",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-14_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-15",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "기도해도 달라지지 않는 것 같을 때 | 새벽한구절",
+      "topic": "기도의 기다림",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-15_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-16",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "숨길수록 마음이 무거워진다면 | 새벽한구절",
+      "topic": "죄책감과 고백",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-16_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-17",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "관계를 혼자 살리려다 지쳤다면 | 새벽한구절",
+      "topic": "관계의 한계",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-17_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-18",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "잠 못 든 밤을 지나온 아침에 | 새벽한구절",
+      "topic": "불면의 아침",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-18_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-19",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "혼자 버티는 일이 너무 힘들다면 | 새벽한구절",
+      "topic": "도움 요청",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-19_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "dawn-r1b-20",
+      "channel": "dawn-verse",
+      "contentType": "dawn_verse",
+      "sourceKind": "project-round",
+      "sourceFile": "projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1B/contents.json",
+      "title": "한 계절이 끝나가는 것이 두렵다면 | 새벽한구절",
+      "topic": "삶의 변화",
+      "experimentId": "DAWN_VERSE_ROUND_1B",
+      "youtubeUpload": false,
+      "lifecycle": "rendered",
+      "outputDirectory": "dawn-verse",
+      "outputs": [
+        "output/dawn-verse/dawn-r1b-20_20260925.mp4"
+      ],
+      "youtube": null
+    },
+    {
+      "id": "gym-closing-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "헬스장 영업 종료 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "CXaXfO0ZaRQ",
+        "status": "scheduled",
+        "publishAt": "2026-09-09T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "hospital-visiting-hours-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "병원 면회시간 종료 안내방송",
+      "topic": "visiting_hours",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/hospital-visiting-hours-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "u-YTrc9rFgA",
+        "status": "scheduled",
+        "publishAt": "2026-09-15T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "kids-cafe-closing-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "키즈카페 이용시간 종료 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "gMSgpSdMtWg",
+        "status": "scheduled",
+        "publishAt": "2026-09-07T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "kids-cafe-lost-property-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "키즈카페 분실물 확인 안내방송",
+      "topic": "lost_property",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/kids-cafe-lost-property-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "C_qOpHntsw8",
+        "status": "scheduled",
+        "publishAt": "2026-09-14T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-family-giving-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "자식에게 모든 것을 주지 않아도 되는 이유",
+      "topic": "healthy_giving",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-family-giving-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "q38_h0pZPlI",
+        "status": "scheduled",
+        "publishAt": "2026-09-11T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-inlaw-holiday-hurt-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-inlaw-20260908.json",
+      "title": "명절 뒤 며느리에게 서운한 마음을 오래 두지 않는 법",
+      "topic": "inlaw_holiday_hurt",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "published",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-inlaw-holiday-hurt-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "QiMu--mAgPg",
+        "status": "published",
+        "publishAt": "2026-09-08T14:28:39.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-inlaw-short-reply-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-inlaw-20260908.json",
+      "title": "며느리의 짧은 대답을 서운해하지 않아도 되는 이유",
+      "topic": "inlaw_short_reply",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "published",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-inlaw-short-reply-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "3JHFTI0wcs4",
+        "status": "published",
+        "publishAt": "2026-09-08T14:28:39.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-inlaw-visit-first-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-inlaw-20260908.json",
+      "title": "아들 집에 가기 전 먼저 물어보면 좋은 이유",
+      "topic": "inlaw_visit_first",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "published",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-inlaw-visit-first-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "UBL1ef3Uv_M",
+        "status": "published",
+        "publishAt": "2026-09-08T14:28:39.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-longform-children-boundaries-001",
+      "channel": "life-margin",
+      "contentType": "longform",
+      "sourceKind": "longform",
+      "sourceFile": "contents/longform/life-margin-children-boundaries-001.json",
+      "title": "60세 이후 자식과 현명하게 거리를 두는 7가지 방법",
+      "topic": "children_boundaries",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-longform",
+      "outputs": [
+        "output/life-margin-longform/life-margin-longform-children-boundaries-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "97nmbTiXvQo",
+        "status": "scheduled",
+        "publishAt": "2026-09-16T20:30:00.000+09:00",
+        "format": "longform"
+      }
+    },
+    {
+      "id": "life-margin-longform-good-parent-words-001",
+      "channel": "life-margin",
+      "contentType": "longform",
+      "sourceKind": "longform",
+      "sourceFile": "contents/longform/life-margin-good-parent-words-001.json",
+      "title": "좋은 부모가 자식에게 하지 않는 7가지 말",
+      "topic": "good_parent_words",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-longform",
+      "outputs": [
+        "output/life-margin-longform/life-margin-longform-good-parent-words-001_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "rv20tIFR-pg",
+        "status": "scheduled",
+        "publishAt": "2026-09-23T20:30:00.000+09:00",
+        "format": "longform"
+      }
+    },
+    {
+      "id": "life-margin-longform-relationship-decisions-001",
+      "channel": "life-margin",
+      "contentType": "longform",
+      "sourceKind": "longform",
+      "sourceFile": "contents/longform/life-margin-longform-relationship-decisions-001.json",
+      "title": "연락이 끊긴 관계를 붙잡을지 놓을지 판단하는 6가지 기준",
+      "topic": "relationship_decisions",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-longform",
+      "outputs": [
+        "output/life-margin-longform/life-margin-longform-relationship-decisions-001_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "36ednjhWgdQ",
+        "status": "scheduled",
+        "publishAt": "2026-09-30T20:30:00.000+09:00",
+        "format": "longform"
+      }
+    },
+    {
+      "id": "life-margin-longform-sibling-care-talk-001",
+      "channel": "life-margin",
+      "contentType": "longform",
+      "sourceKind": "longform",
+      "sourceFile": "contents/longform/life-margin-longform-sibling-care-talk-001.json",
+      "title": "부모 병원비와 돌봄 앞에서 형제 갈등을 줄이는 6가지 대화법",
+      "topic": "sibling_parent_care",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-longform",
+      "outputs": [
+        "output/life-margin-longform/life-margin-longform-sibling-care-talk-001_20260925.mp4"
+      ],
+      "youtube": {
+        "videoId": "ToJ8SwJJR3I",
+        "status": "scheduled",
+        "publishAt": "2026-10-07T20:30:00.000+09:00",
+        "format": "longform"
+      }
+    },
+    {
+      "id": "life-margin-micro-children-boundaries-5s-001",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-micro-text-exp01.json",
+      "title": "자식과 가까울수록 지켜야 할 5가지",
+      "topic": "children_boundaries",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-micro-children-boundaries-5s-001_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "ReDLjfAJedI",
+        "status": "scheduled",
+        "publishAt": "2026-09-17T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-micro-children-boundaries-9s-001",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-micro-text-exp01.json",
+      "title": "자식과 가까울수록 지켜야 할 5가지",
+      "topic": "children_boundaries",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-micro-children-boundaries-9s-001_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "ZwkfwgS1jbI",
+        "status": "scheduled",
+        "publishAt": "2026-09-20T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-micro-family-distance-5s-001",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-micro-text-exp01.json",
+      "title": "가족에게 서운함을 줄이는 5가지 말",
+      "topic": "family_distance",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-micro-family-distance-5s-001_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "I13H_VynaE4",
+        "status": "scheduled",
+        "publishAt": "2026-09-19T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-micro-family-distance-9s-001",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-micro-text-exp01.json",
+      "title": "가족에게 서운함을 줄이는 5가지 말",
+      "topic": "family_distance",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-micro-family-distance-9s-001_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "gpIC-rN97WY",
+        "status": "scheduled",
+        "publishAt": "2026-09-22T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-micro-good-parent-words-5s-001",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-micro-text-exp01.json",
+      "title": "좋은 부모가 자식에게 하지 않는 말",
+      "topic": "good_parent_words",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-micro-good-parent-words-5s-001_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "LZEzNqf_GAo",
+        "status": "scheduled",
+        "publishAt": "2026-09-21T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-micro-good-parent-words-9s-001",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-micro-text-exp01.json",
+      "title": "좋은 부모가 자식에게 하지 않는 말",
+      "topic": "good_parent_words",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-micro-good-parent-words-9s-001_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "RdupSwNnSPs",
+        "status": "scheduled",
+        "publishAt": "2026-09-18T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-mind-worry-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "걱정의 대부분은 아직 일어나지 않은 일입니다",
+      "topic": "future_worry",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-mind-worry-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "b6E-UqHeR8s",
+        "status": "scheduled",
+        "publishAt": "2026-09-12T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-call-hesitation-002",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "자식에게 먼저 전화하기가 망설여지는 날",
+      "topic": "calling_adult_child",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-call-hesitation-002_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "OPwIR1DUets",
+        "status": "scheduled",
+        "publishAt": "2026-09-18T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-eating-alone-009",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "혼자 밥 먹는 시간이 쓸쓸하지 않게 되는 순간",
+      "topic": "dignified_solo_meal",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-eating-alone-009_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "HqdZNxkoms4",
+        "status": "scheduled",
+        "publishAt": "2026-09-25T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-grandchild-care-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "손주를 봐주고도 서운해지는 진짜 이유",
+      "topic": "grandchild_care_boundaries",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-grandchild-care-001_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "PNN8TtL3NAQ",
+        "status": "scheduled",
+        "publishAt": "2026-09-17T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-health-talk-005",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "아픈 이야기를 자식에게 어디까지 해야 할까",
+      "topic": "telling_children_about_health",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-health-talk-005_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "mkloANHuul0",
+        "status": "scheduled",
+        "publishAt": "2026-09-21T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-inlaw-words-008",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "며느리와 편안하려면\n줄여야 할 말",
+      "topic": "comfortable_inlaw_words",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-r1-inlaw-words-008_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "zxIFMVtAILQ",
+        "status": "scheduled",
+        "publishAt": "2026-09-24T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-money-boundary-004",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "자식에게 돈을 주기 전에 먼저 정해야 할 것",
+      "topic": "adult_child_financial_support",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-money-boundary-004_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "5yBIwzRLUao",
+        "status": "scheduled",
+        "publishAt": "2026-09-20T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-retired-couple-003",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "은퇴 후 부부가 하루 종일 붙어 있으면 힘든 이유",
+      "topic": "retired_couple_space",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-retired-couple-003_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "jVRJr0SseHI",
+        "status": "scheduled",
+        "publishAt": "2026-09-19T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-sibling-care-006",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "부모 병원비 앞에서 형제 사이가 멀어지는 이유",
+      "topic": "sibling_parent_care",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-sibling-care-006_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "_TG8bCGIGak",
+        "status": "scheduled",
+        "publishAt": "2026-09-22T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-tiring-friend-007",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "나이 들수록 만나고 나면 더 피곤한 친구가 있습니다",
+      "topic": "tiring_old_friend",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-tiring-friend-007_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "HZr4aeizFZA",
+        "status": "scheduled",
+        "publishAt": "2026-09-23T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1-visit-boundary-010",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-20260917.json",
+      "title": "자식 집에 갈 때 먼저 물어보면 달라지는 것",
+      "topic": "adult_child_home_visit",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1-visit-boundary-010_20260914.mp4"
+      ],
+      "youtube": {
+        "videoId": "9d2iYwujxBI",
+        "status": "scheduled",
+        "publishAt": "2026-09-26T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-contact-value-005",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "연락이 뜸해진 사람에게 먼저 묻지 마세요",
+      "topic": "relationship_distance",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1v2-contact-value-005_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "Ulz0QbfAOLo",
+        "status": "scheduled",
+        "publishAt": "2026-10-01T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-friend-silence-006",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "친했던 사람이 어느 날 연락을 끊었습니다",
+      "topic": "relationship_distance",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1v2-friend-silence-006_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "jDV2LdngQX4",
+        "status": "scheduled",
+        "publishAt": "2026-10-02T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-hurt-expectation-010",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "가까운 사람에게 서운할수록 기억해야 할 것",
+      "topic": "buddhism_relationship",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1v2-hurt-expectation-010_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "S21QX27GWL0",
+        "status": "scheduled",
+        "publishAt": "2026-10-06T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-kind-letter-008",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "평생 남을 먼저 챙긴 당신에게",
+      "topic": "self_sacrifice_regret",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1v2-kind-letter-008_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "AHT1p38kw4w",
+        "status": "scheduled",
+        "publishAt": "2026-10-04T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-kind-regret-list-007",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "평생 착하게 산 사람들이\n나이 들어 후회하는 5가지",
+      "topic": "self_sacrifice_regret",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-r1v2-kind-regret-list-007_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "RIij7MnlLZI",
+        "status": "scheduled",
+        "publishAt": "2026-10-03T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-parent-choice-004",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "좋은 부모는 자식의 선택까지 대신하지 않습니다",
+      "topic": "parent_child_communication",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1v2-parent-choice-004_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "lrgOKfvl7t4",
+        "status": "scheduled",
+        "publishAt": "2026-09-30T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-parent-give-list-001",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "자식에게 미리 주지 말아야 할\n5가지",
+      "topic": "parent_child_boundaries",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-r1v2-parent-give-list-001_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "iujWKICKW0w",
+        "status": "scheduled",
+        "publishAt": "2026-09-27T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-parent-life-002",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "자식을 사랑해도 내 노후까지 줄 필요는 없습니다",
+      "topic": "parent_child_boundaries",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1v2-parent-life-002_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "8nPCUeJm-U8",
+        "status": "scheduled",
+        "publishAt": "2026-09-28T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-parent-words-list-003",
+      "channel": "life-margin",
+      "contentType": "life-margin-micro-text",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "좋은 부모가 자식에게\n하지 않는 말 7가지",
+      "topic": "parent_child_communication",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin-micro-text",
+      "outputs": [
+        "output/life-margin-micro-text/life-margin-r1v2-parent-words-list-003_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "2LRoiD0pd0I",
+        "status": "scheduled",
+        "publishAt": "2026-09-29T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-r1v2-solitude-009",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/life-margin-round1-v2-20260923.json",
+      "title": "나이가 들수록 혼자가 편해지는 이유",
+      "topic": "solitude_aging",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-r1v2-solitude-009_20260923.mp4"
+      ],
+      "youtube": {
+        "videoId": "hyDUNf5P2ic",
+        "status": "scheduled",
+        "publishAt": "2026-10-05T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-relationships-ending-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "끝난 인연을 억지로 붙잡지 않아도 됩니다",
+      "topic": "ending_relationships",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-relationships-ending-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "zNIAJ8_eTH8",
+        "status": "scheduled",
+        "publishAt": "2026-09-14T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-relationships-explaining-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "나이가 들수록 굳이 설명하지 않아도 되는 이유",
+      "topic": "stop_overexplaining",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-relationships-explaining-001_20260908.mp4",
+        "output/life-margin/life-margin-relationships-explaining-001_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "Fqp_hVfou9g",
+        "status": "scheduled",
+        "publishAt": "2026-09-10T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-relationships-no-contact-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "연락 없는 사람에게 서운해하지 않아도 되는 이유",
+      "topic": "no_contact",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-relationships-no-contact-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "9O9UeYtdtME",
+        "status": "scheduled",
+        "publishAt": "2026-09-16T12:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-retirement-letting-go-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "60세 이후 마음에서 내려놓아야 할 것",
+      "topic": "letting_go",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-retirement-letting-go-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "4qT9_ty73xs",
+        "status": "scheduled",
+        "publishAt": "2026-09-13T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "life-margin-solitude-comfort-001",
+      "channel": "life-margin",
+      "contentType": "life-margin",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "혼자 있는 시간이 편안해지는 나이",
+      "topic": "comfortable_solitude",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "life-margin",
+      "outputs": [
+        "output/life-margin/life-margin-solitude-comfort-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "oYrqfdVJxaU",
+        "status": "scheduled",
+        "publishAt": "2026-09-15T20:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "mart-cart-return-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "마트 쇼핑카트 반납 안내방송",
+      "topic": "cart_return",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/mart-cart-return-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "1dbNP-4WpWU",
+        "status": "scheduled",
+        "publishAt": "2026-09-19T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "mart-closing-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "마트 폐점 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "private",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "wy_t31AH7ZI",
+        "status": "private",
+        "publishAt": null,
+        "format": null
+      }
+    },
+    {
+      "id": "mart-closing-10min-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "마트 영업 종료 10분 전 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "oV05MpweZZ0",
+        "status": "scheduled",
+        "publishAt": "2026-09-04T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "mart-fresh-discount-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "마트 신선식품 마감 할인 안내방송",
+      "topic": "fresh_discount",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/mart-fresh-discount-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "yk2RoylAW1k",
+        "status": "scheduled",
+        "publishAt": "2026-09-18T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "mart-holiday-notice-002",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wemakevoice-growth-v3-20260911.json",
+      "title": "마트 정기 휴무일 사전 안내방송",
+      "topic": "holiday_notice",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/mart-holiday-notice-002_20260911.mp4"
+      ],
+      "youtube": {
+        "videoId": "HMoQE1lDit0",
+        "status": "scheduled",
+        "publishAt": "2026-09-17T21:30:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "mart-lost-child-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "마트 미아 보호 안내방송",
+      "topic": "lost_child",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/mart-lost-child-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "mF06ngDZ2G8",
+        "status": "scheduled",
+        "publishAt": "2026-09-12T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "mart-parking-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "마트 주차 차량 이동 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "RZD8ZrXTeyY",
+        "status": "scheduled",
+        "publishAt": "2026-09-03T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "nursing-home-fall-prevention-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "base",
+      "sourceFile": "contents/contents.json",
+      "title": "요양원 낙상 예방 안내방송",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [],
+      "youtube": {
+        "videoId": "xg5nZa-JBg0",
+        "status": "scheduled",
+        "publishAt": "2026-09-08T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "restaurant-last-order-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/v2-20260908.json",
+      "title": "음식점 라스트오더 안내방송",
+      "topic": "last_order",
+      "experimentId": null,
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/restaurant-last-order-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "bLTgD4f5FCQ",
+        "status": "scheduled",
+        "publishAt": "2026-09-16T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wemakevoice-longform-camping-checkout-001",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "longform",
+      "sourceFile": "contents/longform/wemakevoice-camping-checkout-001.json",
+      "title": "캠핑장 퇴실 안내방송, 매번 직접 말하지 않고 만드는 방법",
+      "topic": "",
+      "experimentId": null,
+      "youtubeUpload": false,
+      "lifecycle": "public",
+      "outputDirectory": "wemakevoice-longform",
+      "outputs": [
+        "output/wemakevoice-longform/wemakevoice-longform-camping-checkout-001_20260908.mp4"
+      ],
+      "youtube": {
+        "videoId": "Tn-3Q2X_0gc",
+        "status": "public",
+        "publishAt": "2026-09-08T17:15:12.980+09:00",
+        "format": "longform"
+      }
+    },
+    {
+      "id": "wmv-r2-apartment-fire-lane",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "아파트 소방차 진입로 주차 금지 안내방송",
+      "topic": "apartment_fire_lane",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-apartment-fire-lane_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "4XOqrocviGw",
+        "status": "scheduled",
+        "publishAt": "2026-09-30T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-apartment-noise-night",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "아파트 야간 소음 자제 안내방송",
+      "topic": "apartment_noise_night",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-apartment-noise-night_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "2z0H5N4zrA4",
+        "status": "scheduled",
+        "publishAt": "2026-09-28T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-apartment-pet-leash",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "아파트 공용공간 반려견 목줄 안내방송",
+      "topic": "apartment_pet_leash",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-apartment-pet-leash_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "jh68cgY6ctU",
+        "status": "scheduled",
+        "publishAt": "2026-10-14T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-camping-checkout-late",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "캠핑장 퇴실 지연 시 안내방송",
+      "topic": "camping_checkout_late",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-camping-checkout-late_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "BxMBbpeKJ5M",
+        "status": "scheduled",
+        "publishAt": "2026-10-02T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-camping-night-quiet",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "캠핑장 야간 대화 소음 안내방송",
+      "topic": "camping_night_quiet",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-camping-night-quiet_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "TB33vWWS6EU",
+        "status": "scheduled",
+        "publishAt": "2026-10-03T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-gym-locker-clear",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "헬스장 락커 정리 안내방송",
+      "topic": "gym_locker_clear",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-gym-locker-clear_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "7UNh8gnZmlg",
+        "status": "scheduled",
+        "publishAt": "2026-10-08T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-hospital-clinic-last-reception",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "병원 접수 마감 안내방송",
+      "topic": "hospital_clinic_last_reception",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-hospital-clinic-last-reception_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "aOK1bY-Osng",
+        "status": "scheduled",
+        "publishAt": "2026-10-07T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-kids-cafe-parent-call",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "키즈카페 보호자 호출 안내방송",
+      "topic": "kids_cafe_parent_call",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-kids-cafe-parent-call_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "7LezmAA09Vw",
+        "status": "scheduled",
+        "publishAt": "2026-10-05T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-mart-parking-exit",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "마트 주차장 출구 정체 안내방송",
+      "topic": "mart_parking_exit",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-mart-parking-exit_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "oFB0ScIn5eE",
+        "status": "scheduled",
+        "publishAt": "2026-09-27T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-mart-register-close",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "마트 계산대 마감 안내방송",
+      "topic": "mart_register_close",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-mart-register-close_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "Jxz6OyBw-1Y",
+        "status": "scheduled",
+        "publishAt": "2026-09-25T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-meta-ai-voice",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "지금 듣는 목소리도 AI입니다",
+      "topic": "meta_ai_voice",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-meta-ai-voice_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "bIlYcQ-EG64",
+        "status": "scheduled",
+        "publishAt": "2026-10-13T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-no-recording",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "쇼츠 녹음 없이 나레이션 넣는 방법",
+      "topic": "no_recording",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-no-recording_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "jiOM5pqQAGo",
+        "status": "scheduled",
+        "publishAt": "2026-09-26T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-parking-exit-payment",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "주차장 출차 전 정산 안내방송",
+      "topic": "parking_exit_payment",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-parking-exit-payment_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "M1MEU8lz5nM",
+        "status": "scheduled",
+        "publishAt": "2026-10-10T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-public-facility-closing-room",
+      "channel": "wemakevoice",
+      "contentType": "announcement",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "공공시설 대관실 이용 종료 안내방송",
+      "topic": "public_facility_closing_room",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-public-facility-closing-room_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "jPSBoS33XUE",
+        "status": "scheduled",
+        "publishAt": "2026-10-12T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-retake-time",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "나레이션 재녹음 줄이는 방법",
+      "topic": "retake_time",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-retake-time_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "7QOnzvUJ5nw",
+        "status": "scheduled",
+        "publishAt": "2026-10-01T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-shorts-narration",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "쇼츠 나레이션, 대본부터 음성까지",
+      "topic": "shorts_narration",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-shorts-narration_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "MbIit1XBpmY",
+        "status": "scheduled",
+        "publishAt": "2026-10-09T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-store-video",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "매장 소개 영상에 목소리 넣는 방법",
+      "topic": "store_video",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-store-video_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "hJAtqSX_cWw",
+        "status": "scheduled",
+        "publishAt": "2026-10-11T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-text-to-voice",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "글로 쓴 대본이 영상 나레이션이 되는 과정",
+      "topic": "text_to_voice",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-text-to-voice_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "f9yeu6-8Cbs",
+        "status": "scheduled",
+        "publishAt": "2026-10-04T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-voice-comparison",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "같은 대본 다른 목소리, 영상에 맞는 선택은?",
+      "topic": "voice_comparison",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-voice-comparison_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "B-Apcrc6MOc",
+        "status": "scheduled",
+        "publishAt": "2026-10-06T19:00:00.000+09:00",
+        "format": null
+      }
+    },
+    {
+      "id": "wmv-r2-voice-privacy",
+      "channel": "wemakevoice",
+      "contentType": "creator_tts",
+      "sourceKind": "batch",
+      "sourceFile": "contents/batches/wmv-round2-dual-track.json",
+      "title": "내 목소리 공개 없이 영상 만드는 방법",
+      "topic": "voice_privacy",
+      "experimentId": "wmv-round2-dual-track",
+      "youtubeUpload": true,
+      "lifecycle": "scheduled",
+      "outputDirectory": "wemakevoice",
+      "outputs": [
+        "output/wemakevoice/wmv-r2-voice-privacy_20260924.mp4"
+      ],
+      "youtube": {
+        "videoId": "zliR_Stq8sc",
+        "status": "scheduled",
+        "publishAt": "2026-09-29T19:00:00.000+09:00",
+        "format": null
+      }
+    }
+  ]
+}

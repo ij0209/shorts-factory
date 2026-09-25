@@ -1,0 +1,18 @@
+{
+  "project": "dawn_verse",
+  "channel_name": "새벽한구절",
+  "channel_id": "UCuJBaGB-tYrAVioY8SeCgXQ",
+  "timezone": "Asia/Seoul",
+  "daily_publish_time": "05:00",
+  "about": "매일 새벽 5시, 하루를 여는 말씀 한 구절. 출근길의 무게, 가족 걱정, 중요한 선택, 지친 마음처럼 오늘의 삶에서 시작해 성경 본문 한 구절과 짧은 묵상, 기도로 아침을 엽니다. 영상 설명에는 사용한 장·절의 본문 전체, 번역본, 출처와 문맥을 기록합니다. 초기 영상은 공개 영역으로 표시된 Korean Bible 1910 원문을 사용합니다. 성경 구절을 성공이나 치유의 보장으로 바꾸지 않고, 각자의 하루를 정직하게 살아갈 지혜와 위로를 나눕니다.",
+  "short_title_pattern": "구체적인 고민 | 성경 장:절 | 새벽한구절",
+  "longform_policy": "쇼츠 성과가 확인된 주제만 충분한 새 분석과 실천을 더해 제작한다. 원본 쇼츠는 derivedFrom에 기록한다.",
+  "longform_title_pattern": "구체적인 고민과 새 분석/기도의 약속 | 핵심 성경 장:절 | 새벽한구절",
+  "longform_description_requirements": [
+    "사용한 모든 성경 본문의 정확한 책·장·절, 원문, 번역본과 출처",
+    "본문 전후 문맥과 영상에서 적용한 범위",
+    "쇼츠에 없던 새 해설·기도·실천을 구분한 목차와 타임스탬프",
+    "원본 쇼츠 ID와 derivedFrom 관계",
+    "매일 새벽 5시 브랜드 약속"
+  ]
+}

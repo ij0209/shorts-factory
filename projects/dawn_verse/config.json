@@ -1,0 +1,21 @@
+{
+  "project": "dawn_verse",
+  "channel_name": "새벽한구절",
+  "youtube_channel_id": "UCuJBaGB-tYrAVioY8SeCgXQ",
+  "language": "ko-KR",
+  "timezone": "Asia/Seoul",
+  "publish_time": "05:00",
+  "round": "DAWN_VERSE_ROUND_1A",
+  "bible_translation": "Korean Bible 1910",
+  "bible_source": "https://ebible.org/details.php?id=kor",
+  "voice_engine": "Gemini TTS",
+  "voice_name": "Charon (approved; single-voice prayer and Amen v6, CTA breathing room)",
+  "local_tts_allowed_for_final": false,
+  "caption_font": "AppleMyungjo",
+  "caption_position": "center",
+  "channel_name_position": "top-left",
+  "bible_reference_position": "bottom-right persistent",
+  "intro_voice_pause_seconds": 0.7,
+  "target_duration_seconds": [22, 45],
+  "upload_requires_channel_id_and_name_match": true
+}

@@ -1,0 +1,300 @@
+[
+  {
+    "contentId": "life-margin-relationships-explaining-001",
+    "youtubeVideoId": "Fqp_hVfou9g",
+    "uploadedAt": "2026-09-08T13:21:58.827+09:00",
+    "publishAt": "2026-09-10T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-family-giving-001",
+    "youtubeVideoId": "q38_h0pZPlI",
+    "uploadedAt": "2026-09-08T13:22:04.014+09:00",
+    "publishAt": "2026-09-11T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-mind-worry-001",
+    "youtubeVideoId": "b6E-UqHeR8s",
+    "uploadedAt": "2026-09-08T13:22:10.604+09:00",
+    "publishAt": "2026-09-12T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-retirement-letting-go-001",
+    "youtubeVideoId": "4qT9_ty73xs",
+    "uploadedAt": "2026-09-08T13:22:17.227+09:00",
+    "publishAt": "2026-09-13T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-relationships-ending-001",
+    "youtubeVideoId": "zNIAJ8_eTH8",
+    "uploadedAt": "2026-09-08T13:22:27.538+09:00",
+    "publishAt": "2026-09-14T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-solitude-comfort-001",
+    "youtubeVideoId": "oYrqfdVJxaU",
+    "uploadedAt": "2026-09-08T13:22:35.588+09:00",
+    "publishAt": "2026-09-15T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-relationships-no-contact-001",
+    "youtubeVideoId": "9O9UeYtdtME",
+    "uploadedAt": "2026-09-08T13:22:40.789+09:00",
+    "publishAt": "2026-09-16T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-inlaw-short-reply-001",
+    "youtubeVideoId": "3JHFTI0wcs4",
+    "uploadedAt": "2026-09-08T14:21:30.725+09:00",
+    "publishAt": "2026-09-08T14:28:39.000+09:00",
+    "status": "published"
+  },
+  {
+    "contentId": "life-margin-inlaw-visit-first-001",
+    "youtubeVideoId": "UBL1ef3Uv_M",
+    "uploadedAt": "2026-09-08T14:21:56.794+09:00",
+    "publishAt": "2026-09-08T14:28:39.000+09:00",
+    "status": "published"
+  },
+  {
+    "contentId": "life-margin-inlaw-holiday-hurt-001",
+    "youtubeVideoId": "QiMu--mAgPg",
+    "uploadedAt": "2026-09-08T14:22:22.133+09:00",
+    "publishAt": "2026-09-08T14:28:39.000+09:00",
+    "status": "published"
+  },
+  {
+    "contentId": "life-margin-longform-children-boundaries-001",
+    "youtubeVideoId": "97nmbTiXvQo",
+    "uploadedAt": "2026-09-11T10:09:55.259+09:00",
+    "publishAt": "2026-09-16T20:30:00.000+09:00",
+    "status": "scheduled",
+    "format": "longform",
+    "derivedFrom": [
+      "life-margin-inlaw-visit-first-001"
+    ]
+  },
+  {
+    "contentId": "life-margin-longform-good-parent-words-001",
+    "youtubeVideoId": "rv20tIFR-pg",
+    "uploadedAt": "2026-09-11T12:01:32.444+09:00",
+    "publishAt": "2026-09-23T20:30:00.000+09:00",
+    "status": "scheduled",
+    "format": "longform",
+    "derivedFrom": [
+      "life-margin-inlaw-visit-first-001",
+      "life-margin-longform-children-boundaries-001"
+    ]
+  },
+  {
+    "contentId": "life-margin-micro-children-boundaries-5s-001",
+    "youtubeVideoId": "ReDLjfAJedI",
+    "uploadedAt": "2026-09-11T13:29:47.501+09:00",
+    "publishAt": "2026-09-17T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-micro-good-parent-words-9s-001",
+    "youtubeVideoId": "RdupSwNnSPs",
+    "uploadedAt": "2026-09-11T13:30:00.420+09:00",
+    "publishAt": "2026-09-18T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-micro-family-distance-5s-001",
+    "youtubeVideoId": "I13H_VynaE4",
+    "uploadedAt": "2026-09-11T13:30:11.074+09:00",
+    "publishAt": "2026-09-19T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-micro-children-boundaries-9s-001",
+    "youtubeVideoId": "ZwkfwgS1jbI",
+    "uploadedAt": "2026-09-11T13:30:21.701+09:00",
+    "publishAt": "2026-09-20T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-micro-good-parent-words-5s-001",
+    "youtubeVideoId": "LZEzNqf_GAo",
+    "uploadedAt": "2026-09-11T13:30:28.889+09:00",
+    "publishAt": "2026-09-21T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-micro-family-distance-9s-001",
+    "youtubeVideoId": "gpIC-rN97WY",
+    "uploadedAt": "2026-09-11T13:30:39.550+09:00",
+    "publishAt": "2026-09-22T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-grandchild-care-001",
+    "youtubeVideoId": "PNN8TtL3NAQ",
+    "uploadedAt": "2026-09-14T12:59:48.735+09:00",
+    "publishAt": "2026-09-17T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-call-hesitation-002",
+    "youtubeVideoId": "OPwIR1DUets",
+    "uploadedAt": "2026-09-14T12:59:58.185+09:00",
+    "publishAt": "2026-09-18T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-retired-couple-003",
+    "youtubeVideoId": "jVRJr0SseHI",
+    "uploadedAt": "2026-09-14T13:00:07.429+09:00",
+    "publishAt": "2026-09-19T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-money-boundary-004",
+    "youtubeVideoId": "5yBIwzRLUao",
+    "uploadedAt": "2026-09-14T13:00:19.097+09:00",
+    "publishAt": "2026-09-20T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-health-talk-005",
+    "youtubeVideoId": "mkloANHuul0",
+    "uploadedAt": "2026-09-14T13:00:31.251+09:00",
+    "publishAt": "2026-09-21T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-sibling-care-006",
+    "youtubeVideoId": "_TG8bCGIGak",
+    "uploadedAt": "2026-09-14T13:00:43.398+09:00",
+    "publishAt": "2026-09-22T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-tiring-friend-007",
+    "youtubeVideoId": "HZr4aeizFZA",
+    "uploadedAt": "2026-09-14T13:00:51.384+09:00",
+    "publishAt": "2026-09-23T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-inlaw-words-008",
+    "youtubeVideoId": "zxIFMVtAILQ",
+    "uploadedAt": "2026-09-14T13:00:57.860+09:00",
+    "publishAt": "2026-09-24T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-eating-alone-009",
+    "youtubeVideoId": "HqdZNxkoms4",
+    "uploadedAt": "2026-09-14T13:01:07.321+09:00",
+    "publishAt": "2026-09-25T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1-visit-boundary-010",
+    "youtubeVideoId": "9d2iYwujxBI",
+    "uploadedAt": "2026-09-14T13:01:18.111+09:00",
+    "publishAt": "2026-09-26T12:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-parent-give-list-001",
+    "youtubeVideoId": "iujWKICKW0w",
+    "uploadedAt": "2026-09-23T23:51:48.375+09:00",
+    "publishAt": "2026-09-27T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-parent-life-002",
+    "youtubeVideoId": "8nPCUeJm-U8",
+    "uploadedAt": "2026-09-23T23:51:59.862+09:00",
+    "publishAt": "2026-09-28T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-parent-words-list-003",
+    "youtubeVideoId": "2LRoiD0pd0I",
+    "uploadedAt": "2026-09-23T23:52:07.119+09:00",
+    "publishAt": "2026-09-29T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-parent-choice-004",
+    "youtubeVideoId": "lrgOKfvl7t4",
+    "uploadedAt": "2026-09-23T23:52:24.458+09:00",
+    "publishAt": "2026-09-30T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-contact-value-005",
+    "youtubeVideoId": "Ulz0QbfAOLo",
+    "uploadedAt": "2026-09-23T23:52:45.996+09:00",
+    "publishAt": "2026-10-01T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-friend-silence-006",
+    "youtubeVideoId": "jDV2LdngQX4",
+    "uploadedAt": "2026-09-23T23:52:57.627+09:00",
+    "publishAt": "2026-10-02T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-kind-regret-list-007",
+    "youtubeVideoId": "RIij7MnlLZI",
+    "uploadedAt": "2026-09-23T23:53:04.598+09:00",
+    "publishAt": "2026-10-03T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-kind-letter-008",
+    "youtubeVideoId": "AHT1p38kw4w",
+    "uploadedAt": "2026-09-23T23:53:14.228+09:00",
+    "publishAt": "2026-10-04T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-solitude-009",
+    "youtubeVideoId": "hyDUNf5P2ic",
+    "uploadedAt": "2026-09-23T23:53:22.199+09:00",
+    "publishAt": "2026-10-05T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-r1v2-hurt-expectation-010",
+    "youtubeVideoId": "S21QX27GWL0",
+    "uploadedAt": "2026-09-23T23:53:32.319+09:00",
+    "publishAt": "2026-10-06T20:30:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "life-margin-longform-relationship-decisions-001",
+    "youtubeVideoId": "36ednjhWgdQ",
+    "uploadedAt": "2026-09-25T12:12:24.190+09:00",
+    "publishAt": "2026-09-30T20:30:00.000+09:00",
+    "status": "scheduled",
+    "format": "longform",
+    "derivedFrom": [
+      "life-margin-relationships-no-contact-001",
+      "life-margin-relationships-ending-001"
+    ]
+  },
+  {
+    "contentId": "life-margin-longform-sibling-care-talk-001",
+    "youtubeVideoId": "ToJ8SwJJR3I",
+    "uploadedAt": "2026-09-25T12:12:48.946+09:00",
+    "publishAt": "2026-10-07T20:30:00.000+09:00",
+    "status": "scheduled",
+    "format": "longform",
+    "derivedFrom": [
+      "life-margin-r1-sibling-care-006"
+    ]
+  }
+]

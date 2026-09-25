@@ -1,0 +1,62 @@
+[
+  {
+    "type": "hook",
+    "text": "실패한 뒤의 첫 아침이라면.",
+    "start": 0.7,
+    "end": 3.63
+  },
+  {
+    "type": "verse",
+    "text": "이것이 아침마다 새로우니",
+    "start": 3.63,
+    "end": 6.17
+  },
+  {
+    "type": "verse",
+    "text": "주의 성실이 크도소이다",
+    "start": 6.17,
+    "end": 8.51
+  },
+  {
+    "type": "reflection",
+    "text": "이 말씀은 고난이 없다고 말하지 않습니다.",
+    "start": 8.51,
+    "end": 13.01
+  },
+  {
+    "type": "reflection",
+    "text": "무너진 자리에서도 자비를 기억하며",
+    "start": 13.01,
+    "end": 16.52
+  },
+  {
+    "type": "reflection",
+    "text": "오늘을 다시 열 수 있습니다.",
+    "start": 16.52,
+    "end": 19.65
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 어제의 실패에",
+    "start": 19.65,
+    "end": 21.99
+  },
+  {
+    "type": "prayer",
+    "text": "저를 가두지 말아 주세요.",
+    "start": 21.99,
+    "end": 24.73
+  },
+  {
+    "type": "prayer",
+    "text": "오늘 시작할 작은 일을 보여주세요.",
+    "start": 24.73,
+    "end": 28.44
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 29.34,
+    "end": 29.72
+  }
+]

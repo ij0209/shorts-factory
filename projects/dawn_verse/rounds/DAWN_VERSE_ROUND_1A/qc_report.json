@@ -1,0 +1,312 @@
+{
+  "dawn-r1a-01": {
+    "id": "dawn-r1a-01",
+    "day": 1,
+    "publishAt": "2026-09-26T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-01_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-01.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 30.266667
+  },
+  "dawn-r1a-02": {
+    "id": "dawn-r1a-02",
+    "day": 2,
+    "publishAt": "2026-09-27T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-02_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-02.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 30.166667
+  },
+  "dawn-r1a-03": {
+    "id": "dawn-r1a-03",
+    "day": 3,
+    "publishAt": "2026-09-28T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-03_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-03.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 37.166667
+  },
+  "dawn-r1a-04": {
+    "id": "dawn-r1a-04",
+    "day": 4,
+    "publishAt": "2026-09-29T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-04_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-04.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 35.8
+  },
+  "dawn-r1a-05": {
+    "id": "dawn-r1a-05",
+    "day": 5,
+    "publishAt": "2026-09-30T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-05_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-05.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 38.733333
+  },
+  "dawn-r1a-06": {
+    "id": "dawn-r1a-06",
+    "day": 6,
+    "publishAt": "2026-10-01T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-06_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-06.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 33.933333
+  },
+  "dawn-r1a-07": {
+    "id": "dawn-r1a-07",
+    "day": 7,
+    "publishAt": "2026-10-02T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-07_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-07.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 43.6
+  },
+  "dawn-r1a-08": {
+    "id": "dawn-r1a-08",
+    "day": 8,
+    "publishAt": "2026-10-03T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-08_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-08.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 31.7
+  },
+  "dawn-r1a-09": {
+    "id": "dawn-r1a-09",
+    "day": 9,
+    "publishAt": "2026-10-04T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-09_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-09.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 38.8
+  },
+  "dawn-r1a-10": {
+    "id": "dawn-r1a-10",
+    "day": 10,
+    "publishAt": "2026-10-05T05:00:00.000+09:00",
+    "videoPath": "/Users/pictureon/Documents/shorts-factory/output/dawn-verse/dawn-r1a-10_20260925.mp4",
+    "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-10.mp3",
+    "qc": [
+      {
+        "check": "duration_22_45",
+        "pass": true
+      },
+      {
+        "check": "vertical_1080x1920",
+        "pass": true
+      },
+      {
+        "check": "audio_stream",
+        "pass": true
+      },
+      {
+        "check": "verse_source",
+        "pass": true
+      },
+      {
+        "check": "brand_voice",
+        "pass": true
+      }
+    ],
+    "voiceEngine": "gemini-charon-pastor-approved-v6",
+    "duration": 30.366667
+  }
+}

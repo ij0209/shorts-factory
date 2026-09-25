@@ -1,0 +1,56 @@
+[
+  {
+    "type": "hook",
+    "text": "이번 달 생활비를 또 계산했나요?",
+    "start": 0.7,
+    "end": 4.55
+  },
+  {
+    "type": "verse",
+    "text": "오늘날 우리에게 일용할 양식을 주옵시고",
+    "start": 4.55,
+    "end": 9.04
+  },
+  {
+    "type": "reflection",
+    "text": "예수님은 오늘 필요한 양식을 구하라고",
+    "start": 9.04,
+    "end": 13.32
+  },
+  {
+    "type": "reflection",
+    "text": "가르치셨습니다.",
+    "start": 13.32,
+    "end": 15.03
+  },
+  {
+    "type": "reflection",
+    "text": "걱정을 숨기지 말고,",
+    "start": 15.03,
+    "end": 17.38
+  },
+  {
+    "type": "reflection",
+    "text": "도움과 정보를 구할 한 곳도 찾아보세요.",
+    "start": 17.38,
+    "end": 22.09
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 필요한 것을 솔직히 아룁니다.",
+    "start": 22.09,
+    "end": 26.58
+  },
+  {
+    "type": "prayer",
+    "text": "오늘의 지혜와 힘을 주세요.",
+    "start": 26.58,
+    "end": 29.79
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 30.69,
+    "end": 31.04
+  }
+]

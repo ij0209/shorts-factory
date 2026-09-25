@@ -1,0 +1,82 @@
+[
+  {
+    "contentId": "dawn-r1a-01",
+    "youtubeVideoId": "SMFmw0Vax-k",
+    "uploadedAt": "2026-09-25T07:21:50.538+09:00",
+    "publishAt": "2026-09-26T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-02",
+    "youtubeVideoId": "TFwa_UdyGrQ",
+    "uploadedAt": "2026-09-25T07:21:54.799+09:00",
+    "publishAt": "2026-09-27T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-03",
+    "youtubeVideoId": "WS0Vt4IM-bU",
+    "uploadedAt": "2026-09-25T07:21:59.312+09:00",
+    "publishAt": "2026-09-28T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-04",
+    "youtubeVideoId": "rTNOCtgXPPE",
+    "uploadedAt": "2026-09-25T07:22:03.231+09:00",
+    "publishAt": "2026-09-29T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-05",
+    "youtubeVideoId": "WvUdLbJ9VYs",
+    "uploadedAt": "2026-09-25T07:22:07.639+09:00",
+    "publishAt": "2026-09-30T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-06",
+    "youtubeVideoId": "lEG3V5Y4kKA",
+    "uploadedAt": "2026-09-25T07:22:11.834+09:00",
+    "publishAt": "2026-10-01T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-07",
+    "youtubeVideoId": "BIJEow4glfY",
+    "uploadedAt": "2026-09-25T07:22:17.364+09:00",
+    "publishAt": "2026-10-02T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-08",
+    "youtubeVideoId": "IyG2cyXAHB4",
+    "uploadedAt": "2026-09-25T07:22:30.149+09:00",
+    "publishAt": "2026-10-03T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-09",
+    "youtubeVideoId": "vJCN_0AgRtw",
+    "uploadedAt": "2026-09-25T07:22:37.126+09:00",
+    "publishAt": "2026-10-04T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  },
+  {
+    "contentId": "dawn-r1a-10",
+    "youtubeVideoId": "pGVzI1b8PH8",
+    "uploadedAt": "2026-09-25T07:22:41.471+09:00",
+    "publishAt": "2026-10-05T05:00:00.000+09:00",
+    "status": "cancelled",
+    "cancelledAt": "2026-09-25T07:30:12.171+09:00"
+  }
+]

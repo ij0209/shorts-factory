@@ -1,0 +1,62 @@
+[
+  {
+    "type": "hook",
+    "text": "쉬면 안 될 것 같아 더 지쳤나요?",
+    "start": 0.7,
+    "end": 5.61
+  },
+  {
+    "type": "verse",
+    "text": "수고하고 무거운 짐진 자들아 !",
+    "start": 5.61,
+    "end": 10.01
+  },
+  {
+    "type": "verse",
+    "text": "다 내게로 오라 내가 너희를 쉬게 하리라",
+    "start": 10.01,
+    "end": 15.7
+  },
+  {
+    "type": "reflection",
+    "text": "쉼은 모든 일을 끝낸 사람만",
+    "start": 15.7,
+    "end": 19.58
+  },
+  {
+    "type": "reflection",
+    "text": "누리는 상이 아닙니다.",
+    "start": 19.58,
+    "end": 22.68
+  },
+  {
+    "type": "reflection",
+    "text": "오늘 짧게라도 숨을 고를 자리를 만드세요.",
+    "start": 22.68,
+    "end": 28.63
+  },
+  {
+    "type": "prayer",
+    "text": "예수님, 지친 마음을 숨기지 않게 해주세요.",
+    "start": 28.63,
+    "end": 34.84
+  },
+  {
+    "type": "prayer",
+    "text": "멈춰 쉴 용기를 주세요.",
+    "start": 34.84,
+    "end": 38.2
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 39.1,
+    "end": 39.41
+  },
+  {
+    "type": "cta",
+    "text": "내일 새벽 5시에 다시 만나요.",
+    "start": 40.61,
+    "end": 43.01
+  }
+]

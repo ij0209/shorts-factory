@@ -1,0 +1,79 @@
+[
+  {
+    "contentId": "mart-closing-001",
+    "youtubeVideoId": "wy_t31AH7ZI",
+    "uploadedAt": "2026-08-31T12:11:40.615+09:00",
+    "publishAt": null,
+    "status": "private"
+  },
+  {
+    "contentId": "apartment-parking-001",
+    "youtubeVideoId": "iAcSL-Zbp0o",
+    "uploadedAt": "2026-08-31T12:14:52.477+09:00",
+    "publishAt": "2026-08-31T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "apartment-recycling-001",
+    "youtubeVideoId": "G9LPANW3oXw",
+    "uploadedAt": "2026-08-31T12:14:56.433+09:00",
+    "publishAt": "2026-09-01T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "apartment-smoking-001",
+    "youtubeVideoId": "cFW_98KF-hE",
+    "uploadedAt": "2026-08-31T12:14:59.575+09:00",
+    "publishAt": "2026-09-02T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "mart-parking-001",
+    "youtubeVideoId": "RZD8ZrXTeyY",
+    "uploadedAt": "2026-08-31T12:15:03.580+09:00",
+    "publishAt": "2026-09-03T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "mart-closing-10min-001",
+    "youtubeVideoId": "oV05MpweZZ0",
+    "uploadedAt": "2026-08-31T12:15:06.639+09:00",
+    "publishAt": "2026-09-04T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "camping-checkout-001",
+    "youtubeVideoId": "wIgObB_XBik",
+    "uploadedAt": "2026-08-31T12:15:12.056+09:00",
+    "publishAt": "2026-09-05T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "camping-fire-safety-001",
+    "youtubeVideoId": "DSKshWV5Viw",
+    "uploadedAt": "2026-08-31T12:15:16.251+09:00",
+    "publishAt": "2026-09-06T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "kids-cafe-closing-001",
+    "youtubeVideoId": "gMSgpSdMtWg",
+    "uploadedAt": "2026-08-31T12:15:19.953+09:00",
+    "publishAt": "2026-09-07T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "nursing-home-fall-prevention-001",
+    "youtubeVideoId": "xg5nZa-JBg0",
+    "uploadedAt": "2026-08-31T12:15:23.070+09:00",
+    "publishAt": "2026-09-08T19:00:00.000+09:00",
+    "status": "scheduled"
+  },
+  {
+    "contentId": "gym-closing-001",
+    "youtubeVideoId": "CXaXfO0ZaRQ",
+    "uploadedAt": "2026-08-31T12:15:28.268+09:00",
+    "publishAt": "2026-09-09T19:00:00.000+09:00",
+    "status": "scheduled"
+  }
+]

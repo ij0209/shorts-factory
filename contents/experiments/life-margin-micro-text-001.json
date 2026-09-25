@@ -1,0 +1,15 @@
+{
+  "experimentId": "life-margin-micro-text-exp01",
+  "project": "life-margin",
+  "contentType": "micro_text_loop",
+  "format": "shorts",
+  "durationVariants": [5, 9],
+  "goal": "반복 재생률과 구독 전환을 기존 이야기형 숏츠와 비교",
+  "visualRules": {"ratio":"9:16","singleCard":true,"voice":false,"bgm":true,"brand":"삶의 여백","avoidImitation":true},
+  "candidates": [
+    {"topicCluster":"children_boundaries","title":"자식과 가까울수록 지켜야 할 5가지","items":["방문 전 먼저 묻기","답장이 늦어도 재촉하지 않기","조언 전에 들어주기","도움 뒤에 대가를 바라지 않기","자식 밖의 내 하루도 채우기"]},
+    {"topicCluster":"good_parent_words","title":"좋은 부모가 자식에게 하지 않는 말","items":["내가 너 때문에 얼마나 했는데","결혼하더니 사람이 달라졌다","다 너 잘되라고 하는 말이다","누구네 자식은 잘만 하더라","부모 말 들어서 손해 볼 것 없다"]},
+    {"topicCluster":"family_distance","title":"가족에게 서운함을 줄이는 5가지 말","items":["지금 통화 괜찮니","내 생각을 말해도 될까","언제 만나면 서로 편할까","다음에는 미리 알려주면 좋겠구나","네 선택을 존중한다"]}
+  ],
+  "metrics": ["viewedVsSwipedAway","averagePercentageViewed","rewatchRate","subscribersPer1000Views","longformClicks"]
+}

@@ -1,0 +1,182 @@
+{
+  "contents": [
+    {
+      "id": "apartment-water-outage-001", "contentType": "announcement", "youtubeChannel": "wemakevoice", "youtubeUpload": true,
+      "category": "apartment", "topic": "water_outage", "title": "아파트 단수 안내방송", "hookType": "broadcast_first", "experimentGroup": "apartment-water-exp01",
+      "hook": "🔊 아파트 단수 안내\n이 문구 그대로 쓰세요",
+      "narration": "입주민 여러분께 단수 안내드립니다. 시설 점검으로 인해 안내된 시간 동안 수돗물 공급이 일시 중단될 예정입니다. 필요한 물은 미리 준비해 주시고, 단수 종료 후에는 수도를 잠시 흘려보낸 뒤 사용해 주세요. 이용에 불편을 드려 죄송하며 입주민 여러분의 양해를 부탁드립니다.",
+      "background": "apartment-water-outage-001.png", "bgm": "music/content/apartment-water-outage-001.mp3", "bgmPrompt": "calm clean urban ambient instrumental with soft marimba pulses, warm pad and restrained light percussion; practical and reassuring, no tension",
+      "youtubeTitle": "아파트 단수 안내방송 🔊 관리사무소에서 바로 쓰는 문구 #shorts",
+      "youtubeDescription": "아파트 시설 점검과 단수 시간을 알릴 때 사용할 수 있는 안내방송 문구입니다. 관리사무소 방송에 상황에 맞게 활용해보세요.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#아파트안내방송 #단수안내 #관리사무소 #안내방송문구 #shorts",
+      "youtubeTags": ["아파트 단수 안내방송", "단수 안내", "관리사무소 방송", "아파트 안내방송", "시설 점검 방송", "공동주택 안내", "안내방송 문구", "WeMakeVoice", "shorts"]
+    },
+    {
+      "id": "apartment-elevator-inspection-001", "contentType": "announcement", "youtubeChannel": "wemakevoice", "youtubeUpload": true,
+      "category": "apartment", "topic": "elevator_inspection", "title": "아파트 승강기 점검 안내방송", "hookType": "situation", "experimentGroup": "apartment-elevator-exp01",
+      "hook": "엘리베이터 점검 전\n이렇게 방송하세요",
+      "narration": "입주민 여러분께 안내 말씀드립니다. 안전 점검을 위해 안내된 시간 동안 승강기 운행이 일시 중단됩니다. 점검 중에는 계단을 이용해 주시고, 이동이 불편하신 분께서는 운행 중단 전에 미리 이동해 주세요. 안전한 승강기 이용을 위한 점검이오니 협조 부탁드립니다.",
+      "background": "apartment-elevator-inspection-001.png", "bgm": "music/content/apartment-elevator-inspection-001.mp3", "bgmPrompt": "minimal modern facility ambience with muted electric piano, soft precise pulse and subtle warm bass; orderly, safe and unobtrusive",
+      "youtubeTitle": "아파트 승강기 점검 안내방송 🔊 운행 중단 전 문구 #shorts",
+      "youtubeDescription": "아파트 승강기 안전 점검과 운행 중단을 알리는 안내방송입니다. 점검 시간과 상황에 맞춰 활용할 수 있습니다.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#아파트안내방송 #승강기점검 #엘리베이터점검 #관리사무소 #shorts",
+      "youtubeTags": ["아파트 승강기 점검", "엘리베이터 점검 안내방송", "승강기 운행 중단", "관리사무소 방송", "아파트 안내방송", "시설 점검", "안내방송 문구", "WeMakeVoice", "shorts"]
+    },
+    {
+      "id": "mart-lost-child-001", "contentType": "announcement", "youtubeChannel": "wemakevoice", "youtubeUpload": true,
+      "category": "mart", "topic": "lost_child", "title": "마트 미아 보호 안내방송", "hookType": "broadcast_first", "experimentGroup": "mart-lost-child-exp01",
+      "hook": "🔊 마트 미아 안내\n당황하지 말고 이렇게",
+      "narration": "고객 여러분께 안내 말씀드립니다. 현재 매장에서 보호자를 찾고 있는 어린이가 있습니다. 보호자께서는 안내데스크로 방문해 주시기 바랍니다. 다른 고객 여러분께서는 어린이의 안전한 보호를 위해 주변 통행에 협조해 주세요. 자세한 내용은 안내데스크에서 확인하실 수 있습니다.",
+      "background": "mart-lost-child-001.png", "bgm": "music/content/mart-lost-child-001.mp3", "bgmPrompt": "gentle attentive retail underscore with soft piano, quiet plucked texture and a steady restrained pulse; reassuring, never alarming or playful",
+      "youtubeTitle": "마트 미아 보호 안내방송 🔊 안내데스크에서 쓰는 문구 #shorts",
+      "youtubeDescription": "마트에서 보호자를 찾는 어린이를 안전하게 안내할 때 참고할 수 있는 방송 문구입니다. 개인정보는 현장 상황에 맞게 별도로 안내하세요.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#마트안내방송 #미아안내 #안내데스크 #매장방송 #shorts",
+      "youtubeTags": ["마트 미아 안내방송", "미아 보호 안내", "보호자 찾기 방송", "안내데스크 방송", "마트 안내방송", "매장 안내", "안내방송 문구", "WeMakeVoice", "shorts"]
+    },
+    {
+      "id": "camping-heavy-rain-safety-001", "contentType": "announcement", "youtubeChannel": "wemakevoice", "youtubeUpload": true,
+      "category": "camping", "topic": "heavy_rain_safety", "title": "캠핑장 집중호우 안전 안내방송", "hookType": "situation", "experimentGroup": "camping-rain-exp01",
+      "hook": "캠핑 중 비가 거세지면\n이 방송부터 하세요",
+      "narration": "캠핑장 이용객 여러분께 안전 안내드립니다. 현재 강한 비가 내리고 있어 계곡과 경사진 곳, 물이 고이는 장소에는 접근하지 말아 주세요. 텐트 주변의 배수 상태와 고정 장치를 확인하시고, 위험이 느껴질 경우 관리자의 안내에 따라 안전한 장소로 이동해 주시기 바랍니다.",
+      "background": "camping-heavy-rain-safety-001.png", "bgm": "music/content/camping-heavy-rain-safety-001.mp3", "bgmPrompt": "grounded rainy forest ambient instrumental with soft wooden tones, low warm pad and sparse delicate pulse; attentive and calm, no thunder or dramatic suspense",
+      "youtubeTitle": "캠핑장 집중호우 안전 안내방송 🌧️ 비가 거셀 때 #shorts",
+      "youtubeDescription": "캠핑장에서 비가 강해질 때 계곡 접근과 텐트 주변 안전을 안내하는 방송입니다. 현장 관리자의 지침과 함께 활용하세요.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#캠핑장안전 #집중호우 #캠핑장안내방송 #우천캠핑 #shorts",
+      "youtubeTags": ["캠핑장 집중호우 안내", "캠핑장 안전방송", "우천 캠핑 안전", "계곡 접근 금지", "텐트 안전", "캠핑장 운영", "안내방송 문구", "WeMakeVoice", "shorts"]
+    },
+    {
+      "id": "kids-cafe-lost-property-001", "contentType": "announcement", "youtubeChannel": "wemakevoice", "youtubeUpload": true,
+      "category": "kids-cafe", "topic": "lost_property", "title": "키즈카페 분실물 확인 안내방송", "hookType": "manager_problem", "experimentGroup": "kids-cafe-lost-exp01",
+      "hook": "키즈카페 분실물\n매번 생긴다면?",
+      "narration": "이용 고객 여러분께 안내 말씀드립니다. 퇴실 전 신발장과 테이블 주변에 두고 가는 물건이 없는지 확인해 주세요. 휴대전화와 지갑, 어린이의 겉옷과 장난감도 다시 한번 살펴봐 주시기 바랍니다. 발견된 분실물은 안내데스크에서 일정 기간 보관합니다.",
+      "background": "kids-cafe-lost-property-001.png", "bgm": "music/content/kids-cafe-lost-property-001.mp3", "bgmPrompt": "friendly tidy instrumental with soft mallets, warm acoustic plucks and a tiny relaxed beat; family-friendly, calm and not childish",
+      "youtubeTitle": "키즈카페 분실물 안내방송 🔊 퇴실 전 확인 문구 #shorts",
+      "youtubeDescription": "키즈카페 퇴실 전 소지품과 어린이 물품을 확인하도록 안내하는 방송입니다. 반복되는 분실물 예방에 활용해보세요.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#키즈카페안내방송 #분실물안내 #키즈카페운영 #퇴실안내 #shorts",
+      "youtubeTags": ["키즈카페 분실물", "분실물 안내방송", "키즈카페 안내방송", "퇴실 전 확인", "어린이 소지품", "안내데스크", "안내방송 문구", "WeMakeVoice", "shorts"]
+    },
+    {
+      "id": "hospital-visiting-hours-001", "contentType": "announcement", "youtubeChannel": "wemakevoice", "youtubeUpload": true,
+      "category": "hospital", "topic": "visiting_hours", "title": "병원 면회시간 종료 안내방송", "hookType": "default", "experimentGroup": "hospital-visiting-exp01",
+      "hook": "병원 면회 종료 방송\n차분하게 이렇게",
+      "narration": "보호자와 방문객 여러분께 안내 말씀드립니다. 잠시 후 면회시간이 종료됩니다. 환자분들의 안정과 휴식을 위해 면회를 마무리해 주시고, 병실을 나서기 전 개인 소지품을 확인해 주세요. 정해진 면회시간 준수를 위해 협조해 주셔서 감사합니다.",
+      "background": "hospital-visiting-hours-001.png", "bgm": "music/content/hospital-visiting-hours-001.mp3", "bgmPrompt": "quiet dignified healthcare ambient instrumental with felt piano, airy pad and almost no percussion; clean, comforting and respectful",
+      "youtubeTitle": "병원 면회시간 종료 안내방송 🔊 차분한 마감 문구 #shorts",
+      "youtubeDescription": "병원 면회시간 종료와 환자 휴식을 안내하는 차분한 방송 문구입니다. 병원과 요양시설의 운영 기준에 맞게 활용하세요.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#병원안내방송 #면회시간 #병원방송 #보호자안내 #shorts",
+      "youtubeTags": ["병원 면회시간 안내", "면회 종료 안내방송", "병원 안내방송", "보호자 안내", "병실 방송", "환자 휴식", "안내방송 문구", "WeMakeVoice", "shorts"]
+    },
+    {
+      "id": "restaurant-last-order-001", "contentType": "announcement", "youtubeChannel": "wemakevoice", "youtubeUpload": true,
+      "category": "restaurant", "topic": "last_order", "title": "음식점 라스트오더 안내방송", "hookType": "manager_problem", "experimentGroup": "restaurant-last-order-exp01",
+      "hook": "마감 주문 안내\n직접 말하기 어렵다면?",
+      "narration": "고객 여러분께 안내 말씀드립니다. 잠시 후 주문 접수가 마감될 예정입니다. 추가로 주문하실 메뉴가 있으신 고객님께서는 마감시간 전에 직원에게 말씀해 주세요. 편안하게 식사를 마무리하실 수 있도록 최선을 다하겠습니다. 이용해 주셔서 감사합니다.",
+      "background": "restaurant-last-order-001.png", "bgm": "music/content/restaurant-last-order-001.mp3", "bgmPrompt": "warm contemporary dining instrumental with soft Rhodes, brushed percussion and mellow upright bass; welcoming, polished and unhurried",
+      "youtubeTitle": "음식점 라스트오더 안내방송 🔊 주문 마감 문구 #shorts",
+      "youtubeDescription": "음식점과 카페에서 주문 마감시간을 부드럽게 알리는 안내방송입니다. 매장 운영시간에 맞게 활용해보세요.\n\n🎙 안내방송 음성 : WeMakeVoice\nwemakevoice.com\n\n#라스트오더 #음식점안내방송 #주문마감 #매장방송 #shorts",
+      "youtubeTags": ["라스트오더 안내방송", "음식점 주문 마감", "주문 마감 방송", "음식점 안내방송", "매장 마감", "카페 라스트오더", "안내방송 문구", "WeMakeVoice", "shorts"]
+    },
+    {
+      "id": "life-margin-family-giving-001", "contentType": "life-margin", "youtubeChannel": "life-margin", "youtubeUpload": true,
+      "category": "family", "categoryLabel": "가족", "topic": "healthy_giving", "title": "자식에게 모든 것을 주지 않아도 되는 이유",
+      "hook": "자식에게 모든 것을\n주지 않아도 됩니다",
+      "narration": "자식을 사랑한다고 해서 내가 가진 모든 것을 먼저 내어줄 필요는 없습니다. 부모의 희생이 클수록 자식이 더 행복해지는 것도 아닙니다. 오히려 부모가 자신의 생활을 지키고 건강하게 살아가는 모습이 자식에게는 더 큰 안심이 됩니다. 도움을 줄 때에는 내가 감당할 수 있는 만큼만 주세요. 미안한 마음 때문에 노후의 안전까지 포기하지는 마세요. 부모와 자식이 서로의 삶을 존중할 때 관계는 오래 편안해집니다. 나를 돌보는 일도 가족을 사랑하는 방법입니다.",
+      "voiceName": "Charon", "bgm": "music/life-margin/family-giving-001.mp3", "bgmPrompt": "warm restrained instrumental with felt piano, soft cello-like pad and occasional acoustic guitar harmonics; caring but not sentimental, no drums",
+      "scenes": [
+        {"narration":"자식을 사랑한다고 해서 내가 가진 모든 것을 먼저 내어줄 필요는 없습니다.","asset":"family-giving-window-001.png"},
+        {"narration":"부모의 희생이 클수록 자식이 더 행복해지는 것도 아닙니다.","asset":"family-giving-hands-002.png"},
+        {"narration":"오히려 부모가 자신의 생활을 지키고 건강하게 살아가는 모습이 자식에게는 더 큰 안심이 됩니다.","asset":"family-giving-walk-003.png"},
+        {"narration":"도움을 줄 때에는 내가 감당할 수 있는 만큼만 주세요.","asset":"family-giving-table-004.png"},
+        {"narration":"미안한 마음 때문에 노후의 안전까지 포기하지는 마세요.","asset":"family-giving-garden-005.png"},
+        {"narration":"부모와 자식이 서로의 삶을 존중할 때 관계는 오래 편안해집니다. 나를 돌보는 일도 가족을 사랑하는 방법입니다.","asset":"family-giving-sunset-006.png"}
+      ],
+      "youtubeTitle": "자식에게 모든 것을 주지 않아도 되는 이유 | 부모의 노후 #shorts",
+      "youtubeDescription": "자식을 사랑하는 마음과 부모 자신의 노후를 지키는 일은 함께 갈 수 있습니다. 서로의 삶을 존중하는 가족 관계를 생각해봅니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#부모자식 #노후준비 #가족관계 #삶의지혜 #shorts",
+      "youtubeTags": ["부모 자식 관계", "부모의 노후", "노후 준비", "가족 관계", "인생 조언", "삶의 지혜", "시니어", "삶의 여백", "shorts"]
+    },
+    {
+      "id": "life-margin-mind-worry-001", "contentType": "life-margin", "youtubeChannel": "life-margin", "youtubeUpload": true,
+      "category": "mind", "categoryLabel": "마음", "topic": "future_worry", "title": "걱정의 대부분은 아직 일어나지 않은 일입니다",
+      "hook": "오늘의 걱정 대부분은\n아직 일어나지 않았습니다",
+      "narration": "우리는 아직 오지 않은 일을 미리 걱정하며 오늘의 마음을 사용하곤 합니다. 혹시 잘못되면 어쩌나, 나쁜 일이 생기면 어쩌나 생각하다 보면 지금 누릴 수 있는 평온까지 놓치게 됩니다. 걱정한다고 내일의 어려움이 줄어드는 것은 아닙니다. 오늘 할 수 있는 일이 있다면 조용히 해두고, 지금 해결할 수 없는 일은 내일의 나에게 맡겨보세요. 삶은 생각보다 많은 순간을 스스로 잘 지나왔습니다. 오늘 하루만큼은 아직 오지 않은 일보다 지금 곁에 있는 편안함을 바라보세요.",
+      "voiceName": "Charon", "bgm": "music/life-margin/mind-worry-001.mp3", "bgmPrompt": "spacious peaceful instrumental with very soft felt piano, airy morning pad and subtle natural texture; slow breathing pace, no percussion, no melancholy",
+      "scenes": [
+        {"narration":"우리는 아직 오지 않은 일을 미리 걱정하며 오늘의 마음을 사용하곤 합니다.","asset":"mind-worry-rain-window-001.png"},
+        {"narration":"혹시 잘못되면 어쩌나, 나쁜 일이 생기면 어쩌나 생각하다 보면 지금 누릴 수 있는 평온까지 놓치게 됩니다.","asset":"mind-worry-clouds-002.png"},
+        {"narration":"걱정한다고 내일의 어려움이 줄어드는 것은 아닙니다.","asset":"mind-worry-cup-003.png"},
+        {"narration":"오늘 할 수 있는 일이 있다면 조용히 해두고, 지금 해결할 수 없는 일은 내일의 나에게 맡겨보세요.","asset":"mind-worry-desk-004.png"},
+        {"narration":"삶은 생각보다 많은 순간을 스스로 잘 지나왔습니다.","asset":"mind-worry-path-005.png"},
+        {"narration":"오늘 하루만큼은 아직 오지 않은 일보다 지금 곁에 있는 편안함을 바라보세요.","asset":"mind-worry-dawn-006.png"}
+      ],
+      "youtubeTitle": "걱정의 대부분은 아직 일어나지 않은 일입니다 | 마음이 편해지는 말 #shorts",
+      "youtubeDescription": "아직 오지 않은 일을 걱정하느라 오늘의 평온을 놓치고 있지는 않은지 돌아봅니다. 지금 할 수 있는 것에 마음을 두어보세요.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#걱정 #마음공부 #인생조언 #삶의지혜 #shorts",
+      "youtubeTags": ["걱정 줄이는 법", "마음이 편해지는 말", "마음 공부", "인생 조언", "삶의 지혜", "불안", "시니어", "삶의 여백", "shorts"]
+    },
+    {
+      "id": "life-margin-retirement-letting-go-001", "contentType": "life-margin", "youtubeChannel": "life-margin", "youtubeUpload": true,
+      "category": "retirement", "categoryLabel": "노후", "topic": "letting_go", "title": "60세 이후 마음에서 내려놓아야 할 것",
+      "hook": "60세 이후에는\n이것부터 내려놓으세요",
+      "narration": "예순을 지나면 더 많이 가지는 일보다 무엇을 내려놓을지가 중요해집니다. 모든 사람에게 좋은 사람으로 보이려는 마음, 지나간 선택을 계속 후회하는 마음, 남들과 내 삶을 비교하는 습관을 조금씩 놓아보세요. 내려놓는다고 삶을 포기하는 것이 아닙니다. 내게 정말 필요한 사람과 시간에 마음을 쓰기 위한 선택입니다. 남은 삶은 누군가의 기준을 따라가기보다 내 몸과 마음이 편안한 방향으로 살아도 괜찮습니다. 비워낸 자리에는 생각보다 큰 평온이 찾아옵니다.",
+      "voiceName": "Charon", "bgm": "music/life-margin/retirement-letting-go-001.mp3", "bgmPrompt": "serene mature instrumental with low felt piano, soft bamboo-like breath texture and warm ambient pad; spacious, dignified, no beat and no cinematic swell",
+      "scenes": [
+        {"narration":"예순을 지나면 더 많이 가지는 일보다 무엇을 내려놓을지가 중요해집니다.","asset":"retirement-lettinggo-room-001.png"},
+        {"narration":"모든 사람에게 좋은 사람으로 보이려는 마음, 지나간 선택을 계속 후회하는 마음, 남들과 내 삶을 비교하는 습관을 조금씩 놓아보세요.","asset":"retirement-lettinggo-leaves-002.png"},
+        {"narration":"내려놓는다고 삶을 포기하는 것이 아닙니다.","asset":"retirement-lettinggo-hands-003.png"},
+        {"narration":"내게 정말 필요한 사람과 시간에 마음을 쓰기 위한 선택입니다.","asset":"retirement-lettinggo-bench-004.png"},
+        {"narration":"남은 삶은 누군가의 기준을 따라가기보다 내 몸과 마음이 편안한 방향으로 살아도 괜찮습니다.","asset":"retirement-lettinggo-field-005.png"},
+        {"narration":"비워낸 자리에는 생각보다 큰 평온이 찾아옵니다.","asset":"retirement-lettinggo-sky-006.png"}
+      ],
+      "youtubeTitle": "60세 이후 마음에서 내려놓아야 할 것 | 편안한 노후 #shorts",
+      "youtubeDescription": "좋은 사람으로 보이려는 마음과 지난 후회, 비교하는 습관을 조금씩 내려놓아도 괜찮습니다. 남은 삶의 평온을 위한 이야기입니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#60대 #노후생활 #마음공부 #인생조언 #shorts",
+      "youtubeTags": ["60세 이후", "편안한 노후", "노후 생활", "내려놓기", "마음 공부", "인생 조언", "시니어", "삶의 여백", "shorts"]
+    },
+    {
+      "id": "life-margin-relationships-ending-001", "contentType": "life-margin", "youtubeChannel": "life-margin", "youtubeUpload": true,
+      "category": "relationships", "categoryLabel": "인연", "topic": "ending_relationships", "title": "끝난 인연을 억지로 붙잡지 않아도 됩니다",
+      "hook": "끝난 인연을\n붙잡지 않아도 됩니다",
+      "narration": "오래 알고 지냈다는 이유만으로 모든 인연을 끝까지 붙잡을 필요는 없습니다. 연락할 때마다 마음이 무겁고, 만나고 돌아오면 내가 작아지는 관계도 있습니다. 멀어진 인연에는 누군가의 잘못보다 서로의 시간이 달라진 이유가 있을 수 있습니다. 떠나는 사람을 억지로 잡기보다 함께했던 시간에 감사하고 조용히 놓아주세요. 빈자리가 처음에는 허전하겠지만 그곳에 새로운 평온과 좋은 인연이 들어옵니다. 관계의 끝을 받아들이는 것도 나를 존중하는 한 가지 방법입니다.",
+      "voiceName": "Charon", "bgm": "music/life-margin/relationships-ending-001.mp3", "bgmPrompt": "gentle reflective instrumental with sparse piano notes, warm distant strings and quiet room ambience; bittersweet but peaceful, no drums or dramatic sadness",
+      "scenes": [
+        {"narration":"오래 알고 지냈다는 이유만으로 모든 인연을 끝까지 붙잡을 필요는 없습니다.","asset":"relationships-ending-road-001.png"},
+        {"narration":"연락할 때마다 마음이 무겁고, 만나고 돌아오면 내가 작아지는 관계도 있습니다.","asset":"relationships-ending-chair-002.png"},
+        {"narration":"멀어진 인연에는 누군가의 잘못보다 서로의 시간이 달라진 이유가 있을 수 있습니다.","asset":"relationships-ending-tracks-003.png"},
+        {"narration":"떠나는 사람을 억지로 잡기보다 함께했던 시간에 감사하고 조용히 놓아주세요.","asset":"relationships-ending-river-004.png"},
+        {"narration":"빈자리가 처음에는 허전하겠지만 그곳에 새로운 평온과 좋은 인연이 들어옵니다.","asset":"relationships-ending-window-005.png"},
+        {"narration":"관계의 끝을 받아들이는 것도 나를 존중하는 한 가지 방법입니다.","asset":"relationships-ending-sea-006.png"}
+      ],
+      "youtubeTitle": "끝난 인연을 억지로 붙잡지 않아도 됩니다 | 인간관계 #shorts",
+      "youtubeDescription": "오래된 관계라도 내 마음을 계속 힘들게 한다면 조용히 거리를 두어도 괜찮습니다. 관계의 끝을 받아들이는 마음에 관해 이야기합니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#인간관계 #인연 #마음정리 #인생조언 #shorts",
+      "youtubeTags": ["끝난 인연", "인간 관계", "인연 정리", "관계 정리", "마음 공부", "인생 조언", "시니어", "삶의 여백", "shorts"]
+    },
+    {
+      "id": "life-margin-solitude-comfort-001", "contentType": "life-margin", "youtubeChannel": "life-margin", "youtubeUpload": true,
+      "category": "solitude", "categoryLabel": "혼자", "topic": "comfortable_solitude", "title": "혼자 있는 시간이 편안해지는 나이",
+      "hook": "혼자 있는 시간이\n편안해지는 나이",
+      "narration": "젊을 때에는 혼자 있는 시간이 외롭게 느껴질 때가 많았습니다. 누군가와 늘 함께해야 잘 살고 있는 것 같기도 했습니다. 하지만 나이가 들수록 혼자 보내는 시간에도 고요한 기쁨이 있다는 것을 알게 됩니다. 천천히 차를 마시고, 좋아하는 길을 걷고, 아무에게도 맞추지 않은 채 하루를 보내는 일은 외로움이 아니라 자유일 수 있습니다. 사람을 피할 필요는 없지만 혼자인 나를 불편해하지도 마세요. 혼자서도 편안한 사람은 누군가와 함께할 때에도 자신을 잃지 않습니다.",
+      "voiceName": "Charon", "bgm": "music/life-margin/solitude-comfort-001.mp3", "bgmPrompt": "intimate peaceful instrumental with soft acoustic guitar harmonics, felt piano and airy afternoon ambience; quietly joyful, spacious, no drums",
+      "scenes": [
+        {"narration":"젊을 때에는 혼자 있는 시간이 외롭게 느껴질 때가 많았습니다.","asset":"solitude-comfort-window-001.png"},
+        {"narration":"누군가와 늘 함께해야 잘 살고 있는 것 같기도 했습니다.","asset":"solitude-comfort-cafe-002.png"},
+        {"narration":"하지만 나이가 들수록 혼자 보내는 시간에도 고요한 기쁨이 있다는 것을 알게 됩니다.","asset":"solitude-comfort-reading-003.png"},
+        {"narration":"천천히 차를 마시고, 좋아하는 길을 걷고, 아무에게도 맞추지 않은 채 하루를 보내는 일은 외로움이 아니라 자유일 수 있습니다.","asset":"solitude-comfort-walk-004.png"},
+        {"narration":"사람을 피할 필요는 없지만 혼자인 나를 불편해하지도 마세요.","asset":"solitude-comfort-tea-005.png"},
+        {"narration":"혼자서도 편안한 사람은 누군가와 함께할 때에도 자신을 잃지 않습니다.","asset":"solitude-comfort-evening-006.png"}
+      ],
+      "youtubeTitle": "혼자 있는 시간이 편안해지는 나이 | 외로움이 아닌 자유 #shorts",
+      "youtubeDescription": "혼자 보내는 시간이 꼭 외로움일 필요는 없습니다. 누구에게도 맞추지 않고 나답게 머무는 고요한 자유를 생각해봅니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#혼자있는시간 #외로움 #노후생활 #삶의지혜 #shorts",
+      "youtubeTags": ["혼자 있는 시간", "외로움", "혼자 사는 삶", "노후 생활", "마음 공부", "인생 조언", "시니어", "삶의 여백", "shorts"]
+    },
+    {
+      "id": "life-margin-relationships-no-contact-001", "contentType": "life-margin", "youtubeChannel": "life-margin", "youtubeUpload": true,
+      "category": "relationships", "categoryLabel": "인간관계", "topic": "no_contact", "title": "연락 없는 사람에게 서운해하지 않아도 되는 이유",
+      "hook": "연락 없는 사람에게\n서운해하지 마세요",
+      "narration": "먼저 연락하지 않는 사람을 보며 내가 중요하지 않은가 생각할 때가 있습니다. 하지만 연락의 횟수가 마음의 크기를 모두 말해주는 것은 아닙니다. 각자의 삶이 바쁘고 표현하는 방식도 다릅니다. 늘 나만 연락하는 관계가 지친다면 잠시 멈추어도 괜찮습니다. 상대의 반응을 기다리며 내 마음을 소모하기보다, 지금 곁에서 따뜻하게 안부를 묻는 사람을 더 소중히 바라보세요. 연락이 오지 않는다고 내 가치가 줄어드는 것은 아닙니다. 편안한 관계는 애써 확인하지 않아도 오래 남습니다.",
+      "voiceName": "Charon", "bgm": "music/life-margin/relationships-no-contact-001.mp3", "bgmPrompt": "soft contemplative instrumental with warm piano, muted nylon guitar and a slow airy pad; reassuring and clear, no percussion, no sadness swell",
+      "scenes": [
+        {"narration":"먼저 연락하지 않는 사람을 보며 내가 중요하지 않은가 생각할 때가 있습니다.","asset":"no-contact-phone-001.png"},
+        {"narration":"하지만 연락의 횟수가 마음의 크기를 모두 말해주는 것은 아닙니다.","asset":"no-contact-window-002.png"},
+        {"narration":"각자의 삶이 바쁘고 표현하는 방식도 다릅니다.","asset":"no-contact-city-003.png"},
+        {"narration":"늘 나만 연락하는 관계가 지친다면 잠시 멈추어도 괜찮습니다.","asset":"no-contact-bench-004.png"},
+        {"narration":"상대의 반응을 기다리며 내 마음을 소모하기보다, 지금 곁에서 따뜻하게 안부를 묻는 사람을 더 소중히 바라보세요.","asset":"no-contact-teacups-005.png"},
+        {"narration":"연락이 오지 않는다고 내 가치가 줄어드는 것은 아닙니다. 편안한 관계는 애써 확인하지 않아도 오래 남습니다.","asset":"no-contact-lights-006.png"}
+      ],
+      "youtubeTitle": "연락 없는 사람에게 서운해하지 않아도 되는 이유 | 인간관계 #shorts",
+      "youtubeDescription": "연락의 횟수가 마음의 크기나 나의 가치를 모두 결정하지는 않습니다. 지치지 않는 편안한 관계를 생각해봅니다.\n\n삶의 여백은 인생 후반에 필요한 작은 지혜를 전합니다.\n\n#인간관계 #연락 #마음공부 #인생조언 #shorts",
+      "youtubeTags": ["연락 없는 사람", "인간 관계", "서운한 마음", "관계 스트레스", "마음 공부", "인생 조언", "시니어", "삶의 여백", "shorts"]
+    }
+  ]
+}

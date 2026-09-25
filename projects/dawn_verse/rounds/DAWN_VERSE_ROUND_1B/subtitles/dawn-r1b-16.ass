@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1
+Style: Hook,AppleMyungjo,94,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Caption,AppleMyungjo,82,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1
+Style: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:14.91,Brand,,0,0,0,,새벽한구절
+Dialogue: 0,0:00:00.00,0:01:14.91,Footer,,0,0,0,,매일 새벽 5시 · 하루를 여는 말씀 한 구절
+Dialogue: 3,0:00:00.00,0:01:14.91,Reference,,0,0,0,,{\an3\pos(980,1725)}오늘의 말씀 · 요한일서 1:9
+Dialogue: 1,0:00:00.70,0:00:05.35,Hook,,0,0,0,,숨길수록 마음이 더\N무거워지는 일이 있나요?
+Dialogue: 1,0:00:05.35,0:00:08.64,Caption,,0,0,0,,만일 우리가 우리\N죄를 자백하면
+Dialogue: 1,0:00:08.64,0:00:13.09,Caption,,0,0,0,,고백은 잘못을 작게 만드는\N말이 아닙니다.
+Dialogue: 1,0:00:13.09,0:00:16.18,Caption,,0,0,0,,내가 한 일을\N정확히 인정하고
+Dialogue: 1,0:00:16.18,0:00:20.44,Caption,,0,0,0,,하나님 앞에서 빛으로 나오는\N용기입니다.
+Dialogue: 1,0:00:20.44,0:00:24.51,Caption,,0,0,0,,용서는 책임을 피하는\N핑계도 아닙니다.
+Dialogue: 1,0:00:24.51,0:00:29.54,Caption,,0,0,0,,사과해야 할 사람이 있다면\N변명 없이 사과하고,
+Dialogue: 1,0:00:29.54,0:00:34.96,Caption,,0,0,0,,돌려놓아야 할 것이 있다면\N가능한 방법을 찾으세요.
+Dialogue: 1,0:00:34.96,0:00:37.28,Caption,,0,0,0,,혼자 감당하기 어렵다면
+Dialogue: 1,0:00:37.28,0:00:42.90,Caption,,0,0,0,,신뢰할 수 있는 목회자나\N상담자에게 도움을 구하세요.
+Dialogue: 1,0:00:42.90,0:00:46.96,Caption,,0,0,0,,회복은 정직한 한 걸음에서\N시작됩니다.
+Dialogue: 1,0:00:46.96,0:00:52.77,Caption,,0,0,0,,하나님, 잘못을 숨기고 싶은\N두려움을 이기게 해주세요.
+Dialogue: 1,0:00:52.77,0:00:55.48,Caption,,0,0,0,,제 죄를 정직하게 고백하고
+Dialogue: 1,0:00:55.48,0:00:59.35,Caption,,0,0,0,,필요한 책임을 피하지\N않게 해주세요.
+Dialogue: 1,0:00:59.35,0:01:02.64,Caption,,0,0,0,,용서의 은혜 안에서\N같은 잘못을
+Dialogue: 1,0:01:02.64,0:01:06.70,Caption,,0,0,0,,반복하지 않는 새 길을\N걷게 해주세요.
+Dialogue: 1,0:01:07.60,0:01:07.97,Caption,,0,0,0,,아멘.
+Dialogue: 1,0:01:09.17,0:01:14.33,Caption,,0,0,0,,오늘 하나님 앞에서 숨김없이\N한 가지를 고백해 보세요.
