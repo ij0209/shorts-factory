@@ -1,6 +1,5 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-25T07:26:45.039Z",
   "summary": {
     "total": 110,
     "byChannel": {
@@ -2317,5 +2316,6 @@
         "format": null
       }
     }
-  ]
+  ],
+  "generatedAt": "2026-09-25T07:26:45.039Z"
 }

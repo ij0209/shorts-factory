@@ -75,9 +75,8 @@ const records = catalog.map((entry) => {
   };
 });
 
-const document = {
+const catalogBody = {
   version: 1,
-  generatedAt: new Date().toISOString(),
   summary: {
     total: records.length,
     byChannel: countBy(records, 'channel'),
@@ -90,6 +89,9 @@ const document = {
 
 const outputPath = path.join(rootDir, 'data', 'content-catalog.json');
 const temporaryPath = `${outputPath}.tmp`;
+const existing = await readJson(outputPath, null);
+const unchanged = existing && JSON.stringify({ version:existing.version, summary:existing.summary, records:existing.records }) === JSON.stringify(catalogBody);
+const document = { ...catalogBody, generatedAt: unchanged ? existing.generatedAt : new Date().toISOString() };
 await mkdir(path.dirname(outputPath), { recursive: true });
 await writeFile(temporaryPath, `${JSON.stringify(document, null, 2)}\n`, 'utf8');
 await rename(temporaryPath, outputPath);
