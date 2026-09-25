@@ -9,6 +9,8 @@
     "generate:life-margin": "node src/index.js --content-type=life-margin",
     "generate:dawn-verse": "node scripts/generateDawnVerseRound.js",
     "generate:voice:dawn-verse": "node scripts/generateDawnVerseVoices.js",
+    "align:captions:dawn-verse": "node scripts/alignDawnVerseCaptions.js",
+    "sync:amen:dawn-verse": "node scripts/syncDawnAmenCaptions.js",
     "generate:music:dawn-verse": "node scripts/generateDawnVerseMusic.js",
     "youtube:plan:dawn-verse": "node src/youtube/cli.js plan --channel=dawn-verse --experiment-id=DAWN_VERSE_ROUND_1A",
     "youtube:auth:dawn-verse": "node src/youtube/cli.js auth --channel=dawn-verse",

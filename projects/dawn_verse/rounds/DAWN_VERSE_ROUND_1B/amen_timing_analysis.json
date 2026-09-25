@@ -2,72 +2,72 @@
   "items": [
     {
       "id": "dawn-r1b-11",
-      "prayerEnd": 54.6,
-      "amenStart": 56.28,
-      "ctaStart": 58.21,
+      "prayerEnd": 65.15,
+      "amenStart": 66.01,
+      "ctaStart": 68.58,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-12",
       "prayerEnd": 62.13,
-      "amenStart": 63.46,
+      "amenStart": 63.01,
       "ctaStart": null,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-13",
-      "prayerEnd": 66.66,
-      "amenStart": 67.91,
-      "ctaStart": 69.91,
+      "prayerEnd": 66.45,
+      "amenStart": 67.3,
+      "ctaStart": 69.85,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-14",
-      "prayerEnd": 57.8,
-      "amenStart": 59.18,
-      "ctaStart": 61.07,
+      "prayerEnd": 57.9,
+      "amenStart": 58.75,
+      "ctaStart": 60.95,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-15",
-      "prayerEnd": 58.74,
-      "amenStart": 60.08,
+      "prayerEnd": 58.7,
+      "amenStart": 59.6,
       "ctaStart": null,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-16",
-      "prayerEnd": 65.47,
-      "amenStart": 66.84,
-      "ctaStart": 68.89,
+      "prayerEnd": 65.7,
+      "amenStart": 66.5,
+      "ctaStart": 68.8,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-17",
-      "prayerEnd": 67.82,
-      "amenStart": 69.28,
+      "prayerEnd": 67.75,
+      "amenStart": 68.6,
       "ctaStart": null,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-18",
-      "prayerEnd": 69.11,
-      "amenStart": 70.37,
-      "ctaStart": 72.39,
+      "prayerEnd": 69.1,
+      "amenStart": 69.95,
+      "ctaStart": 72.3,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-19",
-      "prayerEnd": 64.49,
-      "amenStart": 65.77,
-      "ctaStart": 67.72,
+      "prayerEnd": 64.7,
+      "amenStart": 65.55,
+      "ctaStart": 67.8,
       "spokenAmen": true
     },
     {
       "id": "dawn-r1b-20",
-      "prayerEnd": 57.75,
-      "amenStart": 59.11,
-      "ctaStart": 61.07,
+      "prayerEnd": 57.65,
+      "amenStart": 58.5,
+      "ctaStart": 60.8,
       "spokenAmen": true
     }
   ]

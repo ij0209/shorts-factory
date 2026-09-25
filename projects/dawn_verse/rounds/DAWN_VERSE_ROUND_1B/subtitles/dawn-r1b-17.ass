@@ -7,8 +7,10 @@ WrapStyle: 2
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1
-Style: Hook,AppleMyungjo,94,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
-Style: Caption,AppleMyungjo,82,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Hook,AppleMyungjo,88,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Verse,AppleMyungjo,84,&H00F2E0B6,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.0,2,5,88,88,0,1
+Style: Section,AppleMyungjo,38,&H00F2E0B6,&H000000FF,&H00141E28,&H90141E28,-1,0,0,0,100,100,2,0,3,1,0,5,20,20,0,1
+Style: Caption,AppleMyungjo,76,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
 Style: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1
 Style: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1
 
@@ -17,18 +19,17 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:01:11.12,Brand,,0,0,0,,새벽한구절
 Dialogue: 0,0:00:00.00,0:01:11.12,Footer,,0,0,0,,매일 새벽 5시 · 하루를 여는 말씀 한 구절
 Dialogue: 3,0:00:00.00,0:01:11.12,Reference,,0,0,0,,{\an3\pos(980,1725)}오늘의 말씀 · 로마서 12:18
-Dialogue: 1,0:00:00.70,0:00:05.00,Hook,,0,0,0,,관계를 살리려고 혼자만\N애쓰다 지쳤나요?
-Dialogue: 1,0:00:05.00,0:00:10.87,Caption,,0,0,0,,할 수 있거든 너희로서는\N모든 사람으로\N더불어 평화하라
-Dialogue: 1,0:00:10.87,0:00:14.19,Caption,,0,0,0,,말씀은 평화를\N소중히 여기지만,
-Dialogue: 1,0:00:14.19,0:00:20.45,Caption,,0,0,0,,한 사람이 모든 관계를\N통제할 수 있다고\N말하지 않습니다.
-Dialogue: 1,0:00:20.45,0:00:26.31,Caption,,0,0,0,,내 몫은 진실하게 사과하고,\N존중하며 대화를 제안하고,
-Dialogue: 1,0:00:26.31,0:00:30.03,Caption,,0,0,0,,해치려는 마음을\N내려놓는 것입니다.
-Dialogue: 1,0:00:30.03,0:00:34.13,Caption,,0,0,0,,상대의 선택까지 대신할\N수는 없습니다.
-Dialogue: 1,0:00:34.13,0:00:38.83,Caption,,0,0,0,,반복되는 폭력이나 모욕\N앞에서는 거리를 두고
-Dialogue: 1,0:00:38.83,0:00:42.93,Caption,,0,0,0,,안전한 도움을 구하는 것도\N필요합니다.
-Dialogue: 1,0:00:42.93,0:00:49.58,Caption,,0,0,0,,할 수 있는 몫을 다한\N뒤에는 결과를 하나님께\N맡겨도 됩니다.
-Dialogue: 1,0:00:49.58,0:00:52.90,Caption,,0,0,0,,하나님,\N화해를 위해 제가 해야
-Dialogue: 1,0:00:52.90,0:00:56.42,Caption,,0,0,0,,할 일을 외면하지\N않게 해주세요.
-Dialogue: 1,0:00:56.42,0:01:02.68,Caption,,0,0,0,,동시에 제가 바꿀 수 없는\N것까지 짊어지지\N않게 해주세요.
-Dialogue: 1,0:01:02.68,0:01:09.33,Caption,,0,0,0,,지혜로운 경계와 미움 없는\N마음으로 평화를\N선택하게 해주세요.
-Dialogue: 1,0:01:10.23,0:01:10.47,Caption,,0,0,0,,아멘.
+Dialogue: 2,0:00:04.90,0:00:11.20,Section,,0,0,0,,{\an5\pos(540,720)}말씀
+Dialogue: 2,0:00:11.83,0:00:47.79,Section,,0,0,0,,{\an5\pos(540,720)}묵상
+Dialogue: 2,0:00:49.84,0:01:08.65,Section,,0,0,0,,{\an5\pos(540,720)}기도
+Dialogue: 1,0:00:01.45,0:00:04.46,Hook,,0,0,0,,관계를 살리려고\N혼자만\N애쓰다 지쳤나요?
+Dialogue: 1,0:00:04.90,0:00:11.20,Verse,,0,0,0,,할 수 있거든 너희로서는\N모든 사람으로 더불어 평화하라
+Dialogue: 1,0:00:11.83,0:00:19.62,Caption,,0,0,0,,말씀은 평화를 소중히 여기지만,\N한 사람이 모든 관계를 통제할 수\N있다고 말하지 않습니다.
+Dialogue: 1,0:00:20.17,0:00:29.38,Caption,,0,0,0,,내 몫은 진실하게 사과하고,\N존중하며 대화를 제안하고,\N해치려는 마음을\N내려놓는 것입니다.
+Dialogue: 1,0:00:29.81,0:00:33.62,Caption,,0,0,0,,상대의 선택까지 대신할\N수는 없습니다.
+Dialogue: 1,0:00:34.15,0:00:41.91,Caption,,0,0,0,,반복되는 폭력이나 모욕 앞에서는\N거리를 두고 안전한 도움을 구하는\N것도 필요합니다.
+Dialogue: 1,0:00:42.61,0:00:47.79,Caption,,0,0,0,,할 수 있는 몫을 다한 뒤에는\N결과를 하나님께 맡겨도 됩니다.
+Dialogue: 1,0:00:49.84,0:00:56.29,Caption,,0,0,0,,하나님, 화해를 위해 제가 해야\N할 일을 외면하지 않게 해주세요.
+Dialogue: 1,0:00:56.76,0:01:01.94,Caption,,0,0,0,,동시에 제가 바꿀 수 없는 것까지\N짊어지지 않게 해주세요.
+Dialogue: 1,0:01:02.97,0:01:08.65,Caption,,0,0,0,,지혜로운 경계와 미움 없는\N마음으로 평화를\N선택하게 해주세요.
+Dialogue: 1,0:01:09.30,0:01:10.47,Caption,,0,0,0,,아멘.

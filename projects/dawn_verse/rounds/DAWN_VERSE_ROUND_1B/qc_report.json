@@ -25,10 +25,14 @@
       {
         "check": "brand_voice",
         "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
+        "pass": true
       }
     ],
     "voiceEngine": "gemini-charon-pastor-approved-v6",
-    "duration": 63.4
+    "duration": 74.433333
   },
   "dawn-r1b-12": {
     "id": "dawn-r1b-12",
@@ -55,6 +59,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -87,6 +95,10 @@
       {
         "check": "brand_voice",
         "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
+        "pass": true
       }
     ],
     "voiceEngine": "gemini-charon-pastor-approved-v6",
@@ -117,6 +129,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -149,6 +165,10 @@
       {
         "check": "brand_voice",
         "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
+        "pass": true
       }
     ],
     "voiceEngine": "gemini-charon-pastor-approved-v6",
@@ -179,6 +199,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -211,6 +235,10 @@
       {
         "check": "brand_voice",
         "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
+        "pass": true
       }
     ],
     "voiceEngine": "gemini-charon-pastor-approved-v6",
@@ -241,6 +269,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -273,6 +305,10 @@
       {
         "check": "brand_voice",
         "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
+        "pass": true
       }
     ],
     "voiceEngine": "gemini-charon-pastor-approved-v6",
@@ -303,6 +339,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],

@@ -1,0 +1,93 @@
+[
+  {
+    "type": "hook",
+    "text": "숨길수록 마음이 더 무거워지는 일이 있나요?",
+    "start": 0.7,
+    "end": 4.13,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "만일 우리가 우리 죄를 자백하면",
+    "start": 5.920000000000001,
+    "end": 9.85,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "고백은 잘못을 작게 만드는 말이 아닙니다.",
+    "start": 10.969999999999999,
+    "end": 15.28,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "내가 한 일을 정확히 인정하고 하나님 앞에서 빛으로 나오는 용기입니다.",
+    "start": 15.919999999999998,
+    "end": 22.459999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "용서는 책임을 피하는 핑계도 아닙니다. 사과해야 할 사람이 있다면 변명 없이 사과하고,",
+    "start": 23.060000000000002,
+    "end": 31.459999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "돌려놓아야 할 것이 있다면 가능한 방법을 찾으세요.",
+    "start": 31.82,
+    "end": 35.9,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "혼자 감당하기 어렵다면 신뢰할 수 있는 목회자나 상담자에게 도움을 구하세요.",
+    "start": 36.52,
+    "end": 42.88,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "회복은 정직한 한 걸음에서 시작됩니다.",
+    "start": 43.46,
+    "end": 47,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 잘못을 숨기고 싶은 두려움을 이기게 해주세요.",
+    "start": 48.42,
+    "end": 53.660000000000004,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "제 죄를 정직하게 고백하고 필요한 책임을 피하지 않게 해주세요.",
+    "start": 54.160000000000004,
+    "end": 59.980000000000004,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "용서의 은혜 안에서 같은 잘못을 반복하지 않는 새 길을 걷게 해주세요.",
+    "start": 60.42,
+    "end": 66.43,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 67.2,
+    "end": 69.32,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "오늘 하나님 앞에서 숨김없이 한 가지를 고백해 보세요.",
+    "start": 69.5,
+    "end": 74.14,
+    "alignment": "gemini-audio-verified"
+  }
+]

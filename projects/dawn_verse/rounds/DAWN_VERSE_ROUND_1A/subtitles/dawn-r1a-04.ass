@@ -7,8 +7,10 @@ WrapStyle: 2
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1
-Style: Hook,AppleMyungjo,94,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
-Style: Caption,AppleMyungjo,84,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Hook,AppleMyungjo,88,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
+Style: Verse,AppleMyungjo,84,&H00F2E0B6,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.0,2,5,88,88,0,1
+Style: Section,AppleMyungjo,38,&H00F2E0B6,&H000000FF,&H00141E28,&H90141E28,-1,0,0,0,100,100,2,0,3,1,0,5,20,20,0,1
+Style: Caption,AppleMyungjo,76,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1
 Style: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1
 Style: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1
 
@@ -17,14 +19,12 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:35.81,Brand,,0,0,0,,새벽한구절
 Dialogue: 0,0:00:00.00,0:00:35.81,Footer,,0,0,0,,매일 새벽 5시 · 하루를 여는 말씀 한 구절
 Dialogue: 3,0:00:00.00,0:00:35.81,Reference,,0,0,0,,{\an3\pos(980,1725)}오늘의 말씀 · 고린도전서 15:58
-Dialogue: 1,0:00:00.70,0:00:04.81,Hook,,0,0,0,,애썼는데 결과가\N보이지 않나요?
-Dialogue: 1,0:00:04.81,0:00:07.72,Caption,,0,0,0,,너희 수고가 주 안에서
-Dialogue: 1,0:00:07.72,0:00:11.10,Caption,,0,0,0,,헛되지 않은\N줄을 앎이니라
-Dialogue: 1,0:00:11.10,0:00:14.73,Caption,,0,0,0,,말씀은\N모든 일이 성공한다고
-Dialogue: 1,0:00:14.73,0:00:17.15,Caption,,0,0,0,,약속하지 않습니다.
-Dialogue: 1,0:00:17.15,0:00:20.54,Caption,,0,0,0,,다만 주\N안에서 한 수고의
-Dialogue: 1,0:00:20.54,0:00:24.41,Caption,,0,0,0,,가치를 지워\N버리지 않습니다.
-Dialogue: 1,0:00:24.41,0:00:27.55,Caption,,0,0,0,,하나님,\N결과만으로 저를
-Dialogue: 1,0:00:27.55,0:00:30.70,Caption,,0,0,0,,판단하지\N않게 해주세요.
-Dialogue: 1,0:00:30.70,0:00:34.08,Caption,,0,0,0,,다시 성실할\N힘을 주세요.
-Dialogue: 1,0:00:34.98,0:00:35.18,Caption,,0,0,0,,아멘.
+Dialogue: 2,0:00:05.39,0:00:11.06,Section,,0,0,0,,{\an5\pos(540,720)}말씀
+Dialogue: 2,0:00:13.42,0:00:24.33,Section,,0,0,0,,{\an5\pos(540,720)}묵상
+Dialogue: 2,0:00:26.39,0:00:34.06,Section,,0,0,0,,{\an5\pos(540,720)}기도
+Dialogue: 1,0:00:00.80,0:00:03.59,Hook,,0,0,0,,애썼는데 결과가\N보이지 않나요?
+Dialogue: 1,0:00:05.39,0:00:11.06,Verse,,0,0,0,,너희 수고가 주 안에서 헛되지\N않은 줄을 앎이니라
+Dialogue: 1,0:00:13.42,0:00:18.43,Caption,,0,0,0,,말씀은 모든 일이 성공한다고\N약속하지 않습니다.
+Dialogue: 1,0:00:18.88,0:00:24.33,Caption,,0,0,0,,다만 주 안에서 한 수고의 가치를\N지워 버리지 않습니다.
+Dialogue: 1,0:00:26.39,0:00:34.06,Caption,,0,0,0,,하나님, 결과만으로 저를 판단하지\N않게 해주세요. 다시 성실할\N힘을 주세요.
+Dialogue: 1,0:00:34.65,0:00:35.16,Caption,,0,0,0,,아멘.

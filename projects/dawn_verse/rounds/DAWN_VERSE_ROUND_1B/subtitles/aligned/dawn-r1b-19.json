@@ -1,0 +1,93 @@
+[
+  {
+    "type": "hook",
+    "text": "힘들다고 말하면 짐이 될까 봐 혼자 버티고 있나요?",
+    "start": 1.4699999999999998,
+    "end": 5.73,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "너희가 짐을 서로 지라",
+    "start": 7.6000000000000005,
+    "end": 10,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "도움을 구하는 것은 믿음이 약하다는 뜻이 아닙니다.",
+    "start": 12.87,
+    "end": 18.279999999999998,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "하나님은 우리가 서로의 짐을 나누도록 공동체를 주셨습니다. 모든 사람에게 다 말할 필요는 없지만,",
+    "start": 18.89,
+    "end": 27.249999999999996,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "믿을 만한 한 사람에게 지금의 상태를 구체적으로 알려보세요.",
+    "start": 27.490000000000002,
+    "end": 32.62,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "들어달라는 것인지, 함께 기도해 달라는 것인지,",
+    "start": 33.04,
+    "end": 36.99,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "실제 도움이 필요한지 말하면 상대도 손을 내밀기 쉽습니다.",
+    "start": 37.2,
+    "end": 42.5,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "혼자 버티는 것이 언제나 강함은 아닙니다.",
+    "start": 42.97,
+    "end": 46.99,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 괜찮은 척하며 숨었던 제 마음에 용기를 주세요.",
+    "start": 49.71,
+    "end": 55.06,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "믿을 만한 사람을 분별하고 필요한 도움을 솔직히 구하게 해주세요.",
+    "start": 55.38,
+    "end": 61.14,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "저도 누군가의 짐을 판단 없이 함께 지는 사람이 되게 해주세요.",
+    "start": 61.31,
+    "end": 66.13,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 66.25,
+    "end": 68.32,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "오늘 믿을 만한 한 사람에게 먼저 연락해 보세요.",
+    "start": 68.5,
+    "end": 72.58999999999999,
+    "alignment": "gemini-audio-verified"
+  }
+]

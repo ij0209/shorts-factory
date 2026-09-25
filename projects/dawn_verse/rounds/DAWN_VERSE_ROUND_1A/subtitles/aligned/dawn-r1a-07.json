@@ -1,0 +1,44 @@
+[
+  {
+    "type": "hook",
+    "text": "쉬면 안 될 것 같아 더 지쳤나요?",
+    "start": 0.9899999999999998,
+    "end": 4.6,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "수고하고 무거운 짐진 자들아 ! 다 내게로 오라 내가 너희를 쉬게 하리라",
+    "start": 6.2700000000000005,
+    "end": 15.28,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "쉼은 모든 일을 끝낸 사람만 누리는 상이 아닙니다. 오늘 짧게라도 숨을 고를 자리를 만드세요.",
+    "start": 17.12,
+    "end": 28.13,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "예수님, 지친 마음을 숨기지 않게 해주세요. 멈춰 쉴 용기를 주세요.",
+    "start": 29.92,
+    "end": 38.06,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 38.35,
+    "end": 39.620000000000005,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "내일 새벽 5시에 다시 만나요.",
+    "start": 39.800000000000004,
+    "end": 42.230000000000004,
+    "alignment": "gemini-audio-verified"
+  }
+]

@@ -18,6 +18,7 @@ const historyPath = path.join(project, 'history/content_history.json');
 const metadataPath = path.join(roundDir, 'experiment_metadata.json');
 const reportPath = path.join(roundDir, 'qc_report.json');
 const timingPath = path.join(roundDir, 'audio_timing.json');
+const alignedDir = path.join(roundDir, 'subtitles/aligned');
 const assetsRoot = path.join(root, 'assets/broll/dawn-verse');
 const outputDir = path.join(root, 'output/dawn-verse');
 const bgmFile = roundName === 'DAWN_VERSE_ROUND_1B'
@@ -25,12 +26,20 @@ const bgmFile = roundName === 'DAWN_VERSE_ROUND_1B'
   : 'music/dawn-verse/morning-ambient-001.mp3';
 const introPause = 0.7;
 const onlyId = args.find((arg) => arg.startsWith('--id='))?.slice(5);
+const prepareSubtitlesOnly = args.includes('--prepare-subtitles-only');
 
 async function exists(file) { try { await access(file); return true; } catch { return false; } }
 function compact(text) { return text.replaceAll(/\s+/g, ' ').trim(); }
 function chunks(text, limit = 24) {
-  return (compact(text).match(/[^.!?。！？]+[.!?。！？]?/g) || [text])
-    .flatMap((sentence) => splitCaptionChunks(compact(sentence), Math.max(18, limit - 2), limit));
+  const sentences = compact(text).match(/[^.!?。！？]+[.!?。！？]?/g) || [text];
+  const pieces = sentences.flatMap((sentence) => splitCaptionChunks(compact(sentence), Math.max(24, limit - 4), limit));
+  const grouped = [];
+  for (const piece of pieces) {
+    const combined = grouped.length ? `${grouped.at(-1)} ${piece}` : piece;
+    if (grouped.length && [...combined].length <= limit) grouped[grouped.length - 1] = combined;
+    else grouped.push(piece);
+  }
+  return grouped;
 }
 function parts(content) {
   const prayerWithoutAmen = content.prayer.replace(/\s*아멘[.!。！]?\s*$/, '').trim();
@@ -57,7 +66,7 @@ function weightedCaptions(items, duration, start) {
   });
 }
 function captionsFor(blocks, duration, timing, start = 0.2) {
-  const items = blocks.flatMap(({ type, text }) => chunks(text, type === 'hook' ? 29 : type === 'amen' ? 12 : 34).map((part) => ({ type, text: part })));
+  const items = blocks.flatMap(({ type, text }) => chunks(text, type === 'hook' ? 29 : type === 'amen' ? 12 : 54).map((part) => ({ type, text: part })));
   if (!timing) return weightedCaptions(items, duration, start);
   const bodyItems = items.filter(({ type }) => !['amen', 'cta'].includes(type));
   const amenItems = items.filter(({ type }) => type === 'amen');
@@ -70,12 +79,21 @@ function captionsFor(blocks, duration, timing, start = 0.2) {
     ...weightedCaptions(ctaItems, timing.ctaDuration, ctaStart),
   ];
 }
+async function alignedCaptionsFor(contentId, expected) {
+  const file = path.join(alignedDir, `${contentId}.json`);
+  if (!await exists(file)) return null;
+  const aligned = JSON.parse(await readFile(file, 'utf8'));
+  if (aligned.length !== expected.length || aligned.some((item, index) => item.text !== expected[index].text || item.type !== expected[index].type || item.alignment !== 'gemini-audio-verified')) {
+    throw new Error('실제 음성 정렬 자막이 현재 원고와 일치하지 않습니다. 자막 정렬을 다시 실행하세요.');
+  }
+  return aligned;
+}
 function assTime(seconds) {
   const cs = Math.round(seconds * 100);
   return `${Math.floor(cs / 360000)}:${String(Math.floor(cs / 6000) % 60).padStart(2, '0')}:${String(Math.floor(cs / 100) % 60).padStart(2, '0')}.${String(cs % 100).padStart(2, '0')}`;
 }
 function assSafe(value) { return value.replaceAll('\\', '／').replaceAll('{', '（').replaceAll('}', '）'); }
-function assWrap(value, max = 15) {
+function assWrap(value, max = 18) {
   return assSafe(wrapKoreanCaption(value, max)).replaceAll('\n', '\\N');
 }
 function makeAss(captions, reference, duration) {
@@ -84,11 +102,16 @@ function makeAss(captions, reference, duration) {
     `Dialogue: 0,${assTime(0)},${assTime(duration)},Footer,,0,0,0,,매일 새벽 5시 · 하루를 여는 말씀 한 구절`,
     `Dialogue: 3,${assTime(0)},${assTime(duration)},Reference,,0,0,0,,{\\an3\\pos(980,1725)}오늘의 말씀 · ${assSafe(reference)}`,
   ];
-  for (const caption of captions) {
-    const style = caption.type === 'hook' ? 'Hook' : 'Caption';
-    events.push(`Dialogue: 1,${assTime(caption.start)},${assTime(caption.end)},${style},,0,0,0,,${assWrap(caption.text)}`);
+  const labels = { verse: '말씀', reflection: '묵상', prayer: '기도' };
+  for (const [type, label] of Object.entries(labels)) {
+    const section = captions.filter((caption) => caption.type === type);
+    if (section.length) events.push(`Dialogue: 2,${assTime(section[0].start)},${assTime(section.at(-1).end)},Section,,0,0,0,,{\\an5\\pos(540,720)}${label}`);
   }
-  return `[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\nWrapStyle: 2\n\n[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\nStyle: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1\nStyle: Hook,AppleMyungjo,94,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1\nStyle: Caption,AppleMyungjo,82,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1\nStyle: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1\nStyle: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1\n\n[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n${events.join('\n')}\n`;
+  for (const caption of captions) {
+    const style = caption.type === 'hook' ? 'Hook' : caption.type === 'verse' ? 'Verse' : 'Caption';
+    events.push(`Dialogue: 1,${assTime(caption.start)},${assTime(caption.end)},${style},,0,0,0,,${assWrap(caption.text, caption.type === 'hook' ? 10 : 18)}`);
+  }
+  return `[Script Info]\nScriptType: v4.00+\nPlayResX: 1080\nPlayResY: 1920\nWrapStyle: 2\n\n[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\nStyle: Brand,AppleMyungjo,49,&H00F7FAFF,&H000000FF,&H00141E28,&H800C1720,-1,0,0,0,100,100,2,0,1,0,2,7,76,76,130,1\nStyle: Hook,AppleMyungjo,88,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1\nStyle: Verse,AppleMyungjo,84,&H00F2E0B6,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.0,2,5,88,88,0,1\nStyle: Section,AppleMyungjo,38,&H00F2E0B6,&H000000FF,&H00141E28,&H90141E28,-1,0,0,0,100,100,2,0,3,1,0,5,20,20,0,1\nStyle: Caption,AppleMyungjo,76,&H00FFFFFF,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,1.2,2,5,95,95,0,1\nStyle: Reference,AppleMyungjo,44,&H00A6DAF8,&H000000FF,&H00141E28,&H00000000,-1,0,0,0,100,100,0,0,1,0.8,2,3,90,90,190,1\nStyle: Footer,AppleMyungjo,31,&H00F7FAFF,&H000000FF,&H00141E28,&H00000000,0,0,0,0,100,100,1,0,1,0.6,1,2,90,90,290,1\n\n[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n${events.join('\n')}\n`;
 }
 function duplicateErrors(contents, history) {
   const issues = [];
@@ -159,8 +182,13 @@ for (const content of source.contents.filter((item) => !onlyId || item.id === on
     }
     let audioDuration = await getAudioDuration(audioPath);
     if (audioDuration > durationRange[1] || audioDuration < durationRange[0]) throw new Error(`승인 범위를 벗어난 음성 길이: ${audioDuration.toFixed(1)}초`);
-    const captions = captionsFor(narrationBlocks, audioDuration, audioTiming[content.id], introPause);
-    await writeFile(path.join(roundDir, 'subtitles', `${content.id}.json`), JSON.stringify(captions, null, 2));
+    const estimatedCaptions = captionsFor(narrationBlocks, audioDuration, audioTiming[content.id], introPause);
+    await writeFile(path.join(roundDir, 'subtitles', `${content.id}.json`), JSON.stringify(estimatedCaptions, null, 2));
+    if (prepareSubtitlesOnly) {
+      console.log(`✓ ${content.id} 긴 문맥 자막 원본 ${estimatedCaptions.length}개 준비`);
+      continue;
+    }
+    const captions = await alignedCaptionsFor(content.id, estimatedCaptions) || estimatedCaptions;
     const assPath = path.join(roundDir, 'subtitles', `${content.id}.ass`);
     const totalDuration = audioDuration + introPause + 0.65;
     await writeFile(assPath, makeAss(captions, content.bible_reference, totalDuration));
@@ -175,6 +203,7 @@ for (const content of source.contents.filter((item) => !onlyId || item.id === on
       { check: 'audio_stream', pass: media.streams.some((s) => s.codec_type === 'audio') },
       { check: 'verse_source', pass: Boolean(content.verse_source && content.bible_text.includes(content.verse_excerpt)) },
       { check: 'brand_voice', pass: status.voiceEngine === 'gemini-charon-pastor-approved-v6' },
+      { check: 'caption_audio_alignment', pass: captions.every((item) => item.alignment === 'gemini-audio-verified') },
     ];
     const newEntry = {
       ...content, project: 'dawn_verse', generation_round: source.round, created_at: DateTime.now().toISO(),

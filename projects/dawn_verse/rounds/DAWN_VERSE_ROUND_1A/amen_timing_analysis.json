@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "id": "dawn-r1a-01",
+      "prayerEnd": 23.36,
+      "amenStart": 24.44,
+      "ctaStart": 25.9,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-02",
+      "prayerEnd": 26.6,
+      "amenStart": 27.65,
+      "ctaStart": null,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-03",
+      "prayerEnd": 30.2,
+      "amenStart": 31.25,
+      "ctaStart": 32.7,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-04",
+      "prayerEnd": 32.9,
+      "amenStart": 33.95,
+      "ctaStart": null,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-05",
+      "prayerEnd": 31.6,
+      "amenStart": 32.65,
+      "ctaStart": 34.1,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-06",
+      "prayerEnd": 30.4,
+      "amenStart": 31.45,
+      "ctaStart": null,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-07",
+      "prayerEnd": 36.6,
+      "amenStart": 37.65,
+      "ctaStart": 39.1,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-08",
+      "prayerEnd": 28,
+      "amenStart": 29.05,
+      "ctaStart": null,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-09",
+      "prayerEnd": 32.2,
+      "amenStart": 33.25,
+      "ctaStart": 34.7,
+      "spokenAmen": true
+    },
+    {
+      "id": "dawn-r1a-10",
+      "prayerEnd": 26.6,
+      "amenStart": 27.65,
+      "ctaStart": null,
+      "spokenAmen": true
+    }
+  ]
+}

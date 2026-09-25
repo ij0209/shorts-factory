@@ -1,0 +1,93 @@
+[
+  {
+    "type": "hook",
+    "text": "아무렇지 않은 척했지만",
+    "start": 0.81,
+    "end": 2.84,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "hook",
+    "text": "빈자리가 유난히 큰 아침인가요?",
+    "start": 2.84,
+    "end": 5.98,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "여호와는 마음이 상한 자에게 가까이 하시고",
+    "start": 6.140000000000001,
+    "end": 10.58,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "슬픔은 믿음이 부족하다는 증거가 아닙니다. 사랑했던 만큼 빈자리가 아픈 것은 당연합니다.",
+    "start": 11.559999999999999,
+    "end": 19.619999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "하나님은 빨리 괜찮아지라고 멀리서 재촉하지 않으시고, 상한 마음 가까이에 계신다고 말씀하십니다.",
+    "start": 20.44,
+    "end": 29.31,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "오늘 눈물이 나면 참지 않아도 됩니다.",
+    "start": 30.44,
+    "end": 34.02,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "그 사람을 기억하고, 믿을 만한 이에게 마음을 말하며, 하루에 필요한 만큼만 걸어가세요.",
+    "start": 34.64,
+    "end": 43.58,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "애도에도 시간이 필요합니다.",
+    "start": 44.14,
+    "end": 46.78,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 말로 다 설명할 수 없는 그리움 곁에 머물러 주세요.",
+    "start": 47.84,
+    "end": 54.38,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "제 눈물을 부끄러워하지 않게 하시고, 기억 속 사랑을 품으며 오늘을 견딜 힘을 주세요.",
+    "start": 55.14,
+    "end": 63.18,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "슬픔 속에서도 혼자가 아님을 알게 해주세요.",
+    "start": 63.84,
+    "end": 67.98,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 68,
+    "end": 70.36999999999999,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "오늘 떠오르는 고마운 기억 하나를 조용히 간직해 보세요.",
+    "start": 70.55,
+    "end": 74.99,
+    "alignment": "gemini-audio-verified"
+  }
+]

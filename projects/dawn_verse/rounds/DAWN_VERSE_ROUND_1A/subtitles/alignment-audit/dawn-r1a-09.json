@@ -1,0 +1,44 @@
+[
+  {
+    "index": 0,
+    "start": 0,
+    "end": 2.52,
+    "heard": true
+  },
+  {
+    "index": 1,
+    "start": 4.5,
+    "end": 6.88,
+    "heard": true
+  },
+  {
+    "index": 2,
+    "start": 8.52,
+    "end": 13.08,
+    "heard": true
+  },
+  {
+    "index": 3,
+    "start": 13.52,
+    "end": 20.48,
+    "heard": true
+  },
+  {
+    "index": 4,
+    "start": 22.12,
+    "end": 32.32,
+    "heard": true
+  },
+  {
+    "index": 5,
+    "start": 32.8,
+    "end": 33.95,
+    "heard": true
+  },
+  {
+    "index": 6,
+    "start": 34.52,
+    "end": 36.95,
+    "heard": true
+  }
+]

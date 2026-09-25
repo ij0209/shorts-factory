@@ -1,0 +1,44 @@
+[
+  {
+    "type": "hook",
+    "text": "일어나자마자 내일이 걱정되나요?",
+    "start": 1.29,
+    "end": 3.9800000000000004,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "내일 일을 위하여 염려하지 말라",
+    "start": 4.69,
+    "end": 8.2,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "내일의 무게까지 오늘 들지 않아도 됩니다. 지금 할 수 있는 한 걸음에 마음을 두세요.",
+    "start": 8.69,
+    "end": 16.33,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 앞서 달리는 마음을 붙잡아 주세요. 오늘의 한 걸음을 걷게 해주세요.",
+    "start": 16.740000000000002,
+    "end": 24.729999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 25.14,
+    "end": 26.419999999999998,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "내일 새벽 5시에 다시 만나요.",
+    "start": 26.599999999999998,
+    "end": 28.689999999999994,
+    "alignment": "gemini-audio-verified"
+  }
+]

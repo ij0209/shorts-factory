@@ -1,0 +1,51 @@
+[
+  {
+    "type": "hook",
+    "text": "아침인데 연락 한 통 없나요?",
+    "start": 0.7,
+    "end": 3.0999999999999996,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "거기서도 주의 손이 나를 인도하시며",
+    "start": 5.45,
+    "end": 8.979999999999999,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "사람의 소식이 없는 아침에도 하나님 앞에서 당신은 사라진 사람이 아닙니다.",
+    "start": 10.889999999999999,
+    "end": 18.159999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "오늘 한 사람에게 먼저 안부를 건네보세요.",
+    "start": 18.7,
+    "end": 22.58,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 적막한 마음을 아시지요. 오늘 누군가와 진심을 나눌 용기를 주세요.",
+    "start": 24.490000000000002,
+    "end": 32.86,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 33.35,
+    "end": 34.620000000000005,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "필요한 사람과 이 말씀을 나눠보세요.",
+    "start": 34.800000000000004,
+    "end": 38.13,
+    "alignment": "gemini-audio-verified"
+  }
+]

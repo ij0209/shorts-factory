@@ -1,0 +1,51 @@
+[
+  {
+    "type": "hook",
+    "text": "별일 없는 아침이 심심한가요?",
+    "start": 0.7,
+    "end": 3.3,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "범사에 감사하라 !",
+    "start": 5.140000000000001,
+    "end": 7.66,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "모든 상황이 좋다는 뜻은 아닙니다.",
+    "start": 9.159999999999998,
+    "end": 13.86,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "오늘 눈을 뜨고 마실 물이 있다는 작은 사실부터 알아차려 보세요.",
+    "start": 14.159999999999998,
+    "end": 21.259999999999998,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 익숙해서 놓친 선물을 보게 해주세요. 오늘 만날 사람에게 고마움을 표현하게 해주세요.",
+    "start": 22.76,
+    "end": 33.1,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 33.95,
+    "end": 35.220000000000006,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "내일도 한 구절로 시작하세요.",
+    "start": 35.400000000000006,
+    "end": 37.970000000000006,
+    "alignment": "gemini-audio-verified"
+  }
+]

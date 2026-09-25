@@ -1,0 +1,86 @@
+[
+  {
+    "type": "hook",
+    "text": "남의 소식을 보고 내 인생만 늦었다고 느꼈나요?",
+    "start": 0.7,
+    "end": 5.66,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "각각 자기의 일을 살피라",
+    "start": 5.94,
+    "end": 8.86,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "비교는 다른 사람의 가장 빛나는 장면과 내 가장 불안한 순간을 나란히 놓습니다.",
+    "start": 9.28,
+    "end": 17.259999999999998,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "그러면 이미 걸어온 길과 오늘 맡은 몫이 보이지 않습니다.",
+    "start": 17.84,
+    "end": 23.619999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "말씀은 남의 속도를 재기보다 자기의 일을 살피라고 합니다.",
+    "start": 24.150000000000002,
+    "end": 29.999999999999996,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "어제보다 조금 나아진 것, 끝까지 책임진 일, 포기하지 않은 마음을 돌아보세요.",
+    "start": 30.5,
+    "end": 37.82,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "하나님이 내게 맡기신 길은 다른 사람의 시간표로 평가할 수 없습니다.",
+    "start": 38.26,
+    "end": 44.42,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 비교하며 작아진 제 시선을 거두어 주세요.",
+    "start": 44.96,
+    "end": 49.4,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "남의 열매를 시기하지 않고 진심으로 축복하게 해주세요.",
+    "start": 49.6,
+    "end": 54.49,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "제게 맡기신 자리에서 성실히 한 걸음을 내딛게 해주세요.",
+    "start": 54.72,
+    "end": 59.330000000000005,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 59.45,
+    "end": 61.470000000000006,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "오늘 내가 충실할 한 가지에만 마음을 모아보세요.",
+    "start": 61.650000000000006,
+    "end": 65.77000000000001,
+    "alignment": "gemini-audio-verified"
+  }
+]

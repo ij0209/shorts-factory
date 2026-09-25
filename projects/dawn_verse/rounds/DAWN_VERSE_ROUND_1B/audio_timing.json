@@ -1,12 +1,12 @@
 {
   "dawn-r1b-11": {
-    "preAmenDuration": 55.5979,
+    "preAmenDuration": 65.8285,
     "amenPause": 0.9,
-    "amenStart": 56.4979,
-    "coreDuration": 56.832,
+    "amenStart": 66.72850000000001,
+    "coreDuration": 67.128,
     "ctaLeadIn": 1.2,
-    "ctaDuration": 4.08,
-    "totalDuration": 62.04
+    "ctaDuration": 4.824,
+    "totalDuration": 73.08
   },
   "dawn-r1b-12": {
     "preAmenDuration": 62.8502,

@@ -1,0 +1,44 @@
+[
+  {
+    "type": "hook",
+    "text": "애썼는데 결과가 보이지 않나요?",
+    "start": 0.8,
+    "end": 3.59,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "너희 수고가 주 안에서 헛되지 않은 줄을 앎이니라",
+    "start": 5.390000000000001,
+    "end": 11.059999999999999,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "말씀은 모든 일이 성공한다고 약속하지 않습니다.",
+    "start": 13.419999999999998,
+    "end": 18.429999999999996,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "다만 주 안에서 한 수고의 가치를 지워 버리지 않습니다.",
+    "start": 18.88,
+    "end": 24.33,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 결과만으로 저를 판단하지 않게 해주세요. 다시 성실할 힘을 주세요.",
+    "start": 26.39,
+    "end": 34.06,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 34.650000000000006,
+    "end": 35.164,
+    "alignment": "gemini-audio-verified"
+  }
+]

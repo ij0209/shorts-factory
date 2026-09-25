@@ -1,0 +1,44 @@
+[
+  {
+    "type": "hook",
+    "text": "자녀의 선택 때문에 밤을 설쳤다면.",
+    "start": 0.8599999999999999,
+    "end": 4.3,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "자식은 여호와의 주신 기업이요",
+    "start": 4.86,
+    "end": 7.74,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "자녀는 내 계획대로 움직일 대상이 아니라 맡겨진 소중한 사람입니다.",
+    "start": 8.54,
+    "end": 16.479999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "오늘은 답보다 먼저 이야기를 들어주세요.",
+    "start": 17.12,
+    "end": 20.979999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 아이를 두려움으로 붙잡지 않게 해주세요. 잘 듣는 부모가 되게 해주세요.",
+    "start": 21.52,
+    "end": 27.729999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 28.349999999999998,
+    "end": 29.5,
+    "alignment": "gemini-audio-verified"
+  }
+]

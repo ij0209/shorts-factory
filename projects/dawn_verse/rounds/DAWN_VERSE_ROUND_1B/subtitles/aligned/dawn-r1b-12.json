@@ -1,0 +1,79 @@
+[
+  {
+    "type": "hook",
+    "text": "검사 결과를 기다리며 자꾸 나쁜 생각만 드나요?",
+    "start": 0.7,
+    "end": 5.24,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "내가 두려워하는 날에는 주를 의지하리이다",
+    "start": 5.24,
+    "end": 10.649999999999999,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "성경은 믿는 사람에게 두려움이 없다고 말하지 않습니다.",
+    "start": 10.649999999999999,
+    "end": 16.049999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "시인은 두려워하는 바로 그날에 하나님을 의지하겠다고 고백합니다.",
+    "start": 16.049999999999997,
+    "end": 22.32,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "아직 결과를 모르기에 마음이 흔들리는 것은 자연스럽습니다.",
+    "start": 22.32,
+    "end": 27.97,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "그러나 확인되지 않은 최악의 장면을 오늘의 사실처럼 살 필요는 없습니다.",
+    "start": 27.97,
+    "end": 34.730000000000004,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "숨을 천천히 고르고, 진료받고, 필요한 도움을 구하며 지금 내 앞에 있는 하루를 살아가세요.",
+    "start": 34.730000000000004,
+    "end": 44.46,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 결과를 알 수 없어 흔들리는 제 마음을 붙들어 주세요.",
+    "start": 46.02,
+    "end": 52.06,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "상상 속의 두려움보다 오늘 주시는 힘을 바라보게 해주세요.",
+    "start": 52.06,
+    "end": 57.17,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "의료진에게 지혜를 주시고 어떤 결과 앞에서도 함께 걸어주세요.",
+    "start": 57.17,
+    "end": 62.86,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 63.71,
+    "end": 64.732,
+    "alignment": "gemini-audio-verified"
+  }
+]

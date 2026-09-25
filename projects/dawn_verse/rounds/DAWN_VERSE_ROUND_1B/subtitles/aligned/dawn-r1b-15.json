@@ -1,0 +1,79 @@
+[
+  {
+    "type": "hook",
+    "text": "오래 기도했는데 아무것도 달라지지 않은 것 같나요?",
+    "start": 0.7,
+    "end": 5.140000000000001,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "강하고 담대하며 여호와를 바랄지어다",
+    "start": 5.620000000000001,
+    "end": 10.729999999999999,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "기다린다는 것은 아무 일도 하지 않는 시간이 아닙니다.",
+    "start": 11.379999999999999,
+    "end": 16.709999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "답이 보이지 않을 때에도 마음이 무너지지 않도록 오늘 해야 할 순종을 이어가는 일입니다.",
+    "start": 17.12,
+    "end": 24.639999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "응답의 모양과 때를 내가 정해두면 침묵처럼 느껴질 수 있습니다.",
+    "start": 25.04,
+    "end": 30.909999999999997,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "기도한 뒤 살펴야 할 현실이 있다면 살피고, 만나야 할 사람이 있다면 만나세요.",
+    "start": 31.37,
+    "end": 38.13,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "기다림 속에서도 하나님은 우리를 더 깊고 단단하게 빚으십니다.",
+    "start": 38.53,
+    "end": 44.800000000000004,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 늦어지는 시간 속에서 낙심하지 않게 해주세요.",
+    "start": 45.230000000000004,
+    "end": 50.660000000000004,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "제가 정한 답만 고집하지 않고 주님의 인도를 분별하게 해주세요.",
+    "start": 51.12,
+    "end": 56.29,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "오늘 할 수 있는 순종을 놓치지 않는 담대함을 주세요.",
+    "start": 56.730000000000004,
+    "end": 60.25,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 60.300000000000004,
+    "end": 61.684000000000005,
+    "alignment": "gemini-audio-verified"
+  }
+]

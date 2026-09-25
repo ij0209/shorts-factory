@@ -1,0 +1,86 @@
+[
+  {
+    "type": "hook",
+    "text": "밤새 뒤척이다 무거운 몸으로 아침을 맞았나요?",
+    "start": 0.7,
+    "end": 5.0600000000000005,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "verse",
+    "text": "내가 평안히 눕고 자기도 하리니",
+    "start": 5.57,
+    "end": 9.34,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "잠을 이루지 못한 밤에는 작은 걱정도 훨씬 크게 들립니다.",
+    "start": 15.839999999999998,
+    "end": 21.679999999999996,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "오늘의 피곤함을 의지의 부족으로 몰아붙이지 마세요.",
+    "start": 22.44,
+    "end": 26.529999999999998,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "시편의 고백처럼 안전을 하나님께 맡기고, 몸이 보내는 신호도 정직하게 돌보아야 합니다.",
+    "start": 27.34,
+    "end": 35.38,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "가능한 일정을 조금 줄이고 햇빛을 보고 천천히 움직이세요.",
+    "start": 36.44,
+    "end": 41.980000000000004,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "reflection",
+    "text": "불면이 오래 이어지거나 일상을 무너뜨린다면 전문적인 도움을 받는 것도 지혜로운 선택입니다.",
+    "start": 42.74,
+    "end": 50.78,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "하나님, 밤새 깨어 있던 몸과 마음을 불쌍히 여겨 주세요.",
+    "start": 51.94,
+    "end": 57.28,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "통제할 수 없는 걱정을 주님께 맡기고 오늘 필요한 쉼을 허락하게 해주세요.",
+    "start": 57.94,
+    "end": 64.78,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "prayer",
+    "text": "제 몸을 지혜롭게 돌보며 다시 평안히 눕게 해주세요.",
+    "start": 65.44,
+    "end": 70.28,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "amen",
+    "text": "아멘.",
+    "start": 70.65,
+    "end": 72.82,
+    "alignment": "gemini-audio-verified"
+  },
+  {
+    "type": "cta",
+    "text": "오늘은 할 일을 하나 덜어내고 몸에 작은 쉼을 주세요.",
+    "start": 73,
+    "end": 77.84,
+    "alignment": "gemini-audio-verified"
+  }
+]

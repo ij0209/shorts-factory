@@ -7,7 +7,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-01.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -24,6 +24,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -38,7 +42,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-02.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -55,6 +59,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -69,7 +77,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-03.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -86,6 +94,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -100,7 +112,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-04.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -117,6 +129,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -131,7 +147,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-05.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -148,6 +164,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -162,7 +182,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-06.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -179,6 +199,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -193,7 +217,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-07.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -210,6 +234,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -224,7 +252,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-08.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -241,6 +269,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -255,7 +287,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-09.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -272,6 +304,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],
@@ -286,7 +322,7 @@
     "audioPath": "/Users/pictureon/Documents/shorts-factory/projects/dawn_verse/rounds/DAWN_VERSE_ROUND_1A/audio/dawn-r1a-10.mp3",
     "qc": [
       {
-        "check": "duration_22_45",
+        "check": "duration_22_45.8",
         "pass": true
       },
       {
@@ -303,6 +339,10 @@
       },
       {
         "check": "brand_voice",
+        "pass": true
+      },
+      {
+        "check": "caption_audio_alignment",
         "pass": true
       }
     ],

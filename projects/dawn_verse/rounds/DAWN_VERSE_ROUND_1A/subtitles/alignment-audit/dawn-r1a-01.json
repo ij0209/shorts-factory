@@ -1,0 +1,38 @@
+[
+  {
+    "index": 0,
+    "start": 0.65,
+    "end": 3.2,
+    "heard": true
+  },
+  {
+    "index": 1,
+    "start": 4.05,
+    "end": 7.42,
+    "heard": true
+  },
+  {
+    "index": 2,
+    "start": 8.05,
+    "end": 15.55,
+    "heard": true
+  },
+  {
+    "index": 3,
+    "start": 16.1,
+    "end": 23.95,
+    "heard": true
+  },
+  {
+    "index": 4,
+    "start": 24.7,
+    "end": 26.15,
+    "heard": true
+  },
+  {
+    "index": 5,
+    "start": 26.5,
+    "end": 28.45,
+    "heard": true
+  }
+]
